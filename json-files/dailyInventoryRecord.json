@@ -1,0 +1,5758 @@
+[{
+  "_id": {
+    "supplier_id": "W2",
+    "product_id": "HA2",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.4206283",
+    "latitude": "-2.6594717"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675271640000"
+        }
+      },
+      "inventory_quantity": "8"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST4",
+    "product_id": "FP11",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.47963953",
+    "latitude": "-2.22947498"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677658260000"
+        }
+      },
+      "inventory_quantity": "10"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST2",
+    "product_id": "FP10",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.46358531",
+    "latitude": "-2.230028949"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677667440000"
+        }
+      },
+      "inventory_quantity": "4"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "W2",
+    "product_id": "HA5",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.44268054",
+    "latitude": "-2.274296982"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677680580000"
+        }
+      },
+      "inventory_quantity": "8"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST5",
+    "product_id": "FP9",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.47137352",
+    "latitude": "-2.264171949"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675217400000"
+        }
+      },
+      "inventory_quantity": "5"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "W2",
+    "product_id": "B7",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.4206283",
+    "latitude": "-2.6594717"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675293240000"
+        }
+      },
+      "inventory_quantity": "2"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST2",
+    "product_id": "FP14",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.46358531",
+    "latitude": "-2.230028949"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677663600000"
+        }
+      },
+      "inventory_quantity": "2"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST3",
+    "product_id": "FP13",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.46668952",
+    "latitude": "-2.251321658"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677711120000"
+        }
+      },
+      "inventory_quantity": "2"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST5",
+    "product_id": "FP15",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.47137352",
+    "latitude": "-2.264171949"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677688020000"
+        }
+      },
+      "inventory_quantity": "2"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST3",
+    "product_id": "FP9",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.46668952",
+    "latitude": "-2.251321658"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675217700000"
+        }
+      },
+      "inventory_quantity": "1"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST5",
+    "product_id": "FP8",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.47137352",
+    "latitude": "-2.264171949"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675213020000"
+        }
+      },
+      "inventory_quantity": "9"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST5",
+    "product_id": "FP2",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.47137352",
+    "latitude": "-2.264171949"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677705600000"
+        }
+      },
+      "inventory_quantity": "9"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST4",
+    "product_id": "FP13",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.47963953",
+    "latitude": "-2.22947498"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677693000000"
+        }
+      },
+      "inventory_quantity": "10"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST1",
+    "product_id": "FP12",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.48080561",
+    "latitude": "-2.234954012"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675256100000"
+        }
+      },
+      "inventory_quantity": "8"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "W2",
+    "product_id": "CD9",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.4206283",
+    "latitude": "-2.6594717"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675226760000"
+        }
+      },
+      "inventory_quantity": "3"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "W3",
+    "product_id": "CD1",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.44268054",
+    "latitude": "-2.274296982"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677705480000"
+        }
+      },
+      "inventory_quantity": "7"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST1",
+    "product_id": "FP8",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.48080561",
+    "latitude": "-2.234954012"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675246920000"
+        }
+      },
+      "inventory_quantity": "8"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST3",
+    "product_id": "FP7",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.46668952",
+    "latitude": "-2.251321658"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675225440000"
+        }
+      },
+      "inventory_quantity": "8"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST5",
+    "product_id": "FP1",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.47137352",
+    "latitude": "-2.264171949"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677654600000"
+        }
+      },
+      "inventory_quantity": "2"
+    },
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677688260000"
+        }
+      },
+      "inventory_quantity": "9"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST2",
+    "product_id": "FP8",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.46358531",
+    "latitude": "-2.230028949"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675219320000"
+        }
+      },
+      "inventory_quantity": "1"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "W1",
+    "product_id": "CD5",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.44268054",
+    "latitude": "-2.274296982"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677675300000"
+        }
+      },
+      "inventory_quantity": "10"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST1",
+    "product_id": "FP13",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.48080561",
+    "latitude": "-2.234954012"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677695940000"
+        }
+      },
+      "inventory_quantity": "4"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST3",
+    "product_id": "FP14",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.46668952",
+    "latitude": "-2.251321658"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675270380000"
+        }
+      },
+      "inventory_quantity": "7"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST1",
+    "product_id": "FP2",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.48080561",
+    "latitude": "-2.234954012"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677656040000"
+        }
+      },
+      "inventory_quantity": "8"
+    },
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677700800000"
+        }
+      },
+      "inventory_quantity": "6"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST2",
+    "product_id": "FP1",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.46358531",
+    "latitude": "-2.230028949"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675219800000"
+        }
+      },
+      "inventory_quantity": "6"
+    },
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675276800000"
+        }
+      },
+      "inventory_quantity": "2"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST2",
+    "product_id": "FP14",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.46358531",
+    "latitude": "-2.230028949"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675270080000"
+        }
+      },
+      "inventory_quantity": "5"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST1",
+    "product_id": "FP6",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.48080561",
+    "latitude": "-2.234954012"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677681360000"
+        }
+      },
+      "inventory_quantity": "10"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST1",
+    "product_id": "FP15",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.48080561",
+    "latitude": "-2.234954012"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677679620000"
+        }
+      },
+      "inventory_quantity": "1"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "W1",
+    "product_id": "HA1",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.36275842",
+    "latitude": "-2.294618987"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675279920000"
+        }
+      },
+      "inventory_quantity": "10"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "W3",
+    "product_id": "CD4",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.44268054",
+    "latitude": "-2.274296982"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677679860000"
+        }
+      },
+      "inventory_quantity": "3"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "W2",
+    "product_id": "HA8",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.44268054",
+    "latitude": "-2.274296982"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677641160000"
+        }
+      },
+      "inventory_quantity": "10"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST4",
+    "product_id": "FP2",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.47963953",
+    "latitude": "-2.22947498"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675223940000"
+        }
+      },
+      "inventory_quantity": "4"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST2",
+    "product_id": "FP3",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.46358531",
+    "latitude": "-2.230028949"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675231620000"
+        }
+      },
+      "inventory_quantity": "7"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST6",
+    "product_id": "FP14",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.44268054",
+    "latitude": "-2.274296982"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675294140000"
+        }
+      },
+      "inventory_quantity": "3"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST2",
+    "product_id": "FP5",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.46358531",
+    "latitude": "-2.230028949"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677688800000"
+        }
+      },
+      "inventory_quantity": "6"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST3",
+    "product_id": "FP11",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.46668952",
+    "latitude": "-2.251321658"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677677100000"
+        }
+      },
+      "inventory_quantity": "1"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST3",
+    "product_id": "FP12",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.46668952",
+    "latitude": "-2.251321658"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677649980000"
+        }
+      },
+      "inventory_quantity": "9"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "W2",
+    "product_id": "PH2",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.44268054",
+    "latitude": "-2.274296982"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677707100000"
+        }
+      },
+      "inventory_quantity": "2"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST6",
+    "product_id": "FP2",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.44268054",
+    "latitude": "-2.274296982"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675282920000"
+        }
+      },
+      "inventory_quantity": "6"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST6",
+    "product_id": "FP12",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.44268054",
+    "latitude": "-2.274296982"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677694380000"
+        }
+      },
+      "inventory_quantity": "8"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "W2",
+    "product_id": "CD9",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.44268054",
+    "latitude": "-2.274296982"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677664380000"
+        }
+      },
+      "inventory_quantity": "9"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "W3",
+    "product_id": "B8",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.31488963",
+    "latitude": "-2.6509071"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675283040000"
+        }
+      },
+      "inventory_quantity": "7"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST6",
+    "product_id": "FP15",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.44268054",
+    "latitude": "-2.274296982"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675227780000"
+        }
+      },
+      "inventory_quantity": "3"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST1",
+    "product_id": "FP9",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.48080561",
+    "latitude": "-2.234954012"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675252020000"
+        }
+      },
+      "inventory_quantity": "9"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "W2",
+    "product_id": "B10",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.44268054",
+    "latitude": "-2.274296982"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677651660000"
+        }
+      },
+      "inventory_quantity": "5"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "W1",
+    "product_id": "B3",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.36275842",
+    "latitude": "-2.294618987"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675284000000"
+        }
+      },
+      "inventory_quantity": "5"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST4",
+    "product_id": "FP12",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.47963953",
+    "latitude": "-2.22947498"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675226880000"
+        }
+      },
+      "inventory_quantity": "8"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST5",
+    "product_id": "FP4",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.47137352",
+    "latitude": "-2.264171949"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677633900000"
+        }
+      },
+      "inventory_quantity": "2"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "W2",
+    "product_id": "PH5",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.4206283",
+    "latitude": "-2.6594717"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675238100000"
+        }
+      },
+      "inventory_quantity": "4"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST6",
+    "product_id": "FP9",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.44268054",
+    "latitude": "-2.274296982"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677641820000"
+        }
+      },
+      "inventory_quantity": "10"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "W3",
+    "product_id": "HA6",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.44268054",
+    "latitude": "-2.274296982"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677650340000"
+        }
+      },
+      "inventory_quantity": "4"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST5",
+    "product_id": "FP7",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.47137352",
+    "latitude": "-2.264171949"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675219200000"
+        }
+      },
+      "inventory_quantity": "10"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST1",
+    "product_id": "FP2",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.48080561",
+    "latitude": "-2.234954012"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675247520000"
+        }
+      },
+      "inventory_quantity": "2"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST6",
+    "product_id": "FP9",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.44268054",
+    "latitude": "-2.274296982"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675250400000"
+        }
+      },
+      "inventory_quantity": "5"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST2",
+    "product_id": "FP2",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.46358531",
+    "latitude": "-2.230028949"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677702000000"
+        }
+      },
+      "inventory_quantity": "9"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST4",
+    "product_id": "FP1",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.47963953",
+    "latitude": "-2.22947498"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677676080000"
+        }
+      },
+      "inventory_quantity": "7"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST3",
+    "product_id": "FP4",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.46668952",
+    "latitude": "-2.251321658"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677698280000"
+        }
+      },
+      "inventory_quantity": "2"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST4",
+    "product_id": "FP6",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.47963953",
+    "latitude": "-2.22947498"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677702720000"
+        }
+      },
+      "inventory_quantity": "8"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST5",
+    "product_id": "FP6",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.47137352",
+    "latitude": "-2.264171949"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677664500000"
+        }
+      },
+      "inventory_quantity": "8"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST3",
+    "product_id": "FP6",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.46668952",
+    "latitude": "-2.251321658"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677689760000"
+        }
+      },
+      "inventory_quantity": "10"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "W2",
+    "product_id": "B4",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.44268054",
+    "latitude": "-2.274296982"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677644580000"
+        }
+      },
+      "inventory_quantity": "6"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST4",
+    "product_id": "FP12",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.47963953",
+    "latitude": "-2.22947498"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677646560000"
+        }
+      },
+      "inventory_quantity": "3"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST1",
+    "product_id": "FP4",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.48080561",
+    "latitude": "-2.234954012"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675217220000"
+        }
+      },
+      "inventory_quantity": "10"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "W2",
+    "product_id": "HA8",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.4206283",
+    "latitude": "-2.6594717"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675286700000"
+        }
+      },
+      "inventory_quantity": "5"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST6",
+    "product_id": "FP5",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.44268054",
+    "latitude": "-2.274296982"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675278060000"
+        }
+      },
+      "inventory_quantity": "8"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "W1",
+    "product_id": "B6",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.36275842",
+    "latitude": "-2.294618987"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675251900000"
+        }
+      },
+      "inventory_quantity": "4"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST1",
+    "product_id": "FP14",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.48080561",
+    "latitude": "-2.234954012"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677661440000"
+        }
+      },
+      "inventory_quantity": "6"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST5",
+    "product_id": "FP12",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.47137352",
+    "latitude": "-2.264171949"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675281360000"
+        }
+      },
+      "inventory_quantity": "7"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST1",
+    "product_id": "FP7",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.48080561",
+    "latitude": "-2.234954012"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675218000000"
+        }
+      },
+      "inventory_quantity": "7"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST1",
+    "product_id": "FP3",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.48080561",
+    "latitude": "-2.234954012"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675225380000"
+        }
+      },
+      "inventory_quantity": "2"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST4",
+    "product_id": "FP9",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.47963953",
+    "latitude": "-2.22947498"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677643140000"
+        }
+      },
+      "inventory_quantity": "6"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST2",
+    "product_id": "FP10",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.46358531",
+    "latitude": "-2.230028949"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675210680000"
+        }
+      },
+      "inventory_quantity": "9"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST3",
+    "product_id": "FP11",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.46668952",
+    "latitude": "-2.251321658"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675257780000"
+        }
+      },
+      "inventory_quantity": "6"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "W3",
+    "product_id": "PH6",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.44268054",
+    "latitude": "-2.274296982"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677654900000"
+        }
+      },
+      "inventory_quantity": "7"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "W2",
+    "product_id": "CD3",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.44268054",
+    "latitude": "-2.274296982"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677705720000"
+        }
+      },
+      "inventory_quantity": "8"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST6",
+    "product_id": "FP6",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.44268054",
+    "latitude": "-2.274296982"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677671160000"
+        }
+      },
+      "inventory_quantity": "7"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "W1",
+    "product_id": "PH7",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.44268054",
+    "latitude": "-2.274296982"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677692460000"
+        }
+      },
+      "inventory_quantity": "4"
+    },
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677640740000"
+        }
+      },
+      "inventory_quantity": "4"
+    },
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677696840000"
+        }
+      },
+      "inventory_quantity": "3"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST4",
+    "product_id": "FP3",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.47963953",
+    "latitude": "-2.22947498"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677636180000"
+        }
+      },
+      "inventory_quantity": "3"
+    },
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677670860000"
+        }
+      },
+      "inventory_quantity": "2"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST1",
+    "product_id": "FP4",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.48080561",
+    "latitude": "-2.234954012"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677688560000"
+        }
+      },
+      "inventory_quantity": "3"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST6",
+    "product_id": "FP13",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.44268054",
+    "latitude": "-2.274296982"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675282260000"
+        }
+      },
+      "inventory_quantity": "5"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST2",
+    "product_id": "FP11",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.46358531",
+    "latitude": "-2.230028949"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677645720000"
+        }
+      },
+      "inventory_quantity": "4"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST5",
+    "product_id": "FP7",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.47137352",
+    "latitude": "-2.264171949"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677638760000"
+        }
+      },
+      "inventory_quantity": "10"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST6",
+    "product_id": "FP11",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.44268054",
+    "latitude": "-2.274296982"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677714900000"
+        }
+      },
+      "inventory_quantity": "8"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST2",
+    "product_id": "FP12",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.46358531",
+    "latitude": "-2.230028949"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677697020000"
+        }
+      },
+      "inventory_quantity": "8"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "W1",
+    "product_id": "PH4",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.44268054",
+    "latitude": "-2.274296982"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677644160000"
+        }
+      },
+      "inventory_quantity": "2"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "W3",
+    "product_id": "CD7",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.31488963",
+    "latitude": "-2.6509071"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675264920000"
+        }
+      },
+      "inventory_quantity": "8"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST3",
+    "product_id": "FP14",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.46668952",
+    "latitude": "-2.251321658"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677645960000"
+        }
+      },
+      "inventory_quantity": "4"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST4",
+    "product_id": "FP10",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.47963953",
+    "latitude": "-2.22947498"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675231500000"
+        }
+      },
+      "inventory_quantity": "6"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "W3",
+    "product_id": "HA3",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.44268054",
+    "latitude": "-2.274296982"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677710340000"
+        }
+      },
+      "inventory_quantity": "4"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "W1",
+    "product_id": "PH10",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.36275842",
+    "latitude": "-2.294618987"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675217580000"
+        }
+      },
+      "inventory_quantity": "10"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST1",
+    "product_id": "FP10",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.48080561",
+    "latitude": "-2.234954012"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675239600000"
+        }
+      },
+      "inventory_quantity": "3"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST3",
+    "product_id": "FP8",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.46668952",
+    "latitude": "-2.251321658"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677647040000"
+        }
+      },
+      "inventory_quantity": "7"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "W1",
+    "product_id": "B3",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.44268054",
+    "latitude": "-2.274296982"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677696000000"
+        }
+      },
+      "inventory_quantity": "1"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST4",
+    "product_id": "FP2",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.47963953",
+    "latitude": "-2.22947498"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677652560000"
+        }
+      },
+      "inventory_quantity": "4"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST5",
+    "product_id": "FP5",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.47137352",
+    "latitude": "-2.264171949"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675288800000"
+        }
+      },
+      "inventory_quantity": "7"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "W1",
+    "product_id": "HA10",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.36275842",
+    "latitude": "-2.294618987"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675266840000"
+        }
+      },
+      "inventory_quantity": "1"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "W1",
+    "product_id": "HA10",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.44268054",
+    "latitude": "-2.274296982"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677670560000"
+        }
+      },
+      "inventory_quantity": "4"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST6",
+    "product_id": "FP2",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.44268054",
+    "latitude": "-2.274296982"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677630900000"
+        }
+      },
+      "inventory_quantity": "7"
+    },
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677646140000"
+        }
+      },
+      "inventory_quantity": "6"
+    },
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677649560000"
+        }
+      },
+      "inventory_quantity": "5"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "W3",
+    "product_id": "HA6",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.31488963",
+    "latitude": "-2.6509071"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675232940000"
+        }
+      },
+      "inventory_quantity": "10"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "W2",
+    "product_id": "PH8",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.4206283",
+    "latitude": "-2.6594717"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675240560000"
+        }
+      },
+      "inventory_quantity": "6"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST1",
+    "product_id": "FP11",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.48080561",
+    "latitude": "-2.234954012"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677702600000"
+        }
+      },
+      "inventory_quantity": "8"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST2",
+    "product_id": "FP4",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.46358531",
+    "latitude": "-2.230028949"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675236000000"
+        }
+      },
+      "inventory_quantity": "1"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST1",
+    "product_id": "FP1",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.48080561",
+    "latitude": "-2.234954012"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675219800000"
+        }
+      },
+      "inventory_quantity": "5"
+    },
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675276800000"
+        }
+      },
+      "inventory_quantity": "4"
+    },
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675283460000"
+        }
+      },
+      "inventory_quantity": "3"
+    },
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675291980000"
+        }
+      },
+      "inventory_quantity": "1"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST1",
+    "product_id": "FP7",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.48080561",
+    "latitude": "-2.234954012"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677710460000"
+        }
+      },
+      "inventory_quantity": "8"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "W1",
+    "product_id": "PH7",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.36275842",
+    "latitude": "-2.294618987"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675218780000"
+        }
+      },
+      "inventory_quantity": "8"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "W2",
+    "product_id": "B10",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.4206283",
+    "latitude": "-2.6594717"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675244220000"
+        }
+      },
+      "inventory_quantity": "1"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "W3",
+    "product_id": "PH9",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.44268054",
+    "latitude": "-2.274296982"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677696240000"
+        }
+      },
+      "inventory_quantity": "7"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "W1",
+    "product_id": "CD5",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.36275842",
+    "latitude": "-2.294618987"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675221540000"
+        }
+      },
+      "inventory_quantity": "1"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST6",
+    "product_id": "FP7",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.44268054",
+    "latitude": "-2.274296982"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675291500000"
+        }
+      },
+      "inventory_quantity": "1"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "W1",
+    "product_id": "B9",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.44268054",
+    "latitude": "-2.274296982"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677654120000"
+        }
+      },
+      "inventory_quantity": "4"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST3",
+    "product_id": "FP7",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.46668952",
+    "latitude": "-2.251321658"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677695700000"
+        }
+      },
+      "inventory_quantity": "9"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST5",
+    "product_id": "FP14",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.47137352",
+    "latitude": "-2.264171949"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677653340000"
+        }
+      },
+      "inventory_quantity": "1"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST1",
+    "product_id": "FP15",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.48080561",
+    "latitude": "-2.234954012"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675223580000"
+        }
+      },
+      "inventory_quantity": "1"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "W2",
+    "product_id": "HA2",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.44268054",
+    "latitude": "-2.274296982"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677702420000"
+        }
+      },
+      "inventory_quantity": "9"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "W1",
+    "product_id": "HA7",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.44268054",
+    "latitude": "-2.274296982"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677708960000"
+        }
+      },
+      "inventory_quantity": "7"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST4",
+    "product_id": "FP7",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.47963953",
+    "latitude": "-2.22947498"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677653340000"
+        }
+      },
+      "inventory_quantity": "5"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST1",
+    "product_id": "FP6",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.48080561",
+    "latitude": "-2.234954012"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675237500000"
+        }
+      },
+      "inventory_quantity": "6"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST5",
+    "product_id": "FP11",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.47137352",
+    "latitude": "-2.264171949"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675225020000"
+        }
+      },
+      "inventory_quantity": "2"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST3",
+    "product_id": "FP15",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.46668952",
+    "latitude": "-2.251321658"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677703920000"
+        }
+      },
+      "inventory_quantity": "1"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST5",
+    "product_id": "FP13",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.47137352",
+    "latitude": "-2.264171949"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677652320000"
+        }
+      },
+      "inventory_quantity": "4"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST4",
+    "product_id": "FP1",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.47963953",
+    "latitude": "-2.22947498"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675219800000"
+        }
+      },
+      "inventory_quantity": "5"
+    },
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675276800000"
+        }
+      },
+      "inventory_quantity": "4"
+    },
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675283460000"
+        }
+      },
+      "inventory_quantity": "3"
+    },
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675291980000"
+        }
+      },
+      "inventory_quantity": "1"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST1",
+    "product_id": "FP1",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.48080561",
+    "latitude": "-2.234954012"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677680400000"
+        }
+      },
+      "inventory_quantity": "9"
+    },
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677713040000"
+        }
+      },
+      "inventory_quantity": "7"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "W1",
+    "product_id": "PH4",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.36275842",
+    "latitude": "-2.294618987"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675270080000"
+        }
+      },
+      "inventory_quantity": "4"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST1",
+    "product_id": "FP3",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.48080561",
+    "latitude": "-2.234954012"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677670500000"
+        }
+      },
+      "inventory_quantity": "10"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST3",
+    "product_id": "FP3",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.46668952",
+    "latitude": "-2.251321658"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675289940000"
+        }
+      },
+      "inventory_quantity": "9"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "W3",
+    "product_id": "PH6",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.31488963",
+    "latitude": "-2.6509071"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675253100000"
+        }
+      },
+      "inventory_quantity": "4"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST5",
+    "product_id": "FP2",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.47137352",
+    "latitude": "-2.264171949"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675261440000"
+        }
+      },
+      "inventory_quantity": "4"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST6",
+    "product_id": "FP4",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.44268054",
+    "latitude": "-2.274296982"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677708240000"
+        }
+      },
+      "inventory_quantity": "7"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST5",
+    "product_id": "FP12",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.47137352",
+    "latitude": "-2.264171949"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677679920000"
+        }
+      },
+      "inventory_quantity": "10"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST3",
+    "product_id": "FP1",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.46668952",
+    "latitude": "-2.251321658"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675219800000"
+        }
+      },
+      "inventory_quantity": "5"
+    },
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675276800000"
+        }
+      },
+      "inventory_quantity": "4"
+    },
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675283460000"
+        }
+      },
+      "inventory_quantity": "3"
+    },
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675291980000"
+        }
+      },
+      "inventory_quantity": "1"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST3",
+    "product_id": "FP3",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.46668952",
+    "latitude": "-2.251321658"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677684960000"
+        }
+      },
+      "inventory_quantity": "3"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "W2",
+    "product_id": "PH2",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.4206283",
+    "latitude": "-2.6594717"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675260720000"
+        }
+      },
+      "inventory_quantity": "4"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST4",
+    "product_id": "FP5",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.47963953",
+    "latitude": "-2.22947498"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677638100000"
+        }
+      },
+      "inventory_quantity": "6"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST4",
+    "product_id": "FP4",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.47963953",
+    "latitude": "-2.22947498"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675221780000"
+        }
+      },
+      "inventory_quantity": "7"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST3",
+    "product_id": "FP15",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.46668952",
+    "latitude": "-2.251321658"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675270560000"
+        }
+      },
+      "inventory_quantity": "10"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "W3",
+    "product_id": "PH3",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.44268054",
+    "latitude": "-2.274296982"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677663180000"
+        }
+      },
+      "inventory_quantity": "7"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "W2",
+    "product_id": "B7",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.44268054",
+    "latitude": "-2.274296982"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677632640000"
+        }
+      },
+      "inventory_quantity": "7"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST5",
+    "product_id": "FP14",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.47137352",
+    "latitude": "-2.264171949"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675248000000"
+        }
+      },
+      "inventory_quantity": "4"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "W1",
+    "product_id": "HA7",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.36275842",
+    "latitude": "-2.294618987"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675224000000"
+        }
+      },
+      "inventory_quantity": "9"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST2",
+    "product_id": "FP8",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.46358531",
+    "latitude": "-2.230028949"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677682020000"
+        }
+      },
+      "inventory_quantity": "8"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST5",
+    "product_id": "FP13",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.47137352",
+    "latitude": "-2.264171949"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675273500000"
+        }
+      },
+      "inventory_quantity": "5"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST1",
+    "product_id": "FP14",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.48080561",
+    "latitude": "-2.234954012"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675274100000"
+        }
+      },
+      "inventory_quantity": "3"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "W3",
+    "product_id": "CD10",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.31488963",
+    "latitude": "-2.6509071"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675225680000"
+        }
+      },
+      "inventory_quantity": "7"
+    },
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675257120000"
+        }
+      },
+      "inventory_quantity": "6"
+    },
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675263600000"
+        }
+      },
+      "inventory_quantity": "5"
+    },
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675275540000"
+        }
+      },
+      "inventory_quantity": "4"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST6",
+    "product_id": "FP4",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.44268054",
+    "latitude": "-2.274296982"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675295880000"
+        }
+      },
+      "inventory_quantity": "7"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST6",
+    "product_id": "FP3",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.44268054",
+    "latitude": "-2.274296982"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677671100000"
+        }
+      },
+      "inventory_quantity": "10"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST3",
+    "product_id": "FP13",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.46668952",
+    "latitude": "-2.251321658"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675280700000"
+        }
+      },
+      "inventory_quantity": "6"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST3",
+    "product_id": "FP10",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.46668952",
+    "latitude": "-2.251321658"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677702660000"
+        }
+      },
+      "inventory_quantity": "1"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST2",
+    "product_id": "FP6",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.46358531",
+    "latitude": "-2.230028949"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675282800000"
+        }
+      },
+      "inventory_quantity": "1"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "W1",
+    "product_id": "HA1",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.44268054",
+    "latitude": "-2.274296982"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677678300000"
+        }
+      },
+      "inventory_quantity": "10"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST6",
+    "product_id": "FP10",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.44268054",
+    "latitude": "-2.274296982"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677659160000"
+        }
+      },
+      "inventory_quantity": "10"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "W3",
+    "product_id": "CD1",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.31488963",
+    "latitude": "-2.6509071"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675209840000"
+        }
+      },
+      "inventory_quantity": "6"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST2",
+    "product_id": "FP7",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.46358531",
+    "latitude": "-2.230028949"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677661140000"
+        }
+      },
+      "inventory_quantity": "7"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST6",
+    "product_id": "FP3",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.44268054",
+    "latitude": "-2.274296982"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675281180000"
+        }
+      },
+      "inventory_quantity": "4"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST4",
+    "product_id": "FP15",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.47963953",
+    "latitude": "-2.22947498"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677662640000"
+        }
+      },
+      "inventory_quantity": "9"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "W2",
+    "product_id": "CD6",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.44268054",
+    "latitude": "-2.274296982"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677661560000"
+        }
+      },
+      "inventory_quantity": "4"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST6",
+    "product_id": "FP15",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.44268054",
+    "latitude": "-2.274296982"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677689580000"
+        }
+      },
+      "inventory_quantity": "4"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST1",
+    "product_id": "FP10",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.48080561",
+    "latitude": "-2.234954012"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677684840000"
+        }
+      },
+      "inventory_quantity": "3"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST2",
+    "product_id": "FP7",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.46358531",
+    "latitude": "-2.230028949"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675263840000"
+        }
+      },
+      "inventory_quantity": "5"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST5",
+    "product_id": "FP4",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.47137352",
+    "latitude": "-2.264171949"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675279320000"
+        }
+      },
+      "inventory_quantity": "7"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST6",
+    "product_id": "FP6",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.44268054",
+    "latitude": "-2.274296982"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675237980000"
+        }
+      },
+      "inventory_quantity": "9"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "W3",
+    "product_id": "B8",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.44268054",
+    "latitude": "-2.274296982"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677661020000"
+        }
+      },
+      "inventory_quantity": "4"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST4",
+    "product_id": "FP10",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.47963953",
+    "latitude": "-2.22947498"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677677040000"
+        }
+      },
+      "inventory_quantity": "1"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST6",
+    "product_id": "FP10",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.44268054",
+    "latitude": "-2.274296982"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675236000000"
+        }
+      },
+      "inventory_quantity": "6"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "W3",
+    "product_id": "PH9",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.31488963",
+    "latitude": "-2.6509071"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675215000000"
+        }
+      },
+      "inventory_quantity": "10"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST6",
+    "product_id": "FP1",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.44268054",
+    "latitude": "-2.274296982"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675238700000"
+        }
+      },
+      "inventory_quantity": "7"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "W3",
+    "product_id": "CD7",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.44268054",
+    "latitude": "-2.274296982"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677660840000"
+        }
+      },
+      "inventory_quantity": "9"
+    },
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677706440000"
+        }
+      },
+      "inventory_quantity": "8"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "W2",
+    "product_id": "B4",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.4206283",
+    "latitude": "-2.6594717"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675247700000"
+        }
+      },
+      "inventory_quantity": "6"
+    },
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675287900000"
+        }
+      },
+      "inventory_quantity": "5"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST5",
+    "product_id": "FP11",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.47137352",
+    "latitude": "-2.264171949"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677682140000"
+        }
+      },
+      "inventory_quantity": "2"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "W1",
+    "product_id": "CD8",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.44268054",
+    "latitude": "-2.274296982"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677648480000"
+        }
+      },
+      "inventory_quantity": "10"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST5",
+    "product_id": "FP3",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.47137352",
+    "latitude": "-2.264171949"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675238640000"
+        }
+      },
+      "inventory_quantity": "4"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST3",
+    "product_id": "FP12",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.46668952",
+    "latitude": "-2.251321658"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675271040000"
+        }
+      },
+      "inventory_quantity": "2"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST4",
+    "product_id": "FP14",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.47963953",
+    "latitude": "-2.22947498"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675238940000"
+        }
+      },
+      "inventory_quantity": "1"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST1",
+    "product_id": "FP12",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.48080561",
+    "latitude": "-2.234954012"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677642120000"
+        }
+      },
+      "inventory_quantity": "5"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST5",
+    "product_id": "FP8",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.47137352",
+    "latitude": "-2.264171949"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677669480000"
+        }
+      },
+      "inventory_quantity": "5"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST4",
+    "product_id": "FP15",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.47963953",
+    "latitude": "-2.22947498"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675214760000"
+        }
+      },
+      "inventory_quantity": "6"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST1",
+    "product_id": "FP5",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.48080561",
+    "latitude": "-2.234954012"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677665580000"
+        }
+      },
+      "inventory_quantity": "9"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST5",
+    "product_id": "FP5",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.47137352",
+    "latitude": "-2.264171949"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677657540000"
+        }
+      },
+      "inventory_quantity": "5"
+    },
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677658380000"
+        }
+      },
+      "inventory_quantity": "4"
+    },
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677677580000"
+        }
+      },
+      "inventory_quantity": "3"
+    },
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677707880000"
+        }
+      },
+      "inventory_quantity": "2"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST2",
+    "product_id": "FP13",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.46358531",
+    "latitude": "-2.230028949"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675218780000"
+        }
+      },
+      "inventory_quantity": "10"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST5",
+    "product_id": "FP3",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.47137352",
+    "latitude": "-2.264171949"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677641280000"
+        }
+      },
+      "inventory_quantity": "8"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST1",
+    "product_id": "FP8",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.48080561",
+    "latitude": "-2.234954012"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677693000000"
+        }
+      },
+      "inventory_quantity": "6"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST1",
+    "product_id": "FP9",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.48080561",
+    "latitude": "-2.234954012"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677683760000"
+        }
+      },
+      "inventory_quantity": "1"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST2",
+    "product_id": "FP9",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.46358531",
+    "latitude": "-2.230028949"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677659100000"
+        }
+      },
+      "inventory_quantity": "10"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST4",
+    "product_id": "FP7",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.47963953",
+    "latitude": "-2.22947498"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675284840000"
+        }
+      },
+      "inventory_quantity": "3"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST3",
+    "product_id": "FP10",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.46668952",
+    "latitude": "-2.251321658"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675235760000"
+        }
+      },
+      "inventory_quantity": "3"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST4",
+    "product_id": "FP14",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.47963953",
+    "latitude": "-2.22947498"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677692280000"
+        }
+      },
+      "inventory_quantity": "8"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST6",
+    "product_id": "FP14",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.44268054",
+    "latitude": "-2.274296982"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677642600000"
+        }
+      },
+      "inventory_quantity": "3"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "W1",
+    "product_id": "CD2",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.44268054",
+    "latitude": "-2.274296982"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677675720000"
+        }
+      },
+      "inventory_quantity": "7"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "W3",
+    "product_id": "B2",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.44268054",
+    "latitude": "-2.274296982"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677677940000"
+        }
+      },
+      "inventory_quantity": "4"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "W2",
+    "product_id": "B1",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.44268054",
+    "latitude": "-2.274296982"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677676320000"
+        }
+      },
+      "inventory_quantity": "8"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST2",
+    "product_id": "FP4",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.46358531",
+    "latitude": "-2.230028949"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677651300000"
+        }
+      },
+      "inventory_quantity": "1"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST6",
+    "product_id": "FP8",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.44268054",
+    "latitude": "-2.274296982"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677712500000"
+        }
+      },
+      "inventory_quantity": "9"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST6",
+    "product_id": "FP13",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.44268054",
+    "latitude": "-2.274296982"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677639240000"
+        }
+      },
+      "inventory_quantity": "5"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST6",
+    "product_id": "FP8",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.44268054",
+    "latitude": "-2.274296982"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675293540000"
+        }
+      },
+      "inventory_quantity": "10"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST4",
+    "product_id": "FP6",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.47963953",
+    "latitude": "-2.22947498"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675216020000"
+        }
+      },
+      "inventory_quantity": "9"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST2",
+    "product_id": "FP15",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.46358531",
+    "latitude": "-2.230028949"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675213800000"
+        }
+      },
+      "inventory_quantity": "9"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST6",
+    "product_id": "FP5",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.44268054",
+    "latitude": "-2.274296982"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677648900000"
+        }
+      },
+      "inventory_quantity": "2"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "W1",
+    "product_id": "PH1",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.44268054",
+    "latitude": "-2.274296982"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677710400000"
+        }
+      },
+      "inventory_quantity": "6"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST6",
+    "product_id": "FP12",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.44268054",
+    "latitude": "-2.274296982"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675230300000"
+        }
+      },
+      "inventory_quantity": "6"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST2",
+    "product_id": "FP1",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.46358531",
+    "latitude": "-2.230028949"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677650820000"
+        }
+      },
+      "inventory_quantity": "6"
+    },
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677713880000"
+        }
+      },
+      "inventory_quantity": "5"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST4",
+    "product_id": "FP8",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.47963953",
+    "latitude": "-2.22947498"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675275960000"
+        }
+      },
+      "inventory_quantity": "3"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST3",
+    "product_id": "FP2",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.46668952",
+    "latitude": "-2.251321658"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675223640000"
+        }
+      },
+      "inventory_quantity": "1"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "W2",
+    "product_id": "HA5",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.4206283",
+    "latitude": "-2.6594717"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675269960000"
+        }
+      },
+      "inventory_quantity": "7"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "W3",
+    "product_id": "CD10",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.44268054",
+    "latitude": "-2.274296982"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677644700000"
+        }
+      },
+      "inventory_quantity": "5"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "W1",
+    "product_id": "HA4",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.44268054",
+    "latitude": "-2.274296982"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677695580000"
+        }
+      },
+      "inventory_quantity": "10"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "W1",
+    "product_id": "CD2",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.36275842",
+    "latitude": "-2.294618987"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675249080000"
+        }
+      },
+      "inventory_quantity": "7"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "W3",
+    "product_id": "B2",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.31488963",
+    "latitude": "-2.6509071"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675218660000"
+        }
+      },
+      "inventory_quantity": "2"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST1",
+    "product_id": "FP13",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.48080561",
+    "latitude": "-2.234954012"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675291560000"
+        }
+      },
+      "inventory_quantity": "6"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST4",
+    "product_id": "FP5",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.47963953",
+    "latitude": "-2.22947498"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675278240000"
+        }
+      },
+      "inventory_quantity": "4"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST2",
+    "product_id": "FP6",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.46358531",
+    "latitude": "-2.230028949"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677642720000"
+        }
+      },
+      "inventory_quantity": "5"
+    },
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677659760000"
+        }
+      },
+      "inventory_quantity": "4"
+    },
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677707100000"
+        }
+      },
+      "inventory_quantity": "3"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "W3",
+    "product_id": "HA9",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.31488963",
+    "latitude": "-2.6509071"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675243080000"
+        }
+      },
+      "inventory_quantity": "6"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST4",
+    "product_id": "FP3",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.47963953",
+    "latitude": "-2.22947498"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675224480000"
+        }
+      },
+      "inventory_quantity": "4"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST5",
+    "product_id": "FP1",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.47137352",
+    "latitude": "-2.264171949"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675219800000"
+        }
+      },
+      "inventory_quantity": "5"
+    },
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675276800000"
+        }
+      },
+      "inventory_quantity": "4"
+    },
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675283460000"
+        }
+      },
+      "inventory_quantity": "3"
+    },
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675291980000"
+        }
+      },
+      "inventory_quantity": "1"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST5",
+    "product_id": "FP6",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.47137352",
+    "latitude": "-2.264171949"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675253460000"
+        }
+      },
+      "inventory_quantity": "3"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "W3",
+    "product_id": "B5",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.44268054",
+    "latitude": "-2.274296982"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677654300000"
+        }
+      },
+      "inventory_quantity": "8"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST3",
+    "product_id": "FP1",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.46668952",
+    "latitude": "-2.251321658"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677650220000"
+        }
+      },
+      "inventory_quantity": "6"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST3",
+    "product_id": "FP2",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.46668952",
+    "latitude": "-2.251321658"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677694980000"
+        }
+      },
+      "inventory_quantity": "6"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "W2",
+    "product_id": "PH5",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.44268054",
+    "latitude": "-2.274296982"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677693660000"
+        }
+      },
+      "inventory_quantity": "5"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST5",
+    "product_id": "FP10",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.47137352",
+    "latitude": "-2.264171949"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675261260000"
+        }
+      },
+      "inventory_quantity": "4"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "W3",
+    "product_id": "HA3",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.31488963",
+    "latitude": "-2.6509071"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675285020000"
+        }
+      },
+      "inventory_quantity": "6"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST3",
+    "product_id": "FP9",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.46668952",
+    "latitude": "-2.251321658"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677638760000"
+        }
+      },
+      "inventory_quantity": "7"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST6",
+    "product_id": "FP11",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.44268054",
+    "latitude": "-2.274296982"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675275000000"
+        }
+      },
+      "inventory_quantity": "6"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "W1",
+    "product_id": "HA4",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.36275842",
+    "latitude": "-2.294618987"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675261260000"
+        }
+      },
+      "inventory_quantity": "3"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST4",
+    "product_id": "FP9",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.47963953",
+    "latitude": "-2.22947498"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675268580000"
+        }
+      },
+      "inventory_quantity": "7"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST3",
+    "product_id": "FP8",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.46668952",
+    "latitude": "-2.251321658"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675223820000"
+        }
+      },
+      "inventory_quantity": "3"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST1",
+    "product_id": "FP11",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.48080561",
+    "latitude": "-2.234954012"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675214520000"
+        }
+      },
+      "inventory_quantity": "10"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST5",
+    "product_id": "FP10",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.47137352",
+    "latitude": "-2.264171949"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677681360000"
+        }
+      },
+      "inventory_quantity": "10"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "W1",
+    "product_id": "CD8",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.36275842",
+    "latitude": "-2.294618987"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675245060000"
+        }
+      },
+      "inventory_quantity": "6"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST4",
+    "product_id": "FP8",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.47963953",
+    "latitude": "-2.22947498"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677686100000"
+        }
+      },
+      "inventory_quantity": "4"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST6",
+    "product_id": "FP7",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.44268054",
+    "latitude": "-2.274296982"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677695820000"
+        }
+      },
+      "inventory_quantity": "4"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST3",
+    "product_id": "FP5",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.46668952",
+    "latitude": "-2.251321658"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677670620000"
+        }
+      },
+      "inventory_quantity": "8"
+    },
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677677940000"
+        }
+      },
+      "inventory_quantity": "7"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST4",
+    "product_id": "FP4",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.47963953",
+    "latitude": "-2.22947498"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677644760000"
+        }
+      },
+      "inventory_quantity": "8"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST6",
+    "product_id": "FP1",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.44268054",
+    "latitude": "-2.274296982"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677703380000"
+        }
+      },
+      "inventory_quantity": "9"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "W3",
+    "product_id": "CD4",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.31488963",
+    "latitude": "-2.6509071"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675261500000"
+        }
+      },
+      "inventory_quantity": "1"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "W2",
+    "product_id": "PH8",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.44268054",
+    "latitude": "-2.274296982"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677631620000"
+        }
+      },
+      "inventory_quantity": "3"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST4",
+    "product_id": "FP13",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.47963953",
+    "latitude": "-2.22947498"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675275720000"
+        }
+      },
+      "inventory_quantity": "8"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST3",
+    "product_id": "FP4",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.46668952",
+    "latitude": "-2.251321658"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675277160000"
+        }
+      },
+      "inventory_quantity": "2"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "W3",
+    "product_id": "PH3",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.31488963",
+    "latitude": "-2.6509071"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675294920000"
+        }
+      },
+      "inventory_quantity": "3"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST2",
+    "product_id": "FP3",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.46358531",
+    "latitude": "-2.230028949"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677688140000"
+        }
+      },
+      "inventory_quantity": "6"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST2",
+    "product_id": "FP2",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.46358531",
+    "latitude": "-2.230028949"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675246440000"
+        }
+      },
+      "inventory_quantity": "4"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST1",
+    "product_id": "FP5",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.48080561",
+    "latitude": "-2.234954012"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675279920000"
+        }
+      },
+      "inventory_quantity": "7"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST2",
+    "product_id": "FP15",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.46358531",
+    "latitude": "-2.230028949"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677691020000"
+        }
+      },
+      "inventory_quantity": "7"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST3",
+    "product_id": "FP5",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.46668952",
+    "latitude": "-2.251321658"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675273020000"
+        }
+      },
+      "inventory_quantity": "4"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "W1",
+    "product_id": "B6",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.44268054",
+    "latitude": "-2.274296982"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677676080000"
+        }
+      },
+      "inventory_quantity": "10"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST2",
+    "product_id": "FP13",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.46358531",
+    "latitude": "-2.230028949"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677665340000"
+        }
+      },
+      "inventory_quantity": "4"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST2",
+    "product_id": "FP5",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.46358531",
+    "latitude": "-2.230028949"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675270080000"
+        }
+      },
+      "inventory_quantity": "8"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST5",
+    "product_id": "FP9",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.47137352",
+    "latitude": "-2.264171949"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677653760000"
+        }
+      },
+      "inventory_quantity": "2"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "W3",
+    "product_id": "B5",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.31488963",
+    "latitude": "-2.6509071"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675253520000"
+        }
+      },
+      "inventory_quantity": "8"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "W2",
+    "product_id": "CD6",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.4206283",
+    "latitude": "-2.6594717"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675289580000"
+        }
+      },
+      "inventory_quantity": "5"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "W3",
+    "product_id": "HA9",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.44268054",
+    "latitude": "-2.274296982"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677637320000"
+        }
+      },
+      "inventory_quantity": "8"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST5",
+    "product_id": "FP15",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.47137352",
+    "latitude": "-2.264171949"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675293960000"
+        }
+      },
+      "inventory_quantity": "10"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST4",
+    "product_id": "FP11",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.47963953",
+    "latitude": "-2.22947498"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675224960000"
+        }
+      },
+      "inventory_quantity": "9"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "W1",
+    "product_id": "PH1",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.36275842",
+    "latitude": "-2.294618987"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675253280000"
+        }
+      },
+      "inventory_quantity": "9"
+    },
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675287900000"
+        }
+      },
+      "inventory_quantity": "5"
+    },
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675293900000"
+        }
+      },
+      "inventory_quantity": "2"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST2",
+    "product_id": "FP11",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.46358531",
+    "latitude": "-2.230028949"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675263720000"
+        }
+      },
+      "inventory_quantity": "1"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "W2",
+    "product_id": "B1",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.4206283",
+    "latitude": "-2.6594717"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675267320000"
+        }
+      },
+      "inventory_quantity": "5"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST2",
+    "product_id": "FP9",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.46358531",
+    "latitude": "-2.230028949"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675254660000"
+        }
+      },
+      "inventory_quantity": "8"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "W2",
+    "product_id": "CD3",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.4206283",
+    "latitude": "-2.6594717"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675231620000"
+        }
+      },
+      "inventory_quantity": "9"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST2",
+    "product_id": "FP12",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.46358531",
+    "latitude": "-2.230028949"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675273980000"
+        }
+      },
+      "inventory_quantity": "8"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST3",
+    "product_id": "FP6",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.46668952",
+    "latitude": "-2.251321658"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675278000000"
+        }
+      },
+      "inventory_quantity": "9"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "W1",
+    "product_id": "PH10",
+    "start_date": "03/01/2023 00:00",
+    "end_date": "03/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.44268054",
+    "latitude": "-2.274296982"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1677698340000"
+        }
+      },
+      "inventory_quantity": "4"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "W1",
+    "product_id": "B9",
+    "start_date": "02/01/2023 00:00",
+    "end_date": "02/01/2023 23:59"
+  },
+  "supplier_location": {
+    "longitude": "53.36275842",
+    "latitude": "-2.294618987"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1675246740000"
+        }
+      },
+      "inventory_quantity": "6"
+    }
+  ]
+},{
+  "_id": {
+    "supplier_id": "ST5",
+    "product_id": "FP1",
+    "start_date": "09/01/23 00:00",
+    "end_date": "09/01/23 23:59"
+  },
+  "inventory_data": [
+    {
+      "datetime": {
+        "$date": {
+          "$numberLong": "1641308400000"
+        }
+      },
+      "inventory_quantity": 20
+    }
+  ]
+}]

@@ -1,0 +1,4401 @@
+[{
+  "_id": "RA1",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1664664251000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1664750651000"
+    }
+  },
+  "product_id": "FP13",
+  "customer_id": "C6",
+  "order_id": "20221001224411C6",
+  "rating": 4
+},{
+  "_id": "RA2",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1664902353000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1664988753000"
+    }
+  },
+  "product_id": "FP2",
+  "customer_id": "C20",
+  "order_id": "20221004165233C20",
+  "rating": 1
+},{
+  "_id": "RA3",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1664915524000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1665001924000"
+    }
+  },
+  "product_id": "FP12",
+  "customer_id": "C5",
+  "order_id": "20221004203204C5",
+  "rating": 1
+},{
+  "_id": "RA4",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1664939591000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1665025991000"
+    }
+  },
+  "product_id": "FP1",
+  "customer_id": "C17",
+  "order_id": "20221005031311C17",
+  "rating": 1
+},{
+  "_id": "RA5",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665085057000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1665171457000"
+    }
+  },
+  "product_id": "FP3",
+  "customer_id": "C12",
+  "order_id": "20221006193737C12",
+  "rating": 1
+},{
+  "_id": "RA6",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1664600979000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1665205779000"
+    }
+  },
+  "product_id": "B3",
+  "customer_id": "C4",
+  "order_id": "20221001050939C4",
+  "rating": 1
+},{
+  "_id": "RA7",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1664620033000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1665224833000"
+    }
+  },
+  "product_id": "CD2",
+  "customer_id": "C19",
+  "order_id": "20221001102713C19",
+  "rating": 4
+},{
+  "_id": "RA8",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1664660436000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1665265236000"
+    }
+  },
+  "product_id": "HA6",
+  "customer_id": "C16",
+  "order_id": "20221001214036C16",
+  "rating": 1
+},{
+  "_id": "RA9",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1664662741000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1665267541000"
+    }
+  },
+  "product_id": "CD8",
+  "customer_id": "C7",
+  "order_id": "20221001221901C7",
+  "rating": 1
+},{
+  "_id": "RA10",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1664672607000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1665277407000"
+    }
+  },
+  "product_id": "B5",
+  "customer_id": "C4",
+  "order_id": "20221002010327C4",
+  "rating": 2
+},{
+  "_id": "RA11",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1664682109000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1665286909000"
+    }
+  },
+  "product_id": "CD8",
+  "customer_id": "C2",
+  "order_id": "20221002034149C2",
+  "rating": 3
+},{
+  "_id": "RA12",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1664702237000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1665307037000"
+    }
+  },
+  "product_id": "B4",
+  "customer_id": "C13",
+  "order_id": "20221002091717C13",
+  "rating": 4
+},{
+  "_id": "RA13",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1664721449000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1665326249000"
+    }
+  },
+  "product_id": "PH4",
+  "customer_id": "C6",
+  "order_id": "20221002143729C6",
+  "rating": 4
+},{
+  "_id": "RA14",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1664724895000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1665329695000"
+    }
+  },
+  "product_id": "CD3",
+  "customer_id": "C9",
+  "order_id": "20221002153455C9",
+  "rating": 2
+},{
+  "_id": "RA15",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1664727415000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1665332215000"
+    }
+  },
+  "product_id": "B8",
+  "customer_id": "C17",
+  "order_id": "20221002161655C17",
+  "rating": 2
+},{
+  "_id": "RA16",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1664729482000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1665334282000"
+    }
+  },
+  "product_id": "B7",
+  "customer_id": "C14",
+  "order_id": "20221002165122C14",
+  "rating": 1
+},{
+  "_id": "RA17",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665274159000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1665360559000"
+    }
+  },
+  "product_id": "FP9",
+  "customer_id": "C19",
+  "order_id": "20221009000919C19",
+  "rating": 1
+},{
+  "_id": "RA18",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1664826660000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1665431460000"
+    }
+  },
+  "product_id": "HA4",
+  "customer_id": "C12",
+  "order_id": "20221003195100C12",
+  "rating": 3
+},{
+  "_id": "RA19",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665347121000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1665433521000"
+    }
+  },
+  "product_id": "FP4",
+  "customer_id": "C20",
+  "order_id": "20221009202521C20",
+  "rating": 4
+},{
+  "_id": "RA20",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665365386000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1665451786000"
+    }
+  },
+  "product_id": "FP1",
+  "customer_id": "C14",
+  "order_id": "20221010012946C14",
+  "rating": 5
+},{
+  "_id": "RA21",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1664875239000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1665480039000"
+    }
+  },
+  "product_id": "PH4",
+  "customer_id": "C11",
+  "order_id": "20221004092039C11",
+  "rating": 5
+},{
+  "_id": "RA22",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1664877896000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1665482696000"
+    }
+  },
+  "product_id": "B3",
+  "customer_id": "C17",
+  "order_id": "20221004100456C17",
+  "rating": 3
+},{
+  "_id": "RA23",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1664897211000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1665502011000"
+    }
+  },
+  "product_id": "CD6",
+  "customer_id": "C12",
+  "order_id": "20221004152651C12",
+  "rating": 1
+},{
+  "_id": "RA24",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665441110000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1665527510000"
+    }
+  },
+  "product_id": "FP14",
+  "customer_id": "C18",
+  "order_id": "20221010223150C18",
+  "rating": 2
+},{
+  "_id": "RA25",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665499910000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1665586310000"
+    }
+  },
+  "product_id": "FP10",
+  "customer_id": "C20",
+  "order_id": "20221011145150C20",
+  "rating": 1
+},{
+  "_id": "RA26",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665504014000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1665590414000"
+    }
+  },
+  "product_id": "FP9",
+  "customer_id": "C10",
+  "order_id": "20221011160014C10",
+  "rating": 3
+},{
+  "_id": "RA27",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665002892000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1665607692000"
+    }
+  },
+  "product_id": "CD6",
+  "customer_id": "C19",
+  "order_id": "20221005204812C19",
+  "rating": 4
+},{
+  "_id": "RA28",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665564020000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1665650420000"
+    }
+  },
+  "product_id": "FP14",
+  "customer_id": "C10",
+  "order_id": "20221012084020C10",
+  "rating": 1
+},{
+  "_id": "RA29",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665583169000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1665669569000"
+    }
+  },
+  "product_id": "FP5",
+  "customer_id": "C4",
+  "order_id": "20221012135929C4",
+  "rating": 4
+},{
+  "_id": "RA30",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665084089000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1665688889000"
+    }
+  },
+  "product_id": "CD5",
+  "customer_id": "C15",
+  "order_id": "20221006192129C15",
+  "rating": 5
+},{
+  "_id": "RA31",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665086991000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1665691791000"
+    }
+  },
+  "product_id": "CD7",
+  "customer_id": "C1",
+  "order_id": "20221006200951C1",
+  "rating": 4
+},{
+  "_id": "RA32",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665108573000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1665713373000"
+    }
+  },
+  "product_id": "PH10",
+  "customer_id": "C3",
+  "order_id": "20221007020933C3",
+  "rating": 4
+},{
+  "_id": "RA33",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665131791000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1665736591000"
+    }
+  },
+  "product_id": "CD7",
+  "customer_id": "C3",
+  "order_id": "20221007083631C3",
+  "rating": 2
+},{
+  "_id": "RA34",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665651840000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1665738240000"
+    }
+  },
+  "product_id": "FP13",
+  "customer_id": "C3",
+  "order_id": "20221013090400C3",
+  "rating": 5
+},{
+  "_id": "RA35",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665714923000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1665801323000"
+    }
+  },
+  "product_id": "FP13",
+  "customer_id": "C16",
+  "order_id": "20221014023523C16",
+  "rating": 3
+},{
+  "_id": "RA36",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665206265000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1665811065000"
+    }
+  },
+  "product_id": "PH9",
+  "customer_id": "C3",
+  "order_id": "20221008051745C3",
+  "rating": 3
+},{
+  "_id": "RA37",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665239428000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1665844228000"
+    }
+  },
+  "product_id": "PH7",
+  "customer_id": "C10",
+  "order_id": "20221008143028C10",
+  "rating": 5
+},{
+  "_id": "RA38",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665263456000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1665868256000"
+    }
+  },
+  "product_id": "B6",
+  "customer_id": "C2",
+  "order_id": "20221008211056C2",
+  "rating": 5
+},{
+  "_id": "RA39",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665268518000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1665873318000"
+    }
+  },
+  "product_id": "B10",
+  "customer_id": "C15",
+  "order_id": "20221008223518C15",
+  "rating": 4
+},{
+  "_id": "RA40",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665802869000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1665889269000"
+    }
+  },
+  "product_id": "FP4",
+  "customer_id": "C6",
+  "order_id": "20221015030109C6",
+  "rating": 1
+},{
+  "_id": "RA41",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665306185000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1665910985000"
+    }
+  },
+  "product_id": "CD3",
+  "customer_id": "C15",
+  "order_id": "20221009090305C15",
+  "rating": 2
+},{
+  "_id": "RA42",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665329377000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1665934177000"
+    }
+  },
+  "product_id": "HA6",
+  "customer_id": "C15",
+  "order_id": "20221009152937C15",
+  "rating": 3
+},{
+  "_id": "RA43",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665362954000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1665967754000"
+    }
+  },
+  "product_id": "B10",
+  "customer_id": "C17",
+  "order_id": "20221010004914C17",
+  "rating": 3
+},{
+  "_id": "RA44",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665366472000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1665971272000"
+    }
+  },
+  "product_id": "B9",
+  "customer_id": "C14",
+  "order_id": "20221010014752C14",
+  "rating": 2
+},{
+  "_id": "RA45",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665434087000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1666038887000"
+    }
+  },
+  "product_id": "HA9",
+  "customer_id": "C18",
+  "order_id": "20221010203447C18",
+  "rating": 4
+},{
+  "_id": "RA46",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665961182000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1666047582000"
+    }
+  },
+  "product_id": "FP2",
+  "customer_id": "C11",
+  "order_id": "20221016225942C11",
+  "rating": 1
+},{
+  "_id": "RA47",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665983906000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1666070306000"
+    }
+  },
+  "product_id": "FP14",
+  "customer_id": "C11",
+  "order_id": "20221017051826C11",
+  "rating": 4
+},{
+  "_id": "RA48",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665502548000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1666107348000"
+    }
+  },
+  "product_id": "HA6",
+  "customer_id": "C5",
+  "order_id": "20221011153548C5",
+  "rating": 4
+},{
+  "_id": "RA49",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665507491000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1666112291000"
+    }
+  },
+  "product_id": "HA4",
+  "customer_id": "C18",
+  "order_id": "20221011165811C18",
+  "rating": 3
+},{
+  "_id": "RA50",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665538562000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1666143362000"
+    }
+  },
+  "product_id": "CD1",
+  "customer_id": "C3",
+  "order_id": "20221012013602C3",
+  "rating": 3
+},{
+  "_id": "RA51",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665543152000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1666147952000"
+    }
+  },
+  "product_id": "CD5",
+  "customer_id": "C12",
+  "order_id": "20221012025232C12",
+  "rating": 4
+},{
+  "_id": "RA52",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665550821000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1666155621000"
+    }
+  },
+  "product_id": "HA10",
+  "customer_id": "C14",
+  "order_id": "20221012050021C14",
+  "rating": 1
+},{
+  "_id": "RA53",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665554021000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1666158821000"
+    }
+  },
+  "product_id": "PH2",
+  "customer_id": "C20",
+  "order_id": "20221012055341C20",
+  "rating": 5
+},{
+  "_id": "RA54",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665566000000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1666170800000"
+    }
+  },
+  "product_id": "PH1",
+  "customer_id": "C13",
+  "order_id": "20221012091320C13",
+  "rating": 1
+},{
+  "_id": "RA55",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666092164000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1666178564000"
+    }
+  },
+  "product_id": "FP3",
+  "customer_id": "C13",
+  "order_id": "20221018112244C13",
+  "rating": 4
+},{
+  "_id": "RA56",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665589624000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1666194424000"
+    }
+  },
+  "product_id": "HA8",
+  "customer_id": "C16",
+  "order_id": "20221012154704C16",
+  "rating": 3
+},{
+  "_id": "RA57",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665598356000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1666203156000"
+    }
+  },
+  "product_id": "HA2",
+  "customer_id": "C4",
+  "order_id": "20221012181236C4",
+  "rating": 3
+},{
+  "_id": "RA58",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665613535000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1666218335000"
+    }
+  },
+  "product_id": "HA9",
+  "customer_id": "C7",
+  "order_id": "20221012222535C7",
+  "rating": 1
+},{
+  "_id": "RA59",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665638966000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1666243766000"
+    }
+  },
+  "product_id": "PH9",
+  "customer_id": "C8",
+  "order_id": "20221013052926C8",
+  "rating": 5
+},{
+  "_id": "RA60",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665662945000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1666267745000"
+    }
+  },
+  "product_id": "PH8",
+  "customer_id": "C13",
+  "order_id": "20221013120905C13",
+  "rating": 4
+},{
+  "_id": "RA61",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665674525000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1666279325000"
+    }
+  },
+  "product_id": "HA5",
+  "customer_id": "C12",
+  "order_id": "20221013152205C12",
+  "rating": 5
+},{
+  "_id": "RA62",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665679464000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1666284264000"
+    }
+  },
+  "product_id": "HA3",
+  "customer_id": "C8",
+  "order_id": "20221013164424C8",
+  "rating": 2
+},{
+  "_id": "RA63",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665719287000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1666324087000"
+    }
+  },
+  "product_id": "B6",
+  "customer_id": "C7",
+  "order_id": "20221014034807C7",
+  "rating": 1
+},{
+  "_id": "RA64",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665802417000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1666407217000"
+    }
+  },
+  "product_id": "HA7",
+  "customer_id": "C2",
+  "order_id": "20221015025337C2",
+  "rating": 1
+},{
+  "_id": "RA65",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665805679000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1666410479000"
+    }
+  },
+  "product_id": "CD4",
+  "customer_id": "C2",
+  "order_id": "20221015034759C2",
+  "rating": 3
+},{
+  "_id": "RA66",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666355388000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1666441788000"
+    }
+  },
+  "product_id": "FP1",
+  "customer_id": "C11",
+  "order_id": "20221021122948C11",
+  "rating": 3
+},{
+  "_id": "RA67",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666383793000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1666470193000"
+    }
+  },
+  "product_id": "FP5",
+  "customer_id": "C14",
+  "order_id": "20221021202313C14",
+  "rating": 3
+},{
+  "_id": "RA68",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665877486000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1666482286000"
+    }
+  },
+  "product_id": "CD1",
+  "customer_id": "C8",
+  "order_id": "20221015234446C8",
+  "rating": 4
+},{
+  "_id": "RA69",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665893840000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1666498640000"
+    }
+  },
+  "product_id": "CD2",
+  "customer_id": "C7",
+  "order_id": "20221016041720C7",
+  "rating": 5
+},{
+  "_id": "RA70",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666421633000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1666508033000"
+    }
+  },
+  "product_id": "FP9",
+  "customer_id": "C19",
+  "order_id": "20221022065353C19",
+  "rating": 1
+},{
+  "_id": "RA71",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666435670000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1666522070000"
+    }
+  },
+  "product_id": "FP5",
+  "customer_id": "C5",
+  "order_id": "20221022104750C5",
+  "rating": 2
+},{
+  "_id": "RA72",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665933328000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1666538128000"
+    }
+  },
+  "product_id": "B1",
+  "customer_id": "C8",
+  "order_id": "20221016151528C8",
+  "rating": 4
+},{
+  "_id": "RA73",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665946065000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1666550865000"
+    }
+  },
+  "product_id": "HA1",
+  "customer_id": "C10",
+  "order_id": "20221016184745C10",
+  "rating": 3
+},{
+  "_id": "RA74",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665956603000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1666561403000"
+    }
+  },
+  "product_id": "CD10",
+  "customer_id": "C20",
+  "order_id": "20221016214323C20",
+  "rating": 5
+},{
+  "_id": "RA75",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666485570000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1666571970000"
+    }
+  },
+  "product_id": "FP6",
+  "customer_id": "C15",
+  "order_id": "20221023003930C15",
+  "rating": 3
+},{
+  "_id": "RA76",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665980857000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1666585657000"
+    }
+  },
+  "product_id": "HA7",
+  "customer_id": "C10",
+  "order_id": "20221017042737C10",
+  "rating": 1
+},{
+  "_id": "RA77",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665998107000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1666602907000"
+    }
+  },
+  "product_id": "B5",
+  "customer_id": "C4",
+  "order_id": "20221017091507C4",
+  "rating": 5
+},{
+  "_id": "RA78",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666021024000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1666625824000"
+    }
+  },
+  "product_id": "CD6",
+  "customer_id": "C13",
+  "order_id": "20221017153704C13",
+  "rating": 4
+},{
+  "_id": "RA79",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666031023000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1666635823000"
+    }
+  },
+  "product_id": "PH10",
+  "customer_id": "C5",
+  "order_id": "20221017182343C5",
+  "rating": 2
+},{
+  "_id": "RA80",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666602353000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1666688753000"
+    }
+  },
+  "product_id": "FP3",
+  "customer_id": "C17",
+  "order_id": "20221024090553C17",
+  "rating": 5
+},{
+  "_id": "RA81",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666088442000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1666693242000"
+    }
+  },
+  "product_id": "CD6",
+  "customer_id": "C8",
+  "order_id": "20221018102042C8",
+  "rating": 4
+},{
+  "_id": "RA82",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666106126000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1666710926000"
+    }
+  },
+  "product_id": "B5",
+  "customer_id": "C9",
+  "order_id": "20221018151526C9",
+  "rating": 1
+},{
+  "_id": "RA83",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666109311000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1666714111000"
+    }
+  },
+  "product_id": "HA8",
+  "customer_id": "C1",
+  "order_id": "20221018160831C1",
+  "rating": 1
+},{
+  "_id": "RA84",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666115961000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1666720761000"
+    }
+  },
+  "product_id": "PH3",
+  "customer_id": "C5",
+  "order_id": "20221018175921C5",
+  "rating": 5
+},{
+  "_id": "RA85",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666170579000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1666775379000"
+    }
+  },
+  "product_id": "B7",
+  "customer_id": "C2",
+  "order_id": "20221019090939C2",
+  "rating": 1
+},{
+  "_id": "RA86",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666213801000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1666818601000"
+    }
+  },
+  "product_id": "CD9",
+  "customer_id": "C16",
+  "order_id": "20221019211001C16",
+  "rating": 4
+},{
+  "_id": "RA87",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666740586000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1666826986000"
+    }
+  },
+  "product_id": "FP7",
+  "customer_id": "C9",
+  "order_id": "20221025232946C9",
+  "rating": 5
+},{
+  "_id": "RA88",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666770387000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1666856787000"
+    }
+  },
+  "product_id": "FP8",
+  "customer_id": "C14",
+  "order_id": "20221026074627C14",
+  "rating": 4
+},{
+  "_id": "RA89",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666261317000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1666866117000"
+    }
+  },
+  "product_id": "PH1",
+  "customer_id": "C9",
+  "order_id": "20221020102157C9",
+  "rating": 2
+},{
+  "_id": "RA90",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666804745000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1666891145000"
+    }
+  },
+  "product_id": "FP9",
+  "customer_id": "C12",
+  "order_id": "20221026171905C12",
+  "rating": 5
+},{
+  "_id": "RA91",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666309677000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1666914477000"
+    }
+  },
+  "product_id": "PH6",
+  "customer_id": "C1",
+  "order_id": "20221020234757C1",
+  "rating": 2
+},{
+  "_id": "RA92",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666316810000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1666921610000"
+    }
+  },
+  "product_id": "HA5",
+  "customer_id": "C16",
+  "order_id": "20221021014650C16",
+  "rating": 2
+},{
+  "_id": "RA93",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666338905000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1666943705000"
+    }
+  },
+  "product_id": "PH7",
+  "customer_id": "C18",
+  "order_id": "20221021075505C18",
+  "rating": 1
+},{
+  "_id": "RA94",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666369804000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1666974604000"
+    }
+  },
+  "product_id": "PH4",
+  "customer_id": "C6",
+  "order_id": "20221021163004C6",
+  "rating": 1
+},{
+  "_id": "RA95",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666369846000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1666974646000"
+    }
+  },
+  "product_id": "CD6",
+  "customer_id": "C1",
+  "order_id": "20221021163046C1",
+  "rating": 3
+},{
+  "_id": "RA96",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666400410000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1667005210000"
+    }
+  },
+  "product_id": "HA3",
+  "customer_id": "C7",
+  "order_id": "20221022010010C7",
+  "rating": 4
+},{
+  "_id": "RA97",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666420280000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1667025080000"
+    }
+  },
+  "product_id": "B2",
+  "customer_id": "C9",
+  "order_id": "20221022063120C9",
+  "rating": 4
+},{
+  "_id": "RA98",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666439980000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1667044780000"
+    }
+  },
+  "product_id": "CD9",
+  "customer_id": "C18",
+  "order_id": "20221022115940C18",
+  "rating": 1
+},{
+  "_id": "RA99",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666447072000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1667051872000"
+    }
+  },
+  "product_id": "HA1",
+  "customer_id": "C11",
+  "order_id": "20221022135752C11",
+  "rating": 2
+},{
+  "_id": "RA100",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666447945000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1667052745000"
+    }
+  },
+  "product_id": "HA4",
+  "customer_id": "C1",
+  "order_id": "20221022141225C1",
+  "rating": 2
+},{
+  "_id": "RA101",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667016850000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1667103250000"
+    }
+  },
+  "product_id": "FP11",
+  "customer_id": "C19",
+  "order_id": "20221029041410C19",
+  "rating": 5
+},{
+  "_id": "RA102",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666530383000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1667135183000"
+    }
+  },
+  "product_id": "CD2",
+  "customer_id": "C6",
+  "order_id": "20221023130623C6",
+  "rating": 2
+},{
+  "_id": "RA103",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666558743000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1667163543000"
+    }
+  },
+  "product_id": "HA5",
+  "customer_id": "C9",
+  "order_id": "20221023205903C9",
+  "rating": 2
+},{
+  "_id": "RA104",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666560715000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1667165515000"
+    }
+  },
+  "product_id": "B8",
+  "customer_id": "C19",
+  "order_id": "20221023213155C19",
+  "rating": 1
+},{
+  "_id": "RA105",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667091893000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1667178293000"
+    }
+  },
+  "product_id": "FP4",
+  "customer_id": "C3",
+  "order_id": "20221030010453C3",
+  "rating": 4
+},{
+  "_id": "RA106",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667098010000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1667184410000"
+    }
+  },
+  "product_id": "FP11",
+  "customer_id": "C2",
+  "order_id": "20221030024650C2",
+  "rating": 2
+},{
+  "_id": "RA107",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667134805000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1667221205000"
+    }
+  },
+  "product_id": "FP1",
+  "customer_id": "C19",
+  "order_id": "20221030130005C19",
+  "rating": 4
+},{
+  "_id": "RA108",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667141155000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1667227555000"
+    }
+  },
+  "product_id": "FP8",
+  "customer_id": "C15",
+  "order_id": "20221030144555C15",
+  "rating": 2
+},{
+  "_id": "RA109",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666631598000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1667236398000"
+    }
+  },
+  "product_id": "B2",
+  "customer_id": "C4",
+  "order_id": "20221024171318C4",
+  "rating": 4
+},{
+  "_id": "RA110",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666635811000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1667240611000"
+    }
+  },
+  "product_id": "B2",
+  "customer_id": "C19",
+  "order_id": "20221024182331C19",
+  "rating": 5
+},{
+  "_id": "RA111",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666657188000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1667261988000"
+    }
+  },
+  "product_id": "CD8",
+  "customer_id": "C16",
+  "order_id": "20221025001948C16",
+  "rating": 2
+},{
+  "_id": "RA112",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666669196000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1667273996000"
+    }
+  },
+  "product_id": "PH8",
+  "customer_id": "C7",
+  "order_id": "20221025033956C7",
+  "rating": 4
+},{
+  "_id": "RA113",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666694189000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1667298989000"
+    }
+  },
+  "product_id": "B4",
+  "customer_id": "C6",
+  "order_id": "20221025103629C6",
+  "rating": 1
+},{
+  "_id": "RA114",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666703595000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1667308395000"
+    }
+  },
+  "product_id": "B9",
+  "customer_id": "C4",
+  "order_id": "20221025131315C4",
+  "rating": 4
+},{
+  "_id": "RA115",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666703737000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1667308537000"
+    }
+  },
+  "product_id": "B3",
+  "customer_id": "C2",
+  "order_id": "20221025131537C2",
+  "rating": 1
+},{
+  "_id": "RA116",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666704229000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1667309029000"
+    }
+  },
+  "product_id": "B9",
+  "customer_id": "C13",
+  "order_id": "20221025132349C13",
+  "rating": 5
+},{
+  "_id": "RA117",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666728979000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1667333779000"
+    }
+  },
+  "product_id": "B5",
+  "customer_id": "C6",
+  "order_id": "20221025201619C6",
+  "rating": 1
+},{
+  "_id": "RA118",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667247857000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1667334257000"
+    }
+  },
+  "product_id": "FP7",
+  "customer_id": "C20",
+  "order_id": "20221031202417C20",
+  "rating": 1
+},{
+  "_id": "RA119",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666756675000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1667361475000"
+    }
+  },
+  "product_id": "PH10",
+  "customer_id": "C17",
+  "order_id": "20221026035755C17",
+  "rating": 2
+},{
+  "_id": "RA120",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666805159000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1667409959000"
+    }
+  },
+  "product_id": "PH8",
+  "customer_id": "C11",
+  "order_id": "20221026172559C11",
+  "rating": 2
+},{
+  "_id": "RA121",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667325649000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1667412049000"
+    }
+  },
+  "product_id": "FP3",
+  "customer_id": "C18",
+  "order_id": "20221101180049C18",
+  "rating": 1
+},{
+  "_id": "RA122",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667337659000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1667424059000"
+    }
+  },
+  "product_id": "FP7",
+  "customer_id": "C18",
+  "order_id": "20221101212059C18",
+  "rating": 2
+},{
+  "_id": "RA123",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666824415000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1667429215000"
+    }
+  },
+  "product_id": "HA10",
+  "customer_id": "C17",
+  "order_id": "20221026224655C17",
+  "rating": 5
+},{
+  "_id": "RA124",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667343874000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1667430274000"
+    }
+  },
+  "product_id": "FP15",
+  "customer_id": "C20",
+  "order_id": "20221101230434C20",
+  "rating": 3
+},{
+  "_id": "RA125",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666854584000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1667459384000"
+    }
+  },
+  "product_id": "PH3",
+  "customer_id": "C12",
+  "order_id": "20221027070944C12",
+  "rating": 3
+},{
+  "_id": "RA126",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666872513000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1667477313000"
+    }
+  },
+  "product_id": "B4",
+  "customer_id": "C20",
+  "order_id": "20221027120833C20",
+  "rating": 2
+},{
+  "_id": "RA127",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666874092000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1667478892000"
+    }
+  },
+  "product_id": "CD8",
+  "customer_id": "C5",
+  "order_id": "20221027123452C5",
+  "rating": 5
+},{
+  "_id": "RA128",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666887896000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1667492696000"
+    }
+  },
+  "product_id": "CD4",
+  "customer_id": "C17",
+  "order_id": "20221027162456C17",
+  "rating": 3
+},{
+  "_id": "RA129",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667416365000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1667502765000"
+    }
+  },
+  "product_id": "FP10",
+  "customer_id": "C18",
+  "order_id": "20221102191245C18",
+  "rating": 5
+},{
+  "_id": "RA130",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667490672000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1667577072000"
+    }
+  },
+  "product_id": "FP8",
+  "customer_id": "C3",
+  "order_id": "20221103155112C3",
+  "rating": 5
+},{
+  "_id": "RA131",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667506165000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1667592565000"
+    }
+  },
+  "product_id": "FP4",
+  "customer_id": "C12",
+  "order_id": "20221103200925C12",
+  "rating": 4
+},{
+  "_id": "RA132",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667545595000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1667631995000"
+    }
+  },
+  "product_id": "FP5",
+  "customer_id": "C10",
+  "order_id": "20221104070635C10",
+  "rating": 1
+},{
+  "_id": "RA133",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667554784000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1667641184000"
+    }
+  },
+  "product_id": "FP10",
+  "customer_id": "C13",
+  "order_id": "20221104093944C13",
+  "rating": 4
+},{
+  "_id": "RA134",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667038796000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1667643596000"
+    }
+  },
+  "product_id": "PH10",
+  "customer_id": "C15",
+  "order_id": "20221029101956C15",
+  "rating": 5
+},{
+  "_id": "RA135",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667063496000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1667668296000"
+    }
+  },
+  "product_id": "PH1",
+  "customer_id": "C12",
+  "order_id": "20221029171136C12",
+  "rating": 1
+},{
+  "_id": "RA136",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667078011000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1667682811000"
+    }
+  },
+  "product_id": "PH4",
+  "customer_id": "C1",
+  "order_id": "20221029211331C1",
+  "rating": 4
+},{
+  "_id": "RA137",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667081032000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1667685832000"
+    }
+  },
+  "product_id": "B7",
+  "customer_id": "C3",
+  "order_id": "20221029220352C3",
+  "rating": 2
+},{
+  "_id": "RA138",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667090890000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1667695690000"
+    }
+  },
+  "product_id": "PH1",
+  "customer_id": "C3",
+  "order_id": "20221030004810C3",
+  "rating": 5
+},{
+  "_id": "RA139",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667097231000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1667702031000"
+    }
+  },
+  "product_id": "CD7",
+  "customer_id": "C10",
+  "order_id": "20221030023351C10",
+  "rating": 4
+},{
+  "_id": "RA140",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667619137000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1667705537000"
+    }
+  },
+  "product_id": "FP15",
+  "customer_id": "C4",
+  "order_id": "20221105033217C4",
+  "rating": 3
+},{
+  "_id": "RA141",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667125005000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1667729805000"
+    }
+  },
+  "product_id": "HA8",
+  "customer_id": "C15",
+  "order_id": "20221030101645C15",
+  "rating": 4
+},{
+  "_id": "RA142",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667154455000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1667759255000"
+    }
+  },
+  "product_id": "B4",
+  "customer_id": "C15",
+  "order_id": "20221030182735C15",
+  "rating": 4
+},{
+  "_id": "RA143",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667690817000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1667777217000"
+    }
+  },
+  "product_id": "FP6",
+  "customer_id": "C13",
+  "order_id": "20221105232657C13",
+  "rating": 1
+},{
+  "_id": "RA144",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667753649000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1667840049000"
+    }
+  },
+  "product_id": "FP6",
+  "customer_id": "C2",
+  "order_id": "20221106165409C2",
+  "rating": 4
+},{
+  "_id": "RA145",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667250974000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1667855774000"
+    }
+  },
+  "product_id": "B1",
+  "customer_id": "C17",
+  "order_id": "20221031211614C17",
+  "rating": 1
+},{
+  "_id": "RA146",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667254235000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1667859035000"
+    }
+  },
+  "product_id": "B9",
+  "customer_id": "C14",
+  "order_id": "20221031221035C14",
+  "rating": 4
+},{
+  "_id": "RA147",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667319614000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1667924414000"
+    }
+  },
+  "product_id": "PH9",
+  "customer_id": "C14",
+  "order_id": "20221101162014C14",
+  "rating": 2
+},{
+  "_id": "RA148",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667359573000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1667964373000"
+    }
+  },
+  "product_id": "PH4",
+  "customer_id": "C5",
+  "order_id": "20221102032613C5",
+  "rating": 4
+},{
+  "_id": "RA149",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667393079000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1667997879000"
+    }
+  },
+  "product_id": "HA7",
+  "customer_id": "C10",
+  "order_id": "20221102124439C10",
+  "rating": 1
+},{
+  "_id": "RA150",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667933309000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1668019709000"
+    }
+  },
+  "product_id": "FP12",
+  "customer_id": "C20",
+  "order_id": "20221108184829C20",
+  "rating": 4
+},{
+  "_id": "RA151",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667991391000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1668077791000"
+    }
+  },
+  "product_id": "FP12",
+  "customer_id": "C10",
+  "order_id": "20221109105631C10",
+  "rating": 1
+},{
+  "_id": "RA152",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667513492000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1668118292000"
+    }
+  },
+  "product_id": "CD10",
+  "customer_id": "C14",
+  "order_id": "20221103221132C14",
+  "rating": 4
+},{
+  "_id": "RA153",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667518801000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1668123601000"
+    }
+  },
+  "product_id": "HA4",
+  "customer_id": "C20",
+  "order_id": "20221103234001C20",
+  "rating": 2
+},{
+  "_id": "RA154",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668058265000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1668144665000"
+    }
+  },
+  "product_id": "FP8",
+  "customer_id": "C8",
+  "order_id": "20221110053105C8",
+  "rating": 4
+},{
+  "_id": "RA155",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668059109000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1668145509000"
+    }
+  },
+  "product_id": "FP7",
+  "customer_id": "C13",
+  "order_id": "20221110054509C13",
+  "rating": 1
+},{
+  "_id": "RA156",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667620412000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1668225212000"
+    }
+  },
+  "product_id": "B8",
+  "customer_id": "C16",
+  "order_id": "20221105035332C16",
+  "rating": 5
+},{
+  "_id": "RA157",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667620686000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1668225486000"
+    }
+  },
+  "product_id": "HA1",
+  "customer_id": "C4",
+  "order_id": "20221105035806C4",
+  "rating": 2
+},{
+  "_id": "RA158",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667646087000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1668250887000"
+    }
+  },
+  "product_id": "CD10",
+  "customer_id": "C7",
+  "order_id": "20221105110127C7",
+  "rating": 5
+},{
+  "_id": "RA159",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667660301000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1668265101000"
+    }
+  },
+  "product_id": "B1",
+  "customer_id": "C8",
+  "order_id": "20221105145821C8",
+  "rating": 2
+},{
+  "_id": "RA160",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667673783000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1668278583000"
+    }
+  },
+  "product_id": "PH1",
+  "customer_id": "C3",
+  "order_id": "20221105184303C3",
+  "rating": 1
+},{
+  "_id": "RA161",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667724758000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1668329558000"
+    }
+  },
+  "product_id": "HA7",
+  "customer_id": "C12",
+  "order_id": "20221106085238C12",
+  "rating": 4
+},{
+  "_id": "RA162",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667728032000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1668332832000"
+    }
+  },
+  "product_id": "B6",
+  "customer_id": "C8",
+  "order_id": "20221106094712C8",
+  "rating": 4
+},{
+  "_id": "RA163",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668247990000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1668334390000"
+    }
+  },
+  "product_id": "FP11",
+  "customer_id": "C9",
+  "order_id": "20221112101310C9",
+  "rating": 4
+},{
+  "_id": "RA164",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667741328000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1668346128000"
+    }
+  },
+  "product_id": "PH2",
+  "customer_id": "C16",
+  "order_id": "20221106132848C16",
+  "rating": 1
+},{
+  "_id": "RA165",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667742541000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1668347341000"
+    }
+  },
+  "product_id": "HA2",
+  "customer_id": "C7",
+  "order_id": "20221106134901C7",
+  "rating": 5
+},{
+  "_id": "RA166",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668296571000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1668382971000"
+    }
+  },
+  "product_id": "FP13",
+  "customer_id": "C1",
+  "order_id": "20221112234251C1",
+  "rating": 2
+},{
+  "_id": "RA167",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667780586000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1668385386000"
+    }
+  },
+  "product_id": "PH9",
+  "customer_id": "C6",
+  "order_id": "20221107002306C6",
+  "rating": 2
+},{
+  "_id": "RA168",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667784255000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1668389055000"
+    }
+  },
+  "product_id": "CD3",
+  "customer_id": "C2",
+  "order_id": "20221107012415C2",
+  "rating": 3
+},{
+  "_id": "RA169",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667788365000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1668393165000"
+    }
+  },
+  "product_id": "HA3",
+  "customer_id": "C8",
+  "order_id": "20221107023245C8",
+  "rating": 4
+},{
+  "_id": "RA170",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667799686000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1668404486000"
+    }
+  },
+  "product_id": "B1",
+  "customer_id": "C7",
+  "order_id": "20221107054126C7",
+  "rating": 2
+},{
+  "_id": "RA171",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668328590000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1668414990000"
+    }
+  },
+  "product_id": "FP2",
+  "customer_id": "C18",
+  "order_id": "20221113083630C18",
+  "rating": 1
+},{
+  "_id": "RA172",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667835487000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1668440287000"
+    }
+  },
+  "product_id": "HA2",
+  "customer_id": "C8",
+  "order_id": "20221107153807C8",
+  "rating": 4
+},{
+  "_id": "RA173",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667875630000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1668480430000"
+    }
+  },
+  "product_id": "PH2",
+  "customer_id": "C10",
+  "order_id": "20221108024710C10",
+  "rating": 3
+},{
+  "_id": "RA174",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668401863000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1668488263000"
+    }
+  },
+  "product_id": "FP13",
+  "customer_id": "C1",
+  "order_id": "20221114045743C1",
+  "rating": 1
+},{
+  "_id": "RA175",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667943235000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1668548035000"
+    }
+  },
+  "product_id": "CD5",
+  "customer_id": "C11",
+  "order_id": "20221108213355C11",
+  "rating": 3
+},{
+  "_id": "RA176",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668519584000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1668605984000"
+    }
+  },
+  "product_id": "FP6",
+  "customer_id": "C17",
+  "order_id": "20221115133944C17",
+  "rating": 2
+},{
+  "_id": "RA177",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668010578000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1668615378000"
+    }
+  },
+  "product_id": "PH7",
+  "customer_id": "C11",
+  "order_id": "20221109161618C11",
+  "rating": 4
+},{
+  "_id": "RA178",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668013376000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1668618176000"
+    }
+  },
+  "product_id": "HA8",
+  "customer_id": "C4",
+  "order_id": "20221109170256C4",
+  "rating": 3
+},{
+  "_id": "RA179",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668027568000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1668632368000"
+    }
+  },
+  "product_id": "CD7",
+  "customer_id": "C13",
+  "order_id": "20221109205928C13",
+  "rating": 1
+},{
+  "_id": "RA180",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668035303000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1668640103000"
+    }
+  },
+  "product_id": "B2",
+  "customer_id": "C5",
+  "order_id": "20221109230823C5",
+  "rating": 4
+},{
+  "_id": "RA181",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668090004000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1668694804000"
+    }
+  },
+  "product_id": "B8",
+  "customer_id": "C9",
+  "order_id": "20221110142004C9",
+  "rating": 4
+},{
+  "_id": "RA182",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668107685000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1668712485000"
+    }
+  },
+  "product_id": "CD7",
+  "customer_id": "C1",
+  "order_id": "20221110191445C1",
+  "rating": 3
+},{
+  "_id": "RA183",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668109322000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1668714122000"
+    }
+  },
+  "product_id": "PH3",
+  "customer_id": "C5",
+  "order_id": "20221110194202C5",
+  "rating": 3
+},{
+  "_id": "RA184",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668195451000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1668800251000"
+    }
+  },
+  "product_id": "B6",
+  "customer_id": "C2",
+  "order_id": "20221111193731C2",
+  "rating": 3
+},{
+  "_id": "RA185",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668231773000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1668836573000"
+    }
+  },
+  "product_id": "B9",
+  "customer_id": "C16",
+  "order_id": "20221112054253C16",
+  "rating": 4
+},{
+  "_id": "RA186",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668770761000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1668857161000"
+    }
+  },
+  "product_id": "FP10",
+  "customer_id": "C17",
+  "order_id": "20221118112601C17",
+  "rating": 5
+},{
+  "_id": "RA187",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668252874000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1668857674000"
+    }
+  },
+  "product_id": "CD1",
+  "customer_id": "C1",
+  "order_id": "20221112113434C1",
+  "rating": 1
+},{
+  "_id": "RA188",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668256944000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1668861744000"
+    }
+  },
+  "product_id": "HA10",
+  "customer_id": "C16",
+  "order_id": "20221112124224C16",
+  "rating": 3
+},{
+  "_id": "RA189",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668264835000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1668869635000"
+    }
+  },
+  "product_id": "CD4",
+  "customer_id": "C18",
+  "order_id": "20221112145355C18",
+  "rating": 2
+},{
+  "_id": "RA190",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668271757000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1668876557000"
+    }
+  },
+  "product_id": "PH5",
+  "customer_id": "C11",
+  "order_id": "20221112164917C11",
+  "rating": 2
+},{
+  "_id": "RA191",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668294430000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1668899230000"
+    }
+  },
+  "product_id": "PH6",
+  "customer_id": "C6",
+  "order_id": "20221112230710C6",
+  "rating": 2
+},{
+  "_id": "RA192",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668307674000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1668912474000"
+    }
+  },
+  "product_id": "B6",
+  "customer_id": "C14",
+  "order_id": "20221113024754C14",
+  "rating": 2
+},{
+  "_id": "RA193",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668309399000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1668914199000"
+    }
+  },
+  "product_id": "HA4",
+  "customer_id": "C7",
+  "order_id": "20221113031639C7",
+  "rating": 4
+},{
+  "_id": "RA194",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668827828000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1668914228000"
+    }
+  },
+  "product_id": "FP12",
+  "customer_id": "C20",
+  "order_id": "20221119031708C20",
+  "rating": 4
+},{
+  "_id": "RA195",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668316903000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1668921703000"
+    }
+  },
+  "product_id": "CD5",
+  "customer_id": "C9",
+  "order_id": "20221113052143C9",
+  "rating": 2
+},{
+  "_id": "RA196",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668321270000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1668926070000"
+    }
+  },
+  "product_id": "PH5",
+  "customer_id": "C19",
+  "order_id": "20221113063430C19",
+  "rating": 1
+},{
+  "_id": "RA197",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668840839000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1668927239000"
+    }
+  },
+  "product_id": "FP7",
+  "customer_id": "C5",
+  "order_id": "20221119065359C5",
+  "rating": 3
+},{
+  "_id": "RA198",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668324877000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1668929677000"
+    }
+  },
+  "product_id": "CD3",
+  "customer_id": "C5",
+  "order_id": "20221113073437C5",
+  "rating": 1
+},{
+  "_id": "RA199",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668890260000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1668976660000"
+    }
+  },
+  "product_id": "FP5",
+  "customer_id": "C15",
+  "order_id": "20221119203740C15",
+  "rating": 4
+},{
+  "_id": "RA200",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668372327000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1668977127000"
+    }
+  },
+  "product_id": "PH2",
+  "customer_id": "C11",
+  "order_id": "20221113204527C11",
+  "rating": 1
+},{
+  "_id": "RA201",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668404333000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1669009133000"
+    }
+  },
+  "product_id": "B3",
+  "customer_id": "C15",
+  "order_id": "20221114053853C15",
+  "rating": 2
+},{
+  "_id": "RA202",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668415879000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1669020679000"
+    }
+  },
+  "product_id": "HA5",
+  "customer_id": "C6",
+  "order_id": "20221114085119C6",
+  "rating": 4
+},{
+  "_id": "RA203",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668421404000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1669026204000"
+    }
+  },
+  "product_id": "PH3",
+  "customer_id": "C9",
+  "order_id": "20221114102324C9",
+  "rating": 1
+},{
+  "_id": "RA204",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668449139000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1669053939000"
+    }
+  },
+  "product_id": "PH5",
+  "customer_id": "C19",
+  "order_id": "20221114180539C19",
+  "rating": 5
+},{
+  "_id": "RA205",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668526308000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1669131108000"
+    }
+  },
+  "product_id": "HA2",
+  "customer_id": "C4",
+  "order_id": "20221115153148C4",
+  "rating": 4
+},{
+  "_id": "RA206",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668551876000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1669156676000"
+    }
+  },
+  "product_id": "PH2",
+  "customer_id": "C19",
+  "order_id": "20221115223756C19",
+  "rating": 2
+},{
+  "_id": "RA207",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668583155000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1669187955000"
+    }
+  },
+  "product_id": "PH5",
+  "customer_id": "C16",
+  "order_id": "20221116071915C16",
+  "rating": 5
+},{
+  "_id": "RA208",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668584841000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1669189641000"
+    }
+  },
+  "product_id": "B10",
+  "customer_id": "C7",
+  "order_id": "20221116074721C7",
+  "rating": 5
+},{
+  "_id": "RA209",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669110103000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1669196503000"
+    }
+  },
+  "product_id": "FP2",
+  "customer_id": "C10",
+  "order_id": "20221122094143C10",
+  "rating": 3
+},{
+  "_id": "RA210",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668626388000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1669231188000"
+    }
+  },
+  "product_id": "CD10",
+  "customer_id": "C6",
+  "order_id": "20221116191948C6",
+  "rating": 3
+},{
+  "_id": "RA211",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668644413000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1669249213000"
+    }
+  },
+  "product_id": "HA9",
+  "customer_id": "C4",
+  "order_id": "20221117002013C4",
+  "rating": 4
+},{
+  "_id": "RA212",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668648839000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1669253639000"
+    }
+  },
+  "product_id": "B3",
+  "customer_id": "C2",
+  "order_id": "20221117013359C2",
+  "rating": 1
+},{
+  "_id": "RA213",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668658592000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1669263392000"
+    }
+  },
+  "product_id": "B8",
+  "customer_id": "C13",
+  "order_id": "20221117041632C13",
+  "rating": 3
+},{
+  "_id": "RA214",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669201486000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1669287886000"
+    }
+  },
+  "product_id": "FP6",
+  "customer_id": "C20",
+  "order_id": "20221123110446C20",
+  "rating": 2
+},{
+  "_id": "RA215",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669207084000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1669293484000"
+    }
+  },
+  "product_id": "FP15",
+  "customer_id": "C17",
+  "order_id": "20221123123804C17",
+  "rating": 3
+},{
+  "_id": "RA216",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669207638000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1669294038000"
+    }
+  },
+  "product_id": "FP3",
+  "customer_id": "C14",
+  "order_id": "20221123124718C14",
+  "rating": 1
+},{
+  "_id": "RA217",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669215609000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1669302009000"
+    }
+  },
+  "product_id": "FP15",
+  "customer_id": "C18",
+  "order_id": "20221123150009C18",
+  "rating": 1
+},{
+  "_id": "RA218",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668704016000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1669308816000"
+    }
+  },
+  "product_id": "PH7",
+  "customer_id": "C6",
+  "order_id": "20221117165336C6",
+  "rating": 4
+},{
+  "_id": "RA219",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668710753000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1669315553000"
+    }
+  },
+  "product_id": "CD9",
+  "customer_id": "C9",
+  "order_id": "20221117184553C9",
+  "rating": 5
+},{
+  "_id": "RA220",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668733909000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1669338709000"
+    }
+  },
+  "product_id": "CD5",
+  "customer_id": "C17",
+  "order_id": "20221118011149C17",
+  "rating": 3
+},{
+  "_id": "RA221",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668743113000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1669347913000"
+    }
+  },
+  "product_id": "B7",
+  "customer_id": "C14",
+  "order_id": "20221118034513C14",
+  "rating": 5
+},{
+  "_id": "RA222",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668759685000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1669364485000"
+    }
+  },
+  "product_id": "B10",
+  "customer_id": "C12",
+  "order_id": "20221118082125C12",
+  "rating": 1
+},{
+  "_id": "RA223",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668760040000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1669364840000"
+    }
+  },
+  "product_id": "B2",
+  "customer_id": "C11",
+  "order_id": "20221118082720C11",
+  "rating": 4
+},{
+  "_id": "RA224",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669328529000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1669414929000"
+    }
+  },
+  "product_id": "FP15",
+  "customer_id": "C3",
+  "order_id": "20221124222209C3",
+  "rating": 2
+},{
+  "_id": "RA225",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668820499000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1669425299000"
+    }
+  },
+  "product_id": "PH8",
+  "customer_id": "C12",
+  "order_id": "20221119011459C12",
+  "rating": 3
+},{
+  "_id": "RA226",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669354467000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1669440867000"
+    }
+  },
+  "product_id": "FP10",
+  "customer_id": "C10",
+  "order_id": "20221125053427C10",
+  "rating": 4
+},{
+  "_id": "RA227",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668875153000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1669479953000"
+    }
+  },
+  "product_id": "CD9",
+  "customer_id": "C17",
+  "order_id": "20221119162553C17",
+  "rating": 4
+},{
+  "_id": "RA228",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668877403000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1669482203000"
+    }
+  },
+  "product_id": "PH6",
+  "customer_id": "C19",
+  "order_id": "20221119170323C19",
+  "rating": 4
+},{
+  "_id": "RA229",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669454027000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1669540427000"
+    }
+  },
+  "product_id": "FP14",
+  "customer_id": "C7",
+  "order_id": "20221126091347C7",
+  "rating": 4
+},{
+  "_id": "RA230",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668967281000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1669572081000"
+    }
+  },
+  "product_id": "CD1",
+  "customer_id": "C12",
+  "order_id": "20221120180121C12",
+  "rating": 5
+},{
+  "_id": "RA231",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668969918000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1669574718000"
+    }
+  },
+  "product_id": "HA2",
+  "customer_id": "C1",
+  "order_id": "20221120184518C1",
+  "rating": 3
+},{
+  "_id": "RA232",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669495173000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1669581573000"
+    }
+  },
+  "product_id": "FP9",
+  "customer_id": "C3",
+  "order_id": "20221126203933C3",
+  "rating": 2
+},{
+  "_id": "RA233",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669499637000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1669586037000"
+    }
+  },
+  "product_id": "FP11",
+  "customer_id": "C13",
+  "order_id": "20221126215357C13",
+  "rating": 3
+},{
+  "_id": "RA234",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668982453000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1669587253000"
+    }
+  },
+  "product_id": "PH3",
+  "customer_id": "C3",
+  "order_id": "20221120221413C3",
+  "rating": 3
+},{
+  "_id": "RA235",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669013077000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1669617877000"
+    }
+  },
+  "product_id": "HA8",
+  "customer_id": "C3",
+  "order_id": "20221121064437C3",
+  "rating": 5
+},{
+  "_id": "RA236",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669533908000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1669620308000"
+    }
+  },
+  "product_id": "FP12",
+  "customer_id": "C12",
+  "order_id": "20221127072508C12",
+  "rating": 2
+},{
+  "_id": "RA237",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669611123000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1669697523000"
+    }
+  },
+  "product_id": "FP11",
+  "customer_id": "C2",
+  "order_id": "20221128045203C2",
+  "rating": 2
+},{
+  "_id": "RA238",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669096844000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1669701644000"
+    }
+  },
+  "product_id": "PH6",
+  "customer_id": "C3",
+  "order_id": "20221122060044C3",
+  "rating": 4
+},{
+  "_id": "RA239",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669115424000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1669720224000"
+    }
+  },
+  "product_id": "CD3",
+  "customer_id": "C2",
+  "order_id": "20221122111024C2",
+  "rating": 5
+},{
+  "_id": "RA240",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669647733000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1669734133000"
+    }
+  },
+  "product_id": "FP1",
+  "customer_id": "C8",
+  "order_id": "20221128150213C8",
+  "rating": 5
+},{
+  "_id": "RA241",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669156978000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1669761778000"
+    }
+  },
+  "product_id": "CD2",
+  "customer_id": "C15",
+  "order_id": "20221122224258C15",
+  "rating": 4
+},{
+  "_id": "RA242",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669166093000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1669770893000"
+    }
+  },
+  "product_id": "HA6",
+  "customer_id": "C19",
+  "order_id": "20221123011453C19",
+  "rating": 2
+},{
+  "_id": "RA243",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669170113000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1669774913000"
+    }
+  },
+  "product_id": "HA1",
+  "customer_id": "C15",
+  "order_id": "20221123022153C15",
+  "rating": 4
+},{
+  "_id": "RA244",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669703913000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1669790313000"
+    }
+  },
+  "product_id": "FP4",
+  "customer_id": "C8",
+  "order_id": "20221129063833C8",
+  "rating": 4
+},{
+  "_id": "RA245",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669194401000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1669799201000"
+    }
+  },
+  "product_id": "HA6",
+  "customer_id": "C15",
+  "order_id": "20221123090641C15",
+  "rating": 5
+},{
+  "_id": "RA246",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669215375000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1669820175000"
+    }
+  },
+  "product_id": "PH7",
+  "customer_id": "C14",
+  "order_id": "20221123145615C14",
+  "rating": 1
+},{
+  "_id": "RA247",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669223187000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1669827987000"
+    }
+  },
+  "product_id": "B5",
+  "customer_id": "C18",
+  "order_id": "20221123170627C18",
+  "rating": 2
+},{
+  "_id": "RA248",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669227503000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1669832303000"
+    }
+  },
+  "product_id": "CD1",
+  "customer_id": "C20",
+  "order_id": "20221123181823C20",
+  "rating": 4
+},{
+  "_id": "RA249",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669754306000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1669840706000"
+    }
+  },
+  "product_id": "FP8",
+  "customer_id": "C11",
+  "order_id": "20221129203826C11",
+  "rating": 4
+},{
+  "_id": "RA250",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669257673000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1669862473000"
+    }
+  },
+  "product_id": "PH9",
+  "customer_id": "C5",
+  "order_id": "20221124024113C5",
+  "rating": 3
+},{
+  "_id": "RA251",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669787957000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1669874357000"
+    }
+  },
+  "product_id": "FP2",
+  "customer_id": "C11",
+  "order_id": "20221130055917C11",
+  "rating": 4
+},{
+  "_id": "RA252",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669791326000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1669877726000"
+    }
+  },
+  "product_id": "FP14",
+  "customer_id": "C4",
+  "order_id": "20221130065526C4",
+  "rating": 3
+},{
+  "_id": "RA253",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669286086000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1669890886000"
+    }
+  },
+  "product_id": "CD4",
+  "customer_id": "C10",
+  "order_id": "20221124103446C10",
+  "rating": 4
+},{
+  "_id": "RA254",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669310583000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1669915383000"
+    }
+  },
+  "product_id": "HA10",
+  "customer_id": "C18",
+  "order_id": "20221124172303C18",
+  "rating": 5
+},{
+  "_id": "RA255",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669330346000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1669935146000"
+    }
+  },
+  "product_id": "HA3",
+  "customer_id": "C12",
+  "order_id": "20221124225226C12",
+  "rating": 5
+},{
+  "_id": "RA256",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669344448000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1669949248000"
+    }
+  },
+  "product_id": "HA1",
+  "customer_id": "C14",
+  "order_id": "20221125024728C14",
+  "rating": 1
+},{
+  "_id": "RA257",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669347387000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1669952187000"
+    }
+  },
+  "product_id": "HA9",
+  "customer_id": "C20",
+  "order_id": "20221125033627C20",
+  "rating": 3
+},{
+  "_id": "RA258",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669356178000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1669960978000"
+    }
+  },
+  "product_id": "HA9",
+  "customer_id": "C13",
+  "order_id": "20221125060258C13",
+  "rating": 2
+},{
+  "_id": "RA259",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669367827000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1669972627000"
+    }
+  },
+  "product_id": "CD9",
+  "customer_id": "C4",
+  "order_id": "20221125091707C4",
+  "rating": 1
+},{
+  "_id": "RA260",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669407154000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1670011954000"
+    }
+  },
+  "product_id": "HA5",
+  "customer_id": "C16",
+  "order_id": "20221125201234C16",
+  "rating": 3
+},{
+  "_id": "RA261",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669444578000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1670049378000"
+    }
+  },
+  "product_id": "PH5",
+  "customer_id": "C4",
+  "order_id": "20221126063618C4",
+  "rating": 4
+},{
+  "_id": "RA262",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669483271000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1670088071000"
+    }
+  },
+  "product_id": "CD8",
+  "customer_id": "C8",
+  "order_id": "20221126172111C8",
+  "rating": 1
+},{
+  "_id": "RA263",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669556771000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1670161571000"
+    }
+  },
+  "product_id": "B7",
+  "customer_id": "C8",
+  "order_id": "20221127134611C8",
+  "rating": 4
+},{
+  "_id": "RA264",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669578911000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1670183711000"
+    }
+  },
+  "product_id": "B10",
+  "customer_id": "C16",
+  "order_id": "20221127195511C16",
+  "rating": 4
+},{
+  "_id": "RA265",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669590555000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1670195355000"
+    }
+  },
+  "product_id": "HA7",
+  "customer_id": "C7",
+  "order_id": "20221127230915C7",
+  "rating": 4
+},{
+  "_id": "RA266",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669630496000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1670235296000"
+    }
+  },
+  "product_id": "HA10",
+  "customer_id": "C6",
+  "order_id": "20221128101456C6",
+  "rating": 5
+},{
+  "_id": "RA267",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669631494000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1670236294000"
+    }
+  },
+  "product_id": "HA3",
+  "customer_id": "C2",
+  "order_id": "20221128103134C2",
+  "rating": 5
+},{
+  "_id": "RA268",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669697895000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1670302695000"
+    }
+  },
+  "product_id": "PH6",
+  "customer_id": "C7",
+  "order_id": "20221129045815C7",
+  "rating": 3
+},{
+  "_id": "RA269",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669707104000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1670311904000"
+    }
+  },
+  "product_id": "CD2",
+  "customer_id": "C10",
+  "order_id": "20221129073144C10",
+  "rating": 5
+},{
+  "_id": "RA270",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669740930000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1670345730000"
+    }
+  },
+  "product_id": "PH8",
+  "customer_id": "C20",
+  "order_id": "20221129165530C20",
+  "rating": 2
+},{
+  "_id": "RA271",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669762553000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1670367353000"
+    }
+  },
+  "product_id": "CD10",
+  "customer_id": "C10",
+  "order_id": "20221129225553C10",
+  "rating": 3
+},{
+  "_id": "RA272",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669809952000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1670414752000"
+    }
+  },
+  "product_id": "CD4",
+  "customer_id": "C13",
+  "order_id": "20221130120552C13",
+  "rating": 3
+},{
+  "_id": "RA273",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669816076000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1670420876000"
+    }
+  },
+  "product_id": "B4",
+  "customer_id": "C5",
+  "order_id": "20221130134756C5",
+  "rating": 2
+},{
+  "_id": "RA274",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669839261000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1670444061000"
+    }
+  },
+  "product_id": "PH10",
+  "customer_id": "C8",
+  "order_id": "20221130201421C8",
+  "rating": 2
+},{
+  "_id": "RA275",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669846736000"
+    }
+  },
+  "published_date": {
+    "$date": {
+      "$numberLong": "1670451536000"
+    }
+  },
+  "product_id": "B1",
+  "customer_id": "C13",
+  "order_id": "20221130221856C13",
+  "rating": 4
+}]

@@ -1,0 +1,260 @@
+[{
+  "_id": {
+    "$oid": "63b852b6a7fc6363d52e5cbe"
+  },
+  "partner_id": "PA1",
+  "start_date": {
+    "$date": {
+      "$numberLong": "1672617600000"
+    }
+  },
+  "end_date": {
+    "$date": {
+      "$numberLong": "1672703999000"
+    }
+  },
+  "orders": [
+    {
+      "order_id": "20230102100909C1",
+      "timestamp": {
+        "$date": {
+          "$numberLong": "1672654149000"
+        }
+      },
+      "order_details": [
+        {
+          "product_id": "FP1",
+          "quantity": 1
+        },
+        {
+          "product_id": "FP2",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "order_id": "20230102220059C20",
+      "timestamp": {
+        "$date": {
+          "$numberLong": "1672696859000"
+        }
+      },
+      "order_details": {
+        "product_id": "FP15",
+        "quantity": 3
+      }
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63b854d4a7fc6363d52e5cc0"
+  },
+  "partner_id": "PA2",
+  "start_date": {
+    "$date": {
+      "$numberLong": "1672617600000"
+    }
+  },
+  "end_date": {
+    "$date": {
+      "$numberLong": "1672703999000"
+    }
+  },
+  "orders": [
+    {
+      "order_id": "20230102135959C2",
+      "timestamp": {
+        "$date": {
+          "$numberLong": "1672667999000"
+        }
+      },
+      "order_details": {
+        "product_id": "FP3",
+        "quantity": 7
+      }
+    },
+    {
+      "order_id": "20230102155908C13",
+      "timestamp": {
+        "$date": {
+          "$numberLong": "1672675148000"
+        }
+      },
+      "order_details": {
+        "product_id": "FP10",
+        "quantity": 1
+      }
+    },
+    {
+      "order_id": "20230102175908C3",
+      "timestamp": {
+        "$date": {
+          "$numberLong": "1672682348000"
+        }
+      },
+      "order_details": {
+        "product_id": "FP12",
+        "quantity": 2
+      }
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63b8558ba7fc6363d52e5cc2"
+  },
+  "partner_id": "PA3",
+  "start_date": {
+    "$date": {
+      "$numberLong": "1672617600000"
+    }
+  },
+  "end_date": {
+    "$date": {
+      "$numberLong": "1672703999000"
+    }
+  },
+  "orders": [
+    {
+      "order_id": "20230102120108C15",
+      "timestamp": {
+        "$date": {
+          "$numberLong": "1672660868000"
+        }
+      },
+      "order_details": {
+        "product_id": "FP1",
+        "quantity": 1
+      }
+    },
+    {
+      "order_id": "20230102135908C13",
+      "timestamp": {
+        "$date": {
+          "$numberLong": "1672667948000"
+        }
+      },
+      "order_details": {
+        "product_id": "FP3",
+        "quantity": 1
+      }
+    },
+    {
+      "order_id": "20230102161908C4",
+      "timestamp": {
+        "$date": {
+          "$numberLong": "1672676348000"
+        }
+      },
+      "order_details": {
+        "product_id": "FP14",
+        "quantity": 2
+      }
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63b855fba7fc6363d52e5cc4"
+  },
+  "partner_id": "PA3",
+  "start_date": {
+    "$date": {
+      "$numberLong": "1672617600000"
+    }
+  },
+  "end_date": {
+    "$date": {
+      "$numberLong": "1672703999000"
+    }
+  },
+  "orders": [
+    {
+      "order_id": "20230102125030C4",
+      "timestamp": {
+        "$date": {
+          "$numberLong": "1672663830000"
+        }
+      },
+      "order_details": {
+        "product_id": "FP1",
+        "quantity": 2
+      }
+    },
+    {
+      "order_id": "20230102135939C5",
+      "timestamp": {
+        "$date": {
+          "$numberLong": "1672667979000"
+        }
+      },
+      "order_details": {
+        "product_id": "FP2",
+        "quantity": 3
+      }
+    },
+    {
+      "order_id": "20230102215908C6",
+      "timestamp": {
+        "$date": {
+          "$numberLong": "1672696748000"
+        }
+      },
+      "order_details": {
+        "product_id": "FP8",
+        "quantity": 1
+      }
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63b85681a7fc6363d52e5cc6"
+  },
+  "partner_id": "PA3",
+  "start_date": {
+    "$date": {
+      "$numberLong": "1672617600000"
+    }
+  },
+  "end_date": {
+    "$date": {
+      "$numberLong": "1672703999000"
+    }
+  },
+  "orders": [
+    {
+      "order_id": "20230102123908C4",
+      "timestamp": {
+        "$date": {
+          "$numberLong": "1672663148000"
+        }
+      },
+      "order_details": {
+        "product_id": "FP7",
+        "quantity": 1
+      }
+    },
+    {
+      "order_id": "20230102175908C8",
+      "timestamp": {
+        "$date": {
+          "$numberLong": "1672682348000"
+        }
+      },
+      "order_details": {
+        "product_id": "FP9",
+        "quantity": 2
+      }
+    },
+    {
+      "order_id": "20230102191918C5",
+      "timestamp": {
+        "$date": {
+          "$numberLong": "1672687158000"
+        }
+      },
+      "order_details": {
+        "product_id": "FP10",
+        "quantity": 1
+      }
+    }
+  ]
+}]

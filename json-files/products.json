@@ -1,0 +1,1076 @@
+[{
+  "_id": "CD2",
+  "name": "Led Zepellin IV",
+  "short_desc": "The informal setting at Headley Grange inspired the band, allowing them to try different arrangements of material and create songs in various styles",
+  "dimensions": {
+    "length": 12,
+    "width": 12,
+    "height": 1
+  },
+  "quantity_per_unit": 0.9,
+  "avg_ratings": 4,
+  "std_price": 11.48,
+  "supp_price": 5,
+  "cd": {
+    "artist_name": "Led Zepellin",
+    "no_of_tracks": 8,
+    "total_play_time_in_mins": 42,
+    "publisher": "Rodale Books"
+  },
+  "category": "CD"
+},{
+  "_id": "CD3",
+  "name": "21",
+  "short_desc": "Composed in the aftermath of the singer's separation from her then partner, the album explores themes of heartbreak, healing, introspection, and forgiveness.",
+  "dimensions": {
+    "length": 13,
+    "width": 12,
+    "height": 1
+  },
+  "quantity_per_unit": 0.4,
+  "avg_ratings": 2.6,
+  "std_price": 9.12,
+  "supp_price": 3,
+  "cd": {
+    "artist_name": "Adele",
+    "no_of_tracks": 11,
+    "total_play_time_in_mins": 48,
+    "publisher": "XL Recordings"
+  },
+  "category": "CD"
+},{
+  "_id": "CD4",
+  "name": "The Wall",
+  "short_desc": "It is a rock opera that explores Pink, a jaded rock star whose eventual self-imposed isolation from society forms a figurative wall. ",
+  "dimensions": {
+    "length": 14,
+    "width": 12,
+    "height": 1
+  },
+  "quantity_per_unit": 0.6,
+  "avg_ratings": 3,
+  "std_price": 16.58,
+  "supp_price": 9,
+  "cd": {
+    "artist_name": "Pink Floyd",
+    "no_of_tracks": 26,
+    "total_play_time_in_mins": 80,
+    "publisher": "Alan Marshall"
+  },
+  "category": "CD"
+},{
+  "_id": "CD5",
+  "name": "Back in Black",
+  "short_desc": "The seventh studio album by Australian rock band AC/DC. It was released on 25 July 1980 by Albert Productions and Atlantic Records.",
+  "dimensions": {
+    "length": 14,
+    "width": 12,
+    "height": 1
+  },
+  "quantity_per_unit": 0.5,
+  "avg_ratings": 3.4,
+  "std_price": 7.46,
+  "supp_price": 9,
+  "cd": {
+    "artist_name": "AC/DC",
+    "no_of_tracks": 10,
+    "total_play_time_in_mins": 42,
+    "publisher": "Robert John Mutt Lange"
+  },
+  "category": "CD"
+},{
+  "_id": "CD6",
+  "name": "Abbey Road",
+  "short_desc": "Abbey Road incorporates styles such as rock, pop, blues, singer-songwriter, and progressive rock, and makes prominent use of the Moog synthesizer and guitar played through a Leslie speaker unit.",
+  "dimensions": {
+    "length": 14,
+    "width": 14,
+    "height": 3
+  },
+  "quantity_per_unit": 0.9,
+  "avg_ratings": 3.2,
+  "std_price": 14.92,
+  "supp_price": 8,
+  "cd": {
+    "artist_name": "The Beatles",
+    "no_of_tracks": 17,
+    "total_play_time_in_mins": 47,
+    "publisher": "George Martin"
+  },
+  "category": "CD"
+},{
+  "_id": "CD7",
+  "name": "The Eminem Show",
+  "short_desc": "The album incorporates a heavier use of rap rock than Eminem's previous albums, and its themes are predominantly based on Eminem's prominence in hip hop culture, as well as his ambivalent thoughts of fame.",
+  "dimensions": {
+    "length": 14,
+    "width": 12,
+    "height": 1
+  },
+  "quantity_per_unit": 0.8,
+  "avg_ratings": 2.8,
+  "std_price": 6.61,
+  "supp_price": 5,
+  "cd": {
+    "artist_name": "Eminem",
+    "no_of_tracks": 20,
+    "total_play_time_in_mins": 77,
+    "publisher": "Ensign Music Corp"
+  },
+  "category": "CD"
+},{
+  "_id": "CD8",
+  "name": "Hybrid Theory",
+  "short_desc": "The album's lyrical themes deal with problems lead vocalist Chester Bennington experienced during his adolescence, including drug abuse and the constant fighting and divorce of his parents.",
+  "dimensions": {
+    "length": 12,
+    "width": 12,
+    "height": 1
+  },
+  "quantity_per_unit": 0.8,
+  "avg_ratings": 2.4,
+  "std_price": 20.65,
+  "supp_price": 10.85,
+  "cd": {
+    "artist_name": "Linkin Park",
+    "no_of_tracks": 12,
+    "total_play_time_in_mins": 37,
+    "publisher": "Warner Bros Records"
+  },
+  "category": "CD"
+},{
+  "_id": "CD9",
+  "name": "Ladies & Gentlemen",
+  "short_desc": "The collection of 29 songs is separated into two-halves, with each CD of the double set containing music of a particular theme and mood. ",
+  "dimensions": {
+    "length": 12,
+    "width": 12,
+    "height": 3
+  },
+  "quantity_per_unit": 0.4,
+  "avg_ratings": 3,
+  "std_price": 18.2,
+  "supp_price": 9.9,
+  "cd": {
+    "artist_name": "George Michael",
+    "no_of_tracks": 29,
+    "total_play_time_in_mins": 136,
+    "publisher": "Warner Chappell Music Ltd."
+  },
+  "category": "CD"
+},{
+  "_id": "CD10",
+  "name": "Hotel California",
+  "short_desc": "Released on December 8, 1976, by Asylum Records, Hotel California was recorded by Bill Szymczyk at the Criteria and Record Plant studios between March and October 1976. ",
+  "dimensions": {
+    "length": 12,
+    "width": 12,
+    "height": 2
+  },
+  "quantity_per_unit": 0.4,
+  "avg_ratings": 4,
+  "std_price": 8.28,
+  "supp_price": 6,
+  "cd": {
+    "artist_name": "Eagles",
+    "no_of_tracks": 9,
+    "total_play_time_in_mins": 43,
+    "publisher": "Warner Bros Records"
+  },
+  "category": "CD"
+},{
+  "_id": "PH1",
+  "name": "iPhone 6s",
+  "short_desc": "Powered by the Apple A9 system-on-chip, which the company stated is up to 70% faster than Apple A8, and has up to 90% better graphics performance",
+  "dimensions": {
+    "length": 15.82,
+    "width": 7.71,
+    "height": 0.7
+  },
+  "quantity_per_unit": 0.14,
+  "avg_ratings": 2,
+  "std_price": 169,
+  "supp_price": 96,
+  "mobile_phone": {
+    "brand": "Apple",
+    "model": "iPhone 6s",
+    "colour": "Space Grey",
+    "features": "Retina HD display, Widescreen LCD, Multi-Touch display with IPS technology"
+  },
+  "category": "PH"
+},{
+  "_id": "PH2",
+  "name": "Galaxy S10",
+  "short_desc": "The tenth generation of the Samsung Galaxy S, its flagship line of phones next to the Note models, which is also the 10th anniversary of the Galaxy S",
+  "dimensions": {
+    "length": 14.99,
+    "width": 7.04,
+    "height": 0.78
+  },
+  "quantity_per_unit": 0.15,
+  "avg_ratings": 2.4,
+  "std_price": 200,
+  "supp_price": 113,
+  "mobile_phone": {
+    "brand": "Samsung",
+    "model": "S10",
+    "colour": "Black",
+    "features": "Dual-sim, Fingerprint Sensor, Gyro Sensor"
+  },
+  "category": "PH"
+},{
+  "_id": "PH3",
+  "name": "Google Pixel XL",
+  "short_desc": "A brand of portable consumer electronic devices developed by Google that run either ChromeOS or the Android operating system",
+  "dimensions": {
+    "length": 15.47,
+    "width": 7.57,
+    "height": 0.85
+  },
+  "quantity_per_unit": 0.17,
+  "avg_ratings": 3,
+  "std_price": 179.99,
+  "supp_price": 79.99,
+  "mobile_phone": {
+    "brand": "Google",
+    "model": "Pixel XL",
+    "colour": "Obsidian",
+    "features": "Gorilla Glass 4, Fingerprint Sensor, AMOLED display"
+  },
+  "category": "PH"
+},{
+  "_id": "PH4",
+  "name": "Huawei P9",
+  "short_desc": "A 5.2-inch Full HD IPS-NEO LCD display and runs on Android 6.0 Marshmallow OS",
+  "dimensions": {
+    "length": 14.5,
+    "width": 7.09,
+    "height": 0.7
+  },
+  "quantity_per_unit": 0.14,
+  "avg_ratings": 3.6,
+  "std_price": 100,
+  "supp_price": 55,
+  "mobile_phone": {
+    "brand": "Huawei",
+    "model": "P9",
+    "colour": "Ceramic White",
+    "features": "IPS-NEO LCD display, Quad-core 2.5 GHz, Fingerprint Sensor"
+  },
+  "category": "PH"
+},{
+  "_id": "PH5",
+  "name": "iPhone 13",
+  "short_desc": "A flat chassis analogous to that of contemporaneous Apple products, some differences such as the rear cameras being larger and arranged diagonally.",
+  "dimensions": {
+    "length": 13.15,
+    "width": 6.42,
+    "height": 0.76
+  },
+  "quantity_per_unit": 0.14,
+  "avg_ratings": 3.4,
+  "std_price": 849,
+  "supp_price": 769,
+  "mobile_phone": {
+    "brand": "Apple",
+    "model": "iPhone 14",
+    "colour": "Starlight",
+    "features": "A15 Bionic chip, Face ID, Water and Dust Resistant"
+  },
+  "category": "PH"
+},{
+  "_id": "PH6",
+  "name": "Galaxy S22",
+  "short_desc": "There are numerous critical upgrades the phones possess over the previous models, in addition to improved specifications, an enhanced camera system supporting 8K video recording (7680Ã—4320) at 24 frames per second",
+  "dimensions": {
+    "length": 14.6,
+    "width": 7.06,
+    "height": 0.76
+  },
+  "quantity_per_unit": 0.17,
+  "avg_ratings": 3,
+  "std_price": 769,
+  "supp_price": 694,
+  "mobile_phone": {
+    "brand": "Samsung",
+    "model": "Galaxy S22",
+    "colour": "Phantom Black",
+    "features": "Dual Nano SIM, Dynamic AMOLED 2X, Fingerprint Sensor"
+  },
+  "category": "PH"
+},{
+  "_id": "PH7",
+  "name": "Google Pixel 7 ",
+  "short_desc": "Powered by the second-generation Google Tensor chip, shipped with Android 13.",
+  "dimensions": {
+    "length": 15.5,
+    "width": 7.4,
+    "height": 0.76
+  },
+  "quantity_per_unit": 0.2,
+  "avg_ratings": 3,
+  "std_price": 599,
+  "supp_price": 517,
+  "mobile_phone": {
+    "brand": "Google",
+    "model": "Pixel 7",
+    "colour": "Snow",
+    "features": "Corning Gorilla Glass, Always-on display, Dual-LED flash"
+  },
+  "category": "PH"
+},{
+  "_id": "PH8",
+  "name": "OnePlus 9 Pro",
+  "short_desc": "Your best shot. The phones feature upgraded cameras developed in partnership with Hasselblad.",
+  "dimensions": {
+    "length": 16,
+    "width": 7.42,
+    "height": 0.87
+  },
+  "quantity_per_unit": 0.19,
+  "avg_ratings": 3,
+  "std_price": 500,
+  "supp_price": 421,
+  "mobile_phone": {
+    "brand": "OnePlus",
+    "model": "9 Pro",
+    "colour": "Pine Green",
+    "features": "120 Hz Fluid Display, Hasselblad Camera, Warp Charge 65T"
+  },
+  "category": "PH"
+},{
+  "_id": "PH9",
+  "name": "iPhone 14",
+  "short_desc": "Equipped with new Emergency SOS via satellite service",
+  "dimensions": {
+    "length": 14.67,
+    "width": 7.15,
+    "height": 0.78
+  },
+  "quantity_per_unit": 0.17,
+  "avg_ratings": 3,
+  "std_price": 849,
+  "supp_price": 600,
+  "mobile_phone": {
+    "brand": "Apple",
+    "model": "iPhone 14",
+    "colour": "Midnight",
+    "features": "A15 Bionic chip, Face ID, Water and Dust Resistant"
+  },
+  "category": "PH"
+},{
+  "_id": "PH10",
+  "name": "iPhone X",
+  "short_desc": "The first iPhone to use an OLED screen.",
+  "dimensions": {
+    "length": 14.36,
+    "width": 7.09,
+    "height": 0.77
+  },
+  "quantity_per_unit": 0.17,
+  "avg_ratings": 3,
+  "std_price": 449,
+  "supp_price": 352,
+  "mobile_phone": {
+    "brand": "Apple",
+    "model": "iPhone X",
+    "colour": "Silver",
+    "features": "A11 Bionic chip, 3D Touch, Super Retina HD display"
+  },
+  "category": "PH"
+},{
+  "_id": "B1",
+  "name": "Distant Nebula",
+  "short_desc": "The image of a distant nebula, in the constellation Orion, photographed by the Hubble Space Telescope. The nebula is about 1,500 light-years across, and is about 1,500 light-years from Earth. For comparison, the distance to the Andromeda Galaxy is 2.5 kilop",
+  "dimensions": {
+    "length": 2.5,
+    "width": 3,
+    "height": 2
+  },
+  "quantity_per_unit": 0.8,
+  "avg_ratings": 2.6,
+  "std_price": 12.99,
+  "supp_price": 10.99,
+  "book": {
+    "author_name": "Amari Stevenson",
+    "publisher": "Sprite Pages",
+    "year_of_publication": 2009,
+    "ISBN": "978-3-2041-4086-4"
+  },
+  "category": "B"
+},{
+  "_id": "B2",
+  "name": "Cold Grave",
+  "short_desc": "Cold Grave is a moody and atmospheric horror tale set in an old graveyard. Set in the days following a zombie apocalypse, you play as a group of survivors who are trying to keep their sanity and stay alive.",
+  "dimensions": {
+    "length": 2.5,
+    "width": 3,
+    "height": 3
+  },
+  "quantity_per_unit": 1,
+  "avg_ratings": 4.2,
+  "std_price": 9.99,
+  "supp_price": 4.99,
+  "book": {
+    "author_name": "Paris Blake",
+    "publisher": "Lit Publications",
+    "year_of_publication": 2006,
+    "ISBN": "978-1-3890-1813-8"
+  },
+  "category": "B"
+},{
+  "_id": "B3",
+  "name": "Dangerous Elysium",
+  "short_desc": "Dangerous Elysium is a story of a man who is thrown into a world of surreal and hazardous circumstances. As the game progresses, your choices will determine not just who you are, but who you can be.",
+  "dimensions": {
+    "length": 2.5,
+    "width": 3,
+    "height": 4
+  },
+  "quantity_per_unit": 0.5,
+  "avg_ratings": 1.6,
+  "std_price": 8,
+  "supp_price": 2,
+  "book": {
+    "author_name": "Victoria Orr",
+    "publisher": "Hauthor",
+    "year_of_publication": 2013,
+    "ISBN": "978-7-6839-0684-3"
+  },
+  "category": "B"
+},{
+  "_id": "B4",
+  "name": "Children of the Nova",
+  "short_desc": "Children of the Nova formed in San Diego, California in 2007 and incorporates several diffent styles into their brand of progressive rock, inlcuding heavy metal, alternative, punk and jazz.",
+  "dimensions": {
+    "length": 2.5,
+    "width": 3,
+    "height": 5
+  },
+  "quantity_per_unit": 0.48,
+  "avg_ratings": 2.6,
+  "std_price": 14,
+  "supp_price": 9,
+  "book": {
+    "author_name": "Shawn Paul",
+    "publisher": "E-NET WEB PUBLISHING",
+    "year_of_publication": 2002,
+    "ISBN": "978-4-2851-1362-4"
+  },
+  "category": "B"
+},{
+  "_id": "B5",
+  "name": "The Silver Cradle",
+  "short_desc": "The Silver Cradle is the story of a year in the life of the Mexican American people of San Antonio, Texas",
+  "dimensions": {
+    "length": 2.5,
+    "width": 3,
+    "height": 6
+  },
+  "quantity_per_unit": 0.6,
+  "avg_ratings": 2.2,
+  "std_price": 13.5,
+  "supp_price": 5.5,
+  "book": {
+    "author_name": "Addyson Gutierrez",
+    "publisher": "Such Media Inc",
+    "year_of_publication": 2017,
+    "ISBN": "978-5-4046-0497-9"
+  },
+  "category": "B"
+},{
+  "_id": "B6",
+  "name": "Rich Dad Poor Dad",
+  "short_desc": "Rich Dad Poor Dad is Robert's story of growing up with two dads â€” his real father and the father of his best friend, his rich dad â€” and the ways in which both men shaped his thoughts about money and investing. The book explodes the myth that you need to earn a high income to be rich and explains the difference between working for money and having your money work for you.",
+  "dimensions": {
+    "length": 2.5,
+    "width": 3,
+    "height": 7
+  },
+  "quantity_per_unit": 0.3,
+  "avg_ratings": 3,
+  "std_price": 13.99,
+  "supp_price": 7.99,
+  "book": {
+    "author_name": "Robert Kiyosaki",
+    "publisher": "Warner Books",
+    "year_of_publication": "1997",
+    "ISBN": "978-6-5034-0281-7"
+  },
+  "category": "B"
+},{
+  "_id": "B7",
+  "name": "The Alchemist",
+  "short_desc": "The Alchemist is a classic novel in which a boy named Santiago embarks on a journey seeking treasure in the Egyptian pyramids after having a recurring dream about it and on the way meets mentors, falls in love, and most importantly, learns the true importance of who he is and how to improve himself",
+  "dimensions": {
+    "length": 2.5,
+    "width": 3,
+    "height": 8
+  },
+  "quantity_per_unit": 0.6,
+  "avg_ratings": 2.6,
+  "std_price": 16.99,
+  "supp_price": 12.99,
+  "book": {
+    "author_name": "Miles Gibson",
+    "publisher": "HarperCollins Publishers",
+    "year_of_publication": 1988,
+    "ISBN": "978-5-9546-3550-8"
+  },
+  "category": "B"
+},{
+  "_id": "B8",
+  "name": "The Psychology of Money",
+  "short_desc": "In this book, Morgan Housel addresses the often-neglected fact that we are irrational, emotional beings, not ROI-optimizing machines. Your financial success depends more on your soft skills (how you manage your psychology and emotional impulses) than your technical skills on financial analyses, market rules/laws",
+  "dimensions": {
+    "length": 2.5,
+    "width": 3,
+    "height": 9
+  },
+  "quantity_per_unit": 0.4,
+  "avg_ratings": 3,
+  "std_price": 10.99,
+  "supp_price": 6.99,
+  "book": {
+    "author_name": "Leonard Reyes",
+    "publisher": "Cve Inc",
+    "year_of_publication": 2020,
+    "ISBN": "978-1-0628-6609-4"
+  },
+  "category": "B"
+},{
+  "_id": "B9",
+  "name": "Thinking, Fast and Slow",
+  "short_desc": "Our brain is composed of systems, just like a computer. Fast, intuitive, and emotive describe System 1. In his book, Daniel Kahneman exhorts us to stop depending on this system. The most frequent cause of errors and stagnation is System 1. System 2 is a slower, more careful, and rational mental process in comparison. Kahneman advises making more frequent use of this system. Kahneman offers suggestions on how and why we make decisions in addition to this.",
+  "dimensions": {
+    "length": 2.5,
+    "width": 3,
+    "height": 10
+  },
+  "quantity_per_unit": 0.5,
+  "avg_ratings": 3.8,
+  "std_price": 9.99,
+  "supp_price": 7.99,
+  "book": {
+    "author_name": "Alisson Campos",
+    "publisher": "Warner Books",
+    "year_of_publication": 2011,
+    "ISBN": "978-8-2853-3424-9"
+  },
+  "category": "B"
+},{
+  "_id": "B10",
+  "name": "Sapiens",
+  "short_desc": "Why are we so smart? Why are we so dangerous? Why are we Sapiens? The world's foremost historian and thinker, Yuval Noah Harari, questions what we believe to be true about humanity. Earth has existed for 4.5 billion years. It has been conquered by one species among many others in a little portion of that time: humans. Yuval Noah Harari examines our identities, origins, and future in this audacious and thought-provoking book.",
+  "dimensions": {
+    "length": 2.5,
+    "width": 3,
+    "height": 11
+  },
+  "quantity_per_unit": 0.7,
+  "avg_ratings": 3.4,
+  "std_price": 15.75,
+  "supp_price": 7.75,
+  "book": {
+    "author_name": "Miracle Hogan",
+    "publisher": "Dvir Publishing House Ltd.",
+    "year_of_publication": 2011,
+    "ISBN": "978-9-5106-7102-3"
+  },
+  "category": "B"
+},{
+  "_id": "HA1",
+  "name": "Ultrean Air Fryer",
+  "short_desc": "A multifunction cooker that saves your time and money - aside from air frying you can also grill, roast and bake your favorite food with its innovative heating system rapid air technology.",
+  "dimensions": {
+    "length": 28.6,
+    "width": 33.55,
+    "height": 31.55
+  },
+  "quantity_per_unit": 4.52,
+  "avg_ratings": 2.4,
+  "std_price": 58.99,
+  "supp_price": 39.99,
+  "home_appliance": {
+    "colour": "blue",
+    "voltage": 120,
+    "style": "air fryer"
+  },
+  "category": "HA"
+},{
+  "_id": "HA2",
+  "name": "Eufy by Anker, BoostIQ RoboVac 11S (Slim), Robot Vacuum Cleaner, Super-Thin",
+  "short_desc": "All-New RoboVac: Re-engineered to be the slimmer RoboVac (2.85 inch) but with quiet operation and increased suction power at 1300Pa.",
+  "dimensions": {
+    "length": 32.5,
+    "width": 32.5,
+    "height": 7.2
+  },
+  "quantity_per_unit": 2.6,
+  "avg_ratings": 3.8,
+  "std_price": 190.85,
+  "supp_price": 100,
+  "home_appliance": {
+    "colour": "black",
+    "voltage": 120,
+    "style": "11S"
+  },
+  "category": "HA"
+},{
+  "_id": "HA3",
+  "name": "EasyAcc Coffee Mug Warmer",
+  "short_desc": "Coffee Cup Warmer 8h Auto Shut Off: Electric Cup Warmer's auto-shut off function prevents any possible safety hazard caused by forgetting to shut down.",
+  "dimensions": {
+    "length": 12,
+    "width": 12,
+    "height": 1.3
+  },
+  "quantity_per_unit": 0.22,
+  "avg_ratings": 4,
+  "std_price": 20.74,
+  "supp_price": 0.74,
+  "home_appliance": {
+    "colour": "black",
+    "voltage": 110,
+    "style": "Middle-Black"
+  },
+  "category": "HA"
+},{
+  "_id": "HA4",
+  "name": "DASH Rapid Egg Cooker",
+  "short_desc": "Allows you to cook eggs in less time than it takes to boil water on a stove",
+  "dimensions": {
+    "length": 20.32,
+    "width": 15.24,
+    "height": 15.24
+  },
+  "quantity_per_unit": 0.45,
+  "avg_ratings": 2.8,
+  "std_price": 16.59,
+  "supp_price": 10,
+  "home_appliance": {
+    "colour": "red",
+    "voltage": 100,
+    "style": "Cooker"
+  },
+  "category": "HA"
+},{
+  "_id": "HA5",
+  "name": "Mueller Electric Hand Mixer",
+  "short_desc": "It is the perfect solution for the busy baker with a 5-speed dial and extra turbo function letting you choose the optimum mixing speed for any recipe.",
+  "dimensions": {
+    "length": 20.29,
+    "width": 9.39,
+    "height": 20.49
+  },
+  "quantity_per_unit": "1.39",
+  "avg_ratings": 3.2,
+  "std_price": 29.01,
+  "supp_price": 12.01,
+  "home_appliance": {
+    "colour": "white",
+    "voltage": 120,
+    "style": "Hands Mixer"
+  },
+  "category": "HA"
+},{
+  "_id": "HA6",
+  "name": "McCulloch MC1275 Heavy-Duty Steam Cleaner",
+  "short_desc": "Perfect solution to reduce all dust in your house",
+  "dimensions": {
+    "length": 43.69,
+    "width": 26.67,
+    "height": 34.29
+  },
+  "quantity_per_unit": 5.44,
+  "avg_ratings": 3,
+  "std_price": 124.45,
+  "supp_price": 105.45,
+  "home_appliance": {
+    "colour": "black",
+    "voltage": 120,
+    "style": "Mop"
+  },
+  "category": "HA"
+},{
+  "_id": "HA7",
+  "name": "Breville Smart Oven Air Fryer Pro",
+  "short_desc": "With 360Â° hot air circulation and high power of 1700 watts, the air fryer oven can easily make the delicious food as you wish",
+  "dimensions": {
+    "length": 40,
+    "width": 42,
+    "height": 38.2
+  },
+  "quantity_per_unit": 13.95,
+  "avg_ratings": 2.2,
+  "std_price": 329.39,
+  "supp_price": 206,
+  "home_appliance": {
+    "colour": "silver",
+    "voltage": 110,
+    "style": "New"
+  },
+  "category": "HA"
+},{
+  "_id": "HA8",
+  "name": "NETGEAR Wi-Fi Range Extender EX3700",
+  "short_desc": "Adds Wi-Fi range coverage up to 1000 sq ft, and connects up to 15 devices such as laptops, smartphones, speakers, IP cameras, tablets, IoT devices, and more.",
+  "dimensions": {
+    "length": 5.52,
+    "width": 6.72,
+    "height": 3.9
+  },
+  "quantity_per_unit": 0.13,
+  "avg_ratings": 3.2,
+  "std_price": 21.97,
+  "supp_price": 5.97,
+  "home_appliance": {
+    "colour": "white",
+    "voltage": 240,
+    "style": "WiFi Extender AC750"
+  },
+  "category": "HA"
+},{
+  "_id": "HA9",
+  "name": "Bosch Smart Home Radiator Thermostat II",
+  "short_desc": "With the radiator thermostat you can heat your home efficiently by controlling the temperature in each room at specific times",
+  "dimensions": {
+    "length": 10.3,
+    "width": 4.8,
+    "height": 5.7
+  },
+  "quantity_per_unit": 0.38,
+  "avg_ratings": 2.8,
+  "std_price": 61.75,
+  "supp_price": 47.75,
+  "home_appliance": {
+    "colour": "white",
+    "voltage": 230,
+    "style": "Radiator Thermostat II"
+  },
+  "category": "HA"
+},{
+  "_id": "HA10",
+  "name": "LED Starry Sky Projector",
+  "short_desc": "The starlight would help to develop children's imagination and creativity, inspiring them to discover the endless charm of the universe.",
+  "dimensions": {
+    "length": 12.1,
+    "width": 15,
+    "height": 15.5
+  },
+  "quantity_per_unit": 0.47,
+  "avg_ratings": 3.8,
+  "std_price": 37.04,
+  "supp_price": 23.04,
+  "home_appliance": {
+    "colour": "white",
+    "voltage": 5,
+    "style": "Modern"
+  },
+  "category": "HA"
+},{
+  "_id": "CD1",
+  "name": "Thriller",
+  "short_desc": "Thriller foreshadows the contradictory themes of Jackson's personal life, as he began using a motif of paranoia and darker themes.",
+  "dimensions": {
+    "length": 14,
+    "width": 12,
+    "height": 1
+  },
+  "quantity_per_unit": 0.6,
+  "avg_ratings": 3.4,
+  "std_price": 14.87,
+  "supp_price": 9,
+  "cd": {
+    "artist_name": "Michael Jackson",
+    "no_of_tracks": 9,
+    "total_play_time_in_mins": 42,
+    "publisher": "Epic Records"
+  },
+  "category": "CD"
+},{
+  "_id": "FP1",
+  "name": "Tart",
+  "short_desc": "normal bread",
+  "dimensions": {
+    "length": 0.3,
+    "width": 0.4,
+    "height": 0.4
+  },
+  "quantity_per_unit": 0.5,
+  "avg_ratings": 3.6,
+  "std_price": 2,
+  "supp_price": 1,
+  "fresh": {
+    "category": "Bakery",
+    "best_before": 5,
+    "country_of_origin": "UK"
+  },
+  "category": "fresh"
+},{
+  "_id": "FP2",
+  "name": "Croissaint",
+  "short_desc": "normal bread",
+  "dimensions": {
+    "length": 0.3,
+    "width": 0.4,
+    "height": 0.5
+  },
+  "quantity_per_unit": 0.5,
+  "avg_ratings": 2,
+  "std_price": 2.7,
+  "supp_price": 1.1,
+  "fresh": {
+    "category": "Bakery",
+    "best_before": 5,
+    "country_of_origin": "UK"
+  },
+  "category": "fresh"
+},{
+  "_id": "FP3",
+  "name": "Pie",
+  "short_desc": "normal bread",
+  "dimensions": {
+    "length": 0.3,
+    "width": 0.4,
+    "height": 0.6
+  },
+  "quantity_per_unit": 0.5,
+  "avg_ratings": 2.4,
+  "std_price": 2,
+  "supp_price": 1.2,
+  "fresh": {
+    "category": "Bakery",
+    "best_before": 5,
+    "country_of_origin": "UK"
+  },
+  "category": "fresh"
+},{
+  "_id": "FP4",
+  "name": "Cheese Roll",
+  "short_desc": "normal bread",
+  "dimensions": {
+    "length": 0.3,
+    "width": 0.4,
+    "height": 0.7
+  },
+  "quantity_per_unit": 0.5,
+  "avg_ratings": 3.4,
+  "std_price": 6.8,
+  "supp_price": 1.3,
+  "fresh": {
+    "category": "Bakery",
+    "best_before": 5,
+    "country_of_origin": "UK"
+  },
+  "category": "fresh"
+},{
+  "_id": "FP5",
+  "name": "Super Delicious Bread",
+  "short_desc": "amazing bread",
+  "dimensions": {
+    "length": 0.3,
+    "width": 0.4,
+    "height": 0.8
+  },
+  "quantity_per_unit": 0.5,
+  "avg_ratings": 2.8,
+  "std_price": 2,
+  "supp_price": 1.4,
+  "fresh": {
+    "category": "Bakery",
+    "best_before": 5,
+    "country_of_origin": "UK"
+  },
+  "category": "fresh"
+},{
+  "_id": "FP6",
+  "name": "Water",
+  "short_desc": "normal drink",
+  "dimensions": {
+    "length": 0.2,
+    "width": 0.2,
+    "height": 0.5
+  },
+  "quantity_per_unit": 1,
+  "avg_ratings": 2.4,
+  "std_price": 3.2,
+  "supp_price": 1.5,
+  "fresh": {
+    "category": "Drinks",
+    "best_before": 100,
+    "country_of_origin": "UK"
+  },
+  "category": "fresh"
+},{
+  "_id": "FP7",
+  "name": "Coke",
+  "short_desc": "normal drink",
+  "dimensions": {
+    "length": 0.2,
+    "width": 0.2,
+    "height": 0.6
+  },
+  "quantity_per_unit": 1,
+  "avg_ratings": 2.4,
+  "std_price": 2,
+  "supp_price": 1.6,
+  "fresh": {
+    "category": "Drinks",
+    "best_before": 100,
+    "country_of_origin": "UK"
+  },
+  "category": "fresh"
+},{
+  "_id": "FP8",
+  "name": "Beer",
+  "short_desc": "normal drink",
+  "dimensions": {
+    "length": 0.2,
+    "width": 0.2,
+    "height": 0.7
+  },
+  "quantity_per_unit": 1,
+  "avg_ratings": 3.8,
+  "std_price": 10,
+  "supp_price": 1.7,
+  "fresh": {
+    "category": "Drinks",
+    "best_before": 100,
+    "country_of_origin": "UK"
+  },
+  "category": "fresh"
+},{
+  "_id": "FP9",
+  "name": "Wine",
+  "short_desc": "normal drink",
+  "dimensions": {
+    "length": 0.2,
+    "width": 0.2,
+    "height": 0.8
+  },
+  "quantity_per_unit": 1.2,
+  "avg_ratings": 2.4,
+  "std_price": 2,
+  "supp_price": 1.8,
+  "fresh": {
+    "category": "Drinks",
+    "best_before": 100,
+    "country_of_origin": "France"
+  },
+  "category": "fresh"
+},{
+  "_id": "FP10",
+  "name": "Whiskey",
+  "short_desc": "normal drink",
+  "dimensions": {
+    "length": 0.2,
+    "width": 0.2,
+    "height": 0.9
+  },
+  "quantity_per_unit": 1.2,
+  "avg_ratings": 3.8,
+  "std_price": 2,
+  "supp_price": 1.9,
+  "fresh": {
+    "category": "Drinks",
+    "best_before": 100,
+    "country_of_origin": "UK"
+  },
+  "category": "fresh"
+},{
+  "_id": "FP11",
+  "name": "Apple",
+  "short_desc": "fresh apple",
+  "dimensions": {
+    "length": 0.3,
+    "width": 0.3,
+    "height": 0.3
+  },
+  "quantity_per_unit": 0.5,
+  "avg_ratings": 3.2,
+  "std_price": 4,
+  "supp_price": 2,
+  "fresh": {
+    "category": "Fruits and Vegetables",
+    "best_before": 3,
+    "country_of_origin": "UK"
+  },
+  "category": "fresh"
+},{
+  "_id": "FP12",
+  "name": "Orange",
+  "short_desc": "sweet orange",
+  "dimensions": {
+    "length": 0.3,
+    "width": 0.3,
+    "height": 0.4
+  },
+  "quantity_per_unit": 0.5,
+  "avg_ratings": 2.4,
+  "std_price": 5,
+  "supp_price": 2.1,
+  "fresh": {
+    "category": "Fruits and Vegetables",
+    "best_before": 3,
+    "country_of_origin": "UK"
+  },
+  "category": "fresh"
+},{
+  "_id": "FP13",
+  "name": "Mango",
+  "short_desc": "good mango",
+  "dimensions": {
+    "length": 0.3,
+    "width": 0.3,
+    "height": 0.5
+  },
+  "quantity_per_unit": 0.5,
+  "avg_ratings": 3,
+  "std_price": 3,
+  "supp_price": 2.2,
+  "fresh": {
+    "category": "Fruits and Vegetables",
+    "best_before": 3,
+    "country_of_origin": "UK"
+  },
+  "category": "fresh"
+},{
+  "_id": "FP14",
+  "name": "Lettuce",
+  "short_desc": "big lettuce",
+  "dimensions": {
+    "length": 0.3,
+    "width": 0.3,
+    "height": 0.6
+  },
+  "quantity_per_unit": 0.5,
+  "avg_ratings": 2.8,
+  "std_price": 2.9,
+  "supp_price": 2.3,
+  "fresh": {
+    "category": "Fruits and Vegetables",
+    "best_before": 3,
+    "country_of_origin": "UK"
+  },
+  "category": "fresh"
+},{
+  "_id": "FP15",
+  "name": "Cucumber",
+  "short_desc": "long cucumber",
+  "dimensions": {
+    "length": 0.3,
+    "width": 0.3,
+    "height": 0.7
+  },
+  "quantity_per_unit": 0.5,
+  "avg_ratings": 2.4,
+  "std_price": 2.8,
+  "supp_price": 2.4,
+  "fresh": {
+    "category": "Fruits and Vegetables",
+    "best_before": 3,
+    "country_of_origin": "UK"
+  },
+  "category": "fresh"
+}]

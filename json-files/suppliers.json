@@ -1,0 +1,1198 @@
+[{
+  "_id": "W1",
+  "name": "Amazon UK MAN1",
+  "address": "Manchester Airport, 6 Sunbank Ln, Altrincham",
+  "city": "Manchester",
+  "post_code": "M90 5DL",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      53.36275842,
+      -2.294618987
+    ]
+  },
+  "realtime_inventory": [
+    {
+      "product_id": "B1",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 14
+    },
+    {
+      "product_id": "B2",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 29
+    },
+    {
+      "product_id": "B3",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 20
+    },
+    {
+      "product_id": "B4",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 16
+    },
+    {
+      "product_id": "B5",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 20
+    },
+    {
+      "product_id": "B6",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 17
+    },
+    {
+      "product_id": "B7",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 14
+    },
+    {
+      "product_id": "B8",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 24
+    },
+    {
+      "product_id": "B9",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 14
+    },
+    {
+      "product_id": "B10",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 18
+    },
+    {
+      "product_id": "CD1",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 27
+    },
+    {
+      "product_id": "CD2",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 0
+    },
+    {
+      "product_id": "CD3",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 25
+    },
+    {
+      "product_id": "CD4",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 18
+    },
+    {
+      "product_id": "CD5",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 14
+    },
+    {
+      "product_id": "CD6",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 18
+    },
+    {
+      "product_id": "CD7",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 14
+    },
+    {
+      "product_id": "CD8",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 24
+    },
+    {
+      "product_id": "CD9",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 22
+    },
+    {
+      "product_id": "CD10",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 18
+    },
+    {
+      "product_id": "PH1",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 14
+    },
+    {
+      "product_id": "PH2",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 29
+    },
+    {
+      "product_id": "PH3",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 21
+    },
+    {
+      "product_id": "PH4",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 16
+    },
+    {
+      "product_id": "PH5",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 22
+    },
+    {
+      "product_id": "PH6",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 17
+    },
+    {
+      "product_id": "PH7",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 14
+    },
+    {
+      "product_id": "PH8",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 24
+    },
+    {
+      "product_id": "PH9",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 14
+    },
+    {
+      "product_id": "PH10",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 20
+    },
+    {
+      "product_id": "HA1",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 14
+    },
+    {
+      "product_id": "HA2",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 29
+    },
+    {
+      "product_id": "HA3",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 21
+    },
+    {
+      "product_id": "HA4",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 16
+    },
+    {
+      "product_id": "HA5",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 21
+    },
+    {
+      "product_id": "HA6",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 18
+    },
+    {
+      "product_id": "HA7",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 14
+    },
+    {
+      "product_id": "HA8",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 24
+    },
+    {
+      "product_id": "HA9",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 15
+    },
+    {
+      "product_id": "HA10",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 20
+    }
+  ]
+},{
+  "_id": "W2",
+  "name": "Amazon UK MAN2",
+  "address": "Amazon UK Services Ltd., Omega Plot 7c, Orion Boulevard, Great Sankey",
+  "city": "Warrington",
+  "post_code": "WA5 3XA",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      53.4206283,
+      -2.6594717
+    ]
+  },
+  "realtime_inventory": [
+    {
+      "product_id": "B1",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 9
+    },
+    {
+      "product_id": "B2",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 8
+    },
+    {
+      "product_id": "B3",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 5
+    },
+    {
+      "product_id": "B4",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 9
+    },
+    {
+      "product_id": "B5",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 12
+    },
+    {
+      "product_id": "B6",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 13
+    },
+    {
+      "product_id": "B7",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 14
+    },
+    {
+      "product_id": "B8",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 12
+    },
+    {
+      "product_id": "B9",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 13
+    },
+    {
+      "product_id": "B10",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 11
+    },
+    {
+      "product_id": "CD1",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 12
+    },
+    {
+      "product_id": "CD2",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 9
+    },
+    {
+      "product_id": "CD3",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 5
+    },
+    {
+      "product_id": "CD4",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 9
+    },
+    {
+      "product_id": "CD5",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 14
+    },
+    {
+      "product_id": "CD6",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 9
+    },
+    {
+      "product_id": "CD7",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 14
+    },
+    {
+      "product_id": "CD8",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 6
+    },
+    {
+      "product_id": "CD9",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 0
+    },
+    {
+      "product_id": "CD10",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 10
+    },
+    {
+      "product_id": "PH1",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 5
+    },
+    {
+      "product_id": "PH2",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 12
+    },
+    {
+      "product_id": "PH3",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 12
+    },
+    {
+      "product_id": "PH4",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 10
+    },
+    {
+      "product_id": "PH5",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 9
+    },
+    {
+      "product_id": "PH6",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 8
+    },
+    {
+      "product_id": "PH7",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 14
+    },
+    {
+      "product_id": "PH8",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 13
+    },
+    {
+      "product_id": "PH9",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 11
+    },
+    {
+      "product_id": "PH10",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 10
+    },
+    {
+      "product_id": "HA1",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 10
+    },
+    {
+      "product_id": "HA2",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 4
+    },
+    {
+      "product_id": "HA3",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 5
+    },
+    {
+      "product_id": "HA4",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 6
+    },
+    {
+      "product_id": "HA5",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 7
+    },
+    {
+      "product_id": "HA6",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 9
+    },
+    {
+      "product_id": "HA7",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 10
+    },
+    {
+      "product_id": "HA8",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 14
+    },
+    {
+      "product_id": "HA9",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 11
+    },
+    {
+      "product_id": "HA10",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 8
+    }
+  ]
+},{
+  "_id": "W3",
+  "name": "Amazom UK XUKA",
+  "address": "DHL Preston Brook (XUKA), Aston Lane North, Whitehouse Industrial Estate",
+  "city": "Runcorn",
+  "post_code": "WA7 3BN",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      53.31948,
+      -2.65501
+    ]
+  },
+  "realtime_inventory": [
+    {
+      "product_id": "B1",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 8
+    },
+    {
+      "product_id": "B2",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 3
+    },
+    {
+      "product_id": "B3",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 4
+    },
+    {
+      "product_id": "B4",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 7
+    },
+    {
+      "product_id": "B5",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 5
+    },
+    {
+      "product_id": "B6",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 8
+    },
+    {
+      "product_id": "B7",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 9
+    },
+    {
+      "product_id": "B8",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 5
+    },
+    {
+      "product_id": "B9",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 8
+    },
+    {
+      "product_id": "B10",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 9
+    },
+    {
+      "product_id": "CD1",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 7
+    },
+    {
+      "product_id": "CD2",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 9
+    },
+    {
+      "product_id": "CD3",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 5
+    },
+    {
+      "product_id": "CD4",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 3
+    },
+    {
+      "product_id": "CD5",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 6
+    },
+    {
+      "product_id": "CD6",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 7
+    },
+    {
+      "product_id": "CD7",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 5
+    },
+    {
+      "product_id": "CD8",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 6
+    },
+    {
+      "product_id": "CD9",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 8
+    },
+    {
+      "product_id": "CD10",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 5
+    },
+    {
+      "product_id": "PH1",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 5
+    },
+    {
+      "product_id": "PH2",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 3
+    },
+    {
+      "product_id": "PH3",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 2
+    },
+    {
+      "product_id": "PH4",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 1
+    },
+    {
+      "product_id": "PH5",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 7
+    },
+    {
+      "product_id": "PH6",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 3
+    },
+    {
+      "product_id": "PH7",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 5
+    },
+    {
+      "product_id": "PH8",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 4
+    },
+    {
+      "product_id": "PH9",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 9
+    },
+    {
+      "product_id": "PH10",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 4
+    },
+    {
+      "product_id": "HA1",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 6
+    },
+    {
+      "product_id": "HA2",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 9
+    },
+    {
+      "product_id": "HA3",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 6
+    },
+    {
+      "product_id": "HA4",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 4
+    },
+    {
+      "product_id": "HA5",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 7
+    },
+    {
+      "product_id": "HA6",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 8
+    },
+    {
+      "product_id": "HA7",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 6
+    },
+    {
+      "product_id": "HA8",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 1
+    },
+    {
+      "product_id": "HA9",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 4
+    },
+    {
+      "product_id": "HA10",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 3
+    }
+  ]
+},{
+  "_id": "ST1",
+  "name": "Morrisons Piccadilly",
+  "address": "19-25 Piccadilly",
+  "city": "Manchester",
+  "post_code": "M1 1LU",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      53.4808056053302,
+      -2.23495401192835
+    ]
+  },
+  "realtime_inventory": [
+    {
+      "product_id": "FP1",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 1
+    },
+    {
+      "product_id": "FP2",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 19
+    },
+    {
+      "product_id": "FP3",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 12
+    },
+    {
+      "product_id": "FP4",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 12
+    },
+    {
+      "product_id": "FP5",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 21
+    },
+    {
+      "product_id": "FP6",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 21
+    },
+    {
+      "product_id": "FP7",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 34
+    },
+    {
+      "product_id": "FP8",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 7
+    },
+    {
+      "product_id": "FP9",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 60
+    },
+    {
+      "product_id": "FP10",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 15
+    },
+    {
+      "product_id": "FP11",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 30
+    },
+    {
+      "product_id": "FP12",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 22
+    },
+    {
+      "product_id": "FP13",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 40
+    },
+    {
+      "product_id": "FP14",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 35
+    },
+    {
+      "product_id": "FP15",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 40
+    }
+  ]
+},{
+  "_id": "ST2",
+  "name": "Morrisons Oxford",
+  "address": "Off Grafton St, Oxford Rd",
+  "city": "Manchester",
+  "post_code": "M13 9NU",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      53.463585307919,
+      -2.23002894909324
+    ]
+  },
+  "realtime_inventory": [
+    {
+      "product_id": "FP1",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 2
+    },
+    {
+      "product_id": "FP2",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 22
+    },
+    {
+      "product_id": "FP3",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 24
+    },
+    {
+      "product_id": "FP4",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 15
+    },
+    {
+      "product_id": "FP5",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 10
+    },
+    {
+      "product_id": "FP6",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 20
+    },
+    {
+      "product_id": "FP7",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 25
+    },
+    {
+      "product_id": "FP8",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 30
+    },
+    {
+      "product_id": "FP9",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 20
+    },
+    {
+      "product_id": "FP10",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 40
+    },
+    {
+      "product_id": "FP11",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 20
+    },
+    {
+      "product_id": "FP12",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 12
+    },
+    {
+      "product_id": "FP13",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 14
+    },
+    {
+      "product_id": "FP14",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 20
+    },
+    {
+      "product_id": "FP15",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 20
+    }
+  ]
+},{
+  "_id": "ST3",
+  "name": "Morrisons Stretford",
+  "address": "333 Stretford Rd, Hulme",
+  "city": "Manchester",
+  "post_code": "M15 4AY",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      53.4666895236066,
+      -2.2513216579917
+    ]
+  },
+  "realtime_inventory": [
+    {
+      "product_id": "FP1",
+      "timestamp": "2023-01-09T23:26:55.617905",
+      "quantity": 5
+    },
+    {
+      "product_id": "FP2",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 19
+    },
+    {
+      "product_id": "FP3",
+      "timestamp": {
+        "$date": {
+          "$numberLong": "1673288220000"
+        }
+      },
+      "quantity": 18
+    },
+    {
+      "product_id": "FP4",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 15
+    },
+    {
+      "product_id": "FP5",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 12
+    },
+    {
+      "product_id": "FP6",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 30
+    },
+    {
+      "product_id": "FP7",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 40
+    },
+    {
+      "product_id": "FP8",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 33
+    },
+    {
+      "product_id": "FP9",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 22
+    },
+    {
+      "product_id": "FP10",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 45
+    },
+    {
+      "product_id": "FP11",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 15
+    },
+    {
+      "product_id": "FP12",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 20
+    },
+    {
+      "product_id": "FP13",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 24
+    },
+    {
+      "product_id": "FP14",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 40
+    },
+    {
+      "product_id": "FP15",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 25
+    }
+  ]
+},{
+  "_id": "ST4",
+  "name": "Morrisons Ducie",
+  "address": "22 Ducie St",
+  "city": "Manchester",
+  "post_code": "M1 2DP",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      53.4796395264272,
+      -2.22947498022072
+    ]
+  },
+  "realtime_inventory": [
+    {
+      "product_id": "FP1",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 25
+    },
+    {
+      "product_id": "FP2",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 11
+    },
+    {
+      "product_id": "FP3",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 25
+    },
+    {
+      "product_id": "FP4",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 20
+    },
+    {
+      "product_id": "FP5",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 15
+    },
+    {
+      "product_id": "FP6",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 25
+    },
+    {
+      "product_id": "FP7",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 45
+    },
+    {
+      "product_id": "FP8",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 35
+    },
+    {
+      "product_id": "FP9",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 25
+    },
+    {
+      "product_id": "FP10",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 44
+    },
+    {
+      "product_id": "FP11",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 20
+    },
+    {
+      "product_id": "FP12",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 5
+    },
+    {
+      "product_id": "FP13",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 40
+    },
+    {
+      "product_id": "FP14",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 45
+    },
+    {
+      "product_id": "FP15",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 20
+    }
+  ]
+},{
+  "_id": "ST5",
+  "name": "Morrisons Boho",
+  "address": "Unit 4, Moho Building",
+  "city": "Manchester",
+  "post_code": "M15 4JY",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      53.4713735246263,
+      -2.26417194876941
+    ]
+  },
+  "realtime_inventory": [
+    {
+      "product_id": "FP1",
+      "timestamp": {
+        "$date": {
+          "$numberLong": "1673285460000"
+        }
+      },
+      "quantity": 11
+    },
+    {
+      "product_id": "FP2",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 15
+    },
+    {
+      "product_id": "FP3",
+      "timestamp": {
+        "$date": {
+          "$numberLong": "1673288220000"
+        }
+      },
+      "quantity": 16
+    },
+    {
+      "product_id": "FP4",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 25
+    },
+    {
+      "product_id": "FP5",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 10
+    },
+    {
+      "product_id": "FP6",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 20
+    },
+    {
+      "product_id": "FP7",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 40
+    },
+    {
+      "product_id": "FP8",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 40
+    },
+    {
+      "product_id": "FP9",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 40
+    },
+    {
+      "product_id": "FP10",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 45
+    },
+    {
+      "product_id": "FP11",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 25
+    },
+    {
+      "product_id": "FP12",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 50
+    },
+    {
+      "product_id": "FP13",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 45
+    },
+    {
+      "product_id": "FP14",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 50
+    },
+    {
+      "product_id": "FP15",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 25
+    }
+  ]
+},{
+  "_id": "ST6",
+  "name": "Morrisons Wilbraham",
+  "address": "418B Wilbraham Rd, Chorlton-cum-Hardy",
+  "city": "Manchester",
+  "post_code": "M21 0UA",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      53.4426805360709,
+      -2.27429698166463
+    ]
+  },
+  "realtime_inventory": [
+    {
+      "product_id": "FP1",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 25
+    },
+    {
+      "product_id": "FP2",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 12
+    },
+    {
+      "product_id": "FP3",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 25
+    },
+    {
+      "product_id": "FP4",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 20
+    },
+    {
+      "product_id": "FP5",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 15
+    },
+    {
+      "product_id": "FP6",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 25
+    },
+    {
+      "product_id": "FP7",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 45
+    },
+    {
+      "product_id": "FP8",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 20
+    },
+    {
+      "product_id": "FP9",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 20
+    },
+    {
+      "product_id": "FP10",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 20
+    },
+    {
+      "product_id": "FP11",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 22
+    },
+    {
+      "product_id": "FP12",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 45
+    },
+    {
+      "product_id": "FP13",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 40
+    },
+    {
+      "product_id": "FP14",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 34
+    },
+    {
+      "product_id": "FP15",
+      "timestamp": "2022-01-04 15:00:00",
+      "quantity": 15
+    }
+  ]
+}]

@@ -1,0 +1,1670 @@
+[{
+  "_id": "C1",
+  "Customer": "Gunner Ferrell",
+  "Gender": "M",
+  "Age": 51,
+  "phone_number": {
+    "$numberLong": "443454155475"
+  },
+  "addresses": [
+    {
+      "_id": "AD1",
+      "house": 27,
+      "street": "Ellesmere St",
+      "city": "Manchester",
+      "post_code": "M15 4RU",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          53.4702888668,
+          -2.26459207339
+        ]
+      }
+    }
+  ],
+  "current_orders": [
+    {
+      "_id": "20230104002920C1",
+      "date": {
+        "$date": {
+          "$numberLong": "1672792160000"
+        }
+      },
+      "order_status": 3,
+      "total_cost": 10.7,
+      "partner_id": "",
+      "shipping_id": "AD1",
+      "supplier_id": "ST1",
+      "order_details": [
+        {
+          "product_id": "FP1",
+          "quantity": 4,
+          "cost": 2
+        },
+        {
+          "product_id": "FP2",
+          "quantity": 1,
+          "cost": 2.7
+        }
+      ]
+    },
+    {
+      "_id": "20230104032330C1",
+      "date": {
+        "$date": {
+          "$numberLong": "1672802610000"
+        }
+      },
+      "order_status": 3,
+      "total_cost": 4,
+      "partner_id": "",
+      "shipping_id": "AD1",
+      "supplier_id": "ST2",
+      "order_details": [
+        {
+          "product_id": "FP5",
+          "quantity": 2,
+          "cost": 2
+        }
+      ]
+    },
+    {
+      "_id": "20230109181700C2",
+      "date": {
+        "$date": {
+          "$numberLong": "1673285460000"
+        }
+      },
+      "order_status": 3,
+      "total_cost": 6,
+      "partner_id": "PA2",
+      "shipping_id": "AD2",
+      "supplier_id": "ST3",
+      "order_details": [
+        {
+          "product_id": "FP3",
+          "quantity": 3,
+          "cost": 6
+        }
+      ]
+    },
+    {
+      "_id": "20233101/09/23173100C1",
+      "date": {
+        "$date": {
+          "$numberLong": "1673285460000"
+        }
+      },
+      "order_status": 3,
+      "total_cost": 6,
+      "partner_id": "PA2",
+      "shipping_id": "AD1",
+      "supplier_id": "ST5",
+      "order_details": [
+        {
+          "product_id": "FP1"
+        }
+      ]
+    }
+  ],
+  "recommended_products": [
+    {
+      "product_id": "FP10",
+      "avg_rating": 3.8
+    },
+    {
+      "product_id": "CD2",
+      "ratings": 4
+    }
+  ]
+},{
+  "_id": "C2",
+  "Customer": "Lillie Costa",
+  "Gender": "F",
+  "Age": 30,
+  "phone_number": {
+    "$numberLong": "447137031760"
+  },
+  "addresses": [
+    {
+      "_id": "AD2",
+      "house": "The Residence 202",
+      "street": "371 Deansgate",
+      "city": "Manchester",
+      "post_code": "M15 4UP",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          53.47352882,
+          -2.252042281
+        ]
+      }
+    }
+  ],
+  "current_orders": [
+    {
+      "_id": "20230104032443C2",
+      "date": {
+        "$date": {
+          "$numberLong": "1672802683000"
+        }
+      },
+      "order_status": 4,
+      "order_details": [
+        {
+          "product_id": "FP4",
+          "quantity": 2,
+          "cost": 6.8
+        }
+      ],
+      "total_cost": 13.6,
+      "partner_id": "PA2",
+      "shipping_id": "AD2",
+      "supplier_id": "ST2"
+    },
+    {
+      "_id": "20230104032814C2",
+      "date": {
+        "$date": {
+          "$numberLong": "1672802894000"
+        }
+      },
+      "order_status": 3,
+      "order_details": [
+        {
+          "product_id": "FP1",
+          "quantity": 1,
+          "cost": 2
+        }
+      ],
+      "total_cost": 2,
+      "partner_id": "PA2",
+      "shipping_id": "AD2",
+      "supplier_id": "ST3"
+    },
+    {
+      "_id": "20230109181700C2",
+      "date": {
+        "$date": {
+          "$numberLong": "1673288220000"
+        }
+      },
+      "order_status": 3,
+      "total_cost": 4,
+      "partner_id": "PA2",
+      "shipping_id": "AD2",
+      "supplier_id": "ST3",
+      "order_details": [
+        {
+          "product_id": "FP3",
+          "quantity": 2,
+          "cost": 4
+        }
+      ]
+    },
+    {
+      "_id": "20231701/09/23181700C2",
+      "date": {
+        "$date": {
+          "$numberLong": "1673288220000"
+        }
+      },
+      "order_status": 3,
+      "total_cost": 4,
+      "partner_id": "PA2",
+      "shipping_id": "AD2",
+      "supplier_id": "ST5",
+      "order_details": [
+        {
+          "product_id": "FP3"
+        }
+      ]
+    }
+  ],
+  "recommended_products": [
+    {
+      "product_id": "FP8",
+      "avg_rating": 3.8
+    },
+    {
+      "product_id": "B2",
+      "avg_rating": 4.2
+    }
+  ]
+},{
+  "_id": "C3",
+  "Customer": "Raelynn Dodson",
+  "Gender": "F",
+  "Age": 44,
+  "phone_number": {
+    "$numberLong": "443482883256"
+  },
+  "addresses": [
+    {
+      "_id": "AD3",
+      "house": 3,
+      "street": "Dickinson St",
+      "city": "Manchester",
+      "post_code": "M1 4LF",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          53.47850891,
+          -2.242348226
+        ]
+      }
+    }
+  ],
+  "current_orders": [
+    {
+      "_id": "20230104035938C3",
+      "date": {
+        "$date": {
+          "$numberLong": "1672804778000"
+        }
+      },
+      "order_status": 2,
+      "order_details": [
+        {
+          "product_id": "PH1",
+          "quantity": 1,
+          "cost": 169
+        }
+      ],
+      "total_cost": 169,
+      "partner_id": "",
+      "shipping_id": "AD3",
+      "supplier_id": "W1"
+    },
+    {
+      "_id": "20230104045148C3",
+      "date": {
+        "$date": {
+          "$numberLong": "1672807908000"
+        }
+      },
+      "order_status": 1,
+      "order_details": [
+        {
+          "product_id": "FP2",
+          "quantity": 1,
+          "cost": 2.7
+        },
+        {
+          "product_id": "FP1",
+          "quantity": 5,
+          "cost": 2
+        }
+      ],
+      "total_cost": 210,
+      "partner_id": "",
+      "shipping_id": "AD3",
+      "supplier_id": "ST4"
+    },
+    {
+      "_id": "20230104054212C3",
+      "date": {
+        "$date": {
+          "$numberLong": "1672810932000"
+        }
+      },
+      "order_status": 2,
+      "total_cost": 11.48,
+      "partner_id": "",
+      "shipping_id": "AD3",
+      "supplier_id": "W1",
+      "order_details": [
+        {
+          "product_id": "CD2",
+          "quantity": 1,
+          "cost": 11.48
+        }
+      ]
+    }
+  ],
+  "recommended_products": [
+    {
+      "product_id": "FP10",
+      "avg_rating": 3.8
+    },
+    {
+      "product_id": "PH4",
+      "avg_rating": 3.6
+    }
+  ]
+},{
+  "_id": "C4",
+  "Customer": "Yazmin Hughes",
+  "Gender": "F",
+  "Age": 43,
+  "phone_number": {
+    "$numberLong": "446180152448"
+  },
+  "addresses": [
+    {
+      "_id": "AD4",
+      "house": "Manchester Apartment 104",
+      "street": "60 Oxford St",
+      "city": "Manchester",
+      "post_code": "M1 5EE",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          53.47435691,
+          -2.242684794
+        ]
+      }
+    }
+  ],
+  "current_orders": [
+    {
+      "_id": "20230104062322C4",
+      "date": {
+        "$date": {
+          "$numberLong": "1672813402000"
+        }
+      },
+      "order_status": 2,
+      "order_details": [
+        {
+          "product_id": "FP12",
+          "quantity": 5,
+          "cost": 5
+        }
+      ],
+      "total_cost": 25,
+      "partner_id": "",
+      "shipping_id": "AD4",
+      "supplier_id": "ST5"
+    },
+    {
+      "_id": "20230104070917C4",
+      "date": {
+        "$date": {
+          "$numberLong": "1672816157000"
+        }
+      },
+      "order_status": 1,
+      "order_details": [
+        {
+          "product_id": "HA1",
+          "quantity": 1,
+          "cost": 58.99
+        }
+      ],
+      "total_cost": 58.99,
+      "partner_id": "",
+      "shipping_id": "AD4",
+      "supplier_id": "W1"
+    }
+  ],
+  "recommended_products": [
+    {
+      "product_id": "B10",
+      "avg_rating": 3.4
+    },
+    {
+      "product_id": "HA3",
+      "avg_rating": 4
+    }
+  ]
+},{
+  "_id": "C5",
+  "Customer": "Ray Mcdaniel",
+  "Gender": "M",
+  "Age": 28,
+  "phone_number": {
+    "$numberLong": "448788155481"
+  },
+  "addresses": [
+    {
+      "_id": "AD5",
+      "house": "Manhattan Apartment 302",
+      "street": "38 George St",
+      "city": "Manchester",
+      "post_code": "M1 4HA",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          53.4810334,
+          -2.239225003
+        ]
+      }
+    }
+  ],
+  "current_orders": [
+    {
+      "_id": "20230104073820C5",
+      "date": {
+        "$date": {
+          "$numberLong": "1672817900000"
+        }
+      },
+      "order_status": 3,
+      "order_details": [
+        {
+          "product_id": "HA9",
+          "quantity": 1,
+          "cost": 61.75
+        }
+      ],
+      "total_cost": 61.75,
+      "partner_id": "",
+      "shipping_id": "AD5",
+      "supplier_id": "W1"
+    },
+    {
+      "_id": "20230104073950C5",
+      "date": {
+        "$date": {
+          "$numberLong": "1672817990000"
+        }
+      },
+      "order_status": 4,
+      "order_details": [
+        {
+          "product_id": "HA3",
+          "quantity": 2,
+          "cost": 20.74
+        }
+      ],
+      "total_cost": 41.48,
+      "partner_id": "PA1",
+      "shipping_id": "AD5",
+      "supplier_id": "W1"
+    }
+  ],
+  "recommended_products": [
+    {
+      "product_id": "HA2",
+      "avg_rating": 3.8
+    },
+    {
+      "product_id": "PH4",
+      "avg_rating": 3.6
+    }
+  ]
+},{
+  "_id": "C6",
+  "Customer": "Jamarcus Montgomery",
+  "Gender": "M",
+  "Age": 64,
+  "phone_number": {
+    "$numberLong": "448832254583"
+  },
+  "addresses": [
+    {
+      "_id": "AD6",
+      "house": 6,
+      "street": "Minshull St",
+      "city": "Manchester",
+      "post_code": "M1 3ED",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          53.47999262,
+          -2.236578948
+        ]
+      }
+    }
+  ],
+  "current_orders": [
+    {
+      "_id": "20230104083607C6",
+      "date": {
+        "$date": {
+          "$numberLong": "1672821367000"
+        }
+      },
+      "order_status": 4,
+      "order_details": [
+        {
+          "product_id": "FP3",
+          "quantity": 5,
+          "cost": 2
+        }
+      ],
+      "total_cost": 10,
+      "partner_id": "PA3",
+      "shipping_id": "AD6",
+      "supplier_id": "ST1"
+    },
+    {
+      "_id": "20230104084644C6",
+      "date": {
+        "$date": {
+          "$numberLong": "1672822004000"
+        }
+      },
+      "order_status": 3,
+      "order_details": [
+        {
+          "product_id": "FP5",
+          "quantity": 2,
+          "cost": 2
+        }
+      ],
+      "total_cost": 4,
+      "partner_id": "PA3",
+      "shipping_id": "AD6",
+      "supplier_id": "ST2"
+    }
+  ],
+  "recommended_products": [
+    {
+      "product_id": "FP10",
+      "avg_rating": 3.8
+    },
+    {
+      "product_id": "PH4",
+      "avg_rating": 3.6
+    }
+  ]
+},{
+  "_id": "C7",
+  "Customer": "Charity Dunn",
+  "Gender": "F",
+  "Age": 21,
+  "phone_number": {
+    "$numberLong": "441688180719"
+  },
+  "addresses": [
+    {
+      "_id": "AD7",
+      "house": "Dream Apartment 112",
+      "street": "Adelphi Wharf 1",
+      "city": "Manchester",
+      "post_code": "M3 6EN",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          53.48613766,
+          -2.26412568
+        ]
+      }
+    }
+  ],
+  "current_orders": [
+    {
+      "_id": "20230104085210C7",
+      "date": {
+        "$date": {
+          "$numberLong": "1672822330000"
+        }
+      },
+      "order_status": 4,
+      "order_details": [
+        {
+          "product_id": "FP2",
+          "quantity": 3,
+          "cost": 2.7
+        }
+      ],
+      "total_cost": 8.1,
+      "partner_id": "PA5",
+      "shipping_id": "AD7",
+      "supplier_id": "ST1"
+    },
+    {
+      "_id": "20230104093722C7",
+      "date": {
+        "$date": {
+          "$numberLong": "1672825042000"
+        }
+      },
+      "order_status": 2,
+      "order_details": [
+        {
+          "product_id": "B9",
+          "quantity": 1,
+          "cost": 9.99
+        }
+      ],
+      "total_cost": 9.99,
+      "partner_id": "",
+      "shipping_id": "AD7",
+      "supplier_id": "W1"
+    }
+  ],
+  "recommended_products": [
+    {
+      "product_id": "B2",
+      "avg_rating": 4.2
+    },
+    {
+      "product_id": "HA2",
+      "avg_rating": 3.8
+    }
+  ]
+},{
+  "_id": "C8",
+  "Customer": "Kelsey Brandt",
+  "Gender": "F",
+  "Age": 47,
+  "phone_number": {
+    "$numberLong": "447531225175"
+  },
+  "addresses": [
+    {
+      "_id": "AD8",
+      "house": 9,
+      "street": "Whitworth St W",
+      "city": "Manchester",
+      "post_code": "M1 5JB",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          53.4739587,
+          -2.247152235
+        ]
+      }
+    }
+  ],
+  "current_orders": [
+    {
+      "_id": "20230104100253C8",
+      "date": {
+        "$date": {
+          "$numberLong": "1672826573000"
+        }
+      },
+      "order_status": 4,
+      "order_details": [
+        {
+          "product_id": "CD8",
+          "quantity": 1,
+          "cost": 20.65
+        }
+      ],
+      "total_cost": 20.65,
+      "partner_id": "PA1",
+      "shipping_id": "AD8",
+      "supplier_id": "W1"
+    },
+    {
+      "_id": "20230104111320C8",
+      "date": {
+        "$date": {
+          "$numberLong": "1672830800000"
+        }
+      },
+      "order_status": 1,
+      "order_details": [
+        {
+          "product_id": "B4",
+          "quantity": 2,
+          "cost": 14
+        }
+      ],
+      "total_cost": 28,
+      "partner_id": "",
+      "shipping_id": "AD8",
+      "supplier_id": "W2"
+    }
+  ],
+  "recommended_products": [
+    {
+      "product_id": "HA10",
+      "avg_rating": 3.8
+    },
+    {
+      "product_id": "B2",
+      "avg_rating": 4.2
+    }
+  ]
+},{
+  "_id": "C9",
+  "Customer": "Kylee Wang",
+  "Gender": "F",
+  "Age": 30,
+  "phone_number": {
+    "$numberLong": "442407773507"
+  },
+  "addresses": [
+    {
+      "_id": "AD9",
+      "house": 6,
+      "street": "St Anns Square",
+      "city": "Manchester",
+      "post_code": "M2 7HN",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          53.48164032,
+          -2.245008303
+        ]
+      }
+    }
+  ],
+  "current_orders": [
+    {
+      "_id": "20230104124723C9",
+      "date": {
+        "$date": {
+          "$numberLong": "1672836443000"
+        }
+      },
+      "order_status": 1,
+      "order_details": [
+        {
+          "product_id": "CD1",
+          "quantity": 1,
+          "cost": 14.87
+        }
+      ],
+      "total_cost": 14.87,
+      "partner_id": "",
+      "shipping_id": "AD9",
+      "supplier_id": "W2"
+    },
+    {
+      "_id": "20230104130020C9",
+      "date": {
+        "$date": {
+          "$numberLong": "1672837220000"
+        }
+      },
+      "order_status": 1,
+      "order_details": [
+        {
+          "product_id": "FP4",
+          "quantity": 2,
+          "cost": 6.8
+        }
+      ],
+      "total_cost": 13.6,
+      "partner_id": "",
+      "shipping_id": "AD9",
+      "supplier_id": "ST1"
+    }
+  ],
+  "recommended_products": [
+    {
+      "product_id": "CD10",
+      "avg_rating": 4
+    },
+    {
+      "product_id": "FP10",
+      "avg_rating": 3.8
+    }
+  ]
+},{
+  "_id": "C10",
+  "Customer": "Billy Ross",
+  "Gender": "M",
+  "Age": 45,
+  "phone_number": {
+    "$numberLong": "449575146991"
+  },
+  "addresses": [
+    {
+      "_id": "AD10",
+      "house": 36,
+      "street": "City Rd E",
+      "city": "Manchester",
+      "post_code": "M15 4TH",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          53.47182187,
+          -2.249197681
+        ]
+      }
+    }
+  ],
+  "current_orders": [
+    {
+      "_id": "20230104142337C10",
+      "date": {
+        "$date": {
+          "$numberLong": "1672842217000"
+        }
+      },
+      "order_status": 4,
+      "order_details": [
+        {
+          "product_id": "FP5",
+          "quantity": 2,
+          "cost": 2
+        }
+      ],
+      "total_cost": 4,
+      "partner_id": "PA2",
+      "shipping_id": "AD10",
+      "supplier_id": "ST2"
+    },
+    {
+      "_id": "20230104142757C10",
+      "date": {
+        "$date": {
+          "$numberLong": "1672842477000"
+        }
+      },
+      "order_status": 2,
+      "order_details": [
+        {
+          "product_id": "CD5",
+          "quantity": 1,
+          "cost": 7.46
+        }
+      ],
+      "total_cost": 7.46,
+      "partner_id": "",
+      "shipping_id": "AD10",
+      "supplier_id": "W1"
+    }
+  ],
+  "recommended_products": [
+    {
+      "product_id": "CD1",
+      "avg_rating": 3.4
+    },
+    {
+      "product_id": "HA10",
+      "avg_rating": 3.8
+    }
+  ]
+},{
+  "_id": "C11",
+  "Customer": "Jairo Fitzgerald",
+  "Gender": "M",
+  "Age": 19,
+  "phone_number": {
+    "$numberLong": "445486335516"
+  },
+  "addresses": [
+    {
+      "_id": "AD11",
+      "house": 1,
+      "street": "Trentham St",
+      "city": "Manchester",
+      "post_code": "M15 4YG",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          53.47103182,
+          -2.264642358
+        ]
+      }
+    }
+  ],
+  "current_orders": [
+    {
+      "_id": "20230104145116C11",
+      "date": {
+        "$date": {
+          "$numberLong": "1672843876000"
+        }
+      },
+      "order_status": 3,
+      "order_details": [
+        {
+          "product_id": "FP1",
+          "quantity": 3,
+          "cost": 2
+        }
+      ],
+      "total_cost": 6,
+      "partner_id": "",
+      "shipping_id": "AD11",
+      "supplier_id": "ST1"
+    },
+    {
+      "_id": "20230104153802C11",
+      "date": {
+        "$date": {
+          "$numberLong": "1672846682000"
+        }
+      },
+      "order_status": 4,
+      "order_details": [
+        {
+          "product_id": "FP10",
+          "quantity": 5,
+          "cost": 4
+        }
+      ],
+      "total_cost": 20,
+      "partner_id": "PA5",
+      "shipping_id": "AD11",
+      "supplier_id": "ST2"
+    }
+  ],
+  "recommended_products": [
+    {
+      "product_id": "FP11",
+      "avg_rating": 3.2
+    },
+    {
+      "product_id": "PH8",
+      "avg_rating": 3
+    }
+  ]
+},{
+  "_id": "C12",
+  "Customer": "Lucian Cohen",
+  "Gender": "F",
+  "Age": 64,
+  "phone_number": {
+    "$numberLong": "444694363523"
+  },
+  "addresses": [
+    {
+      "_id": "AD12",
+      "house": "Downtown Apartment 405",
+      "street": "7-9 Woden St",
+      "city": "Manchester",
+      "post_code": "M5 4YH",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          53.47379226,
+          -2.266542294
+        ]
+      }
+    }
+  ],
+  "current_orders": [
+    {
+      "_id": "20230104154828C12",
+      "date": {
+        "$date": {
+          "$numberLong": "1672847308000"
+        }
+      },
+      "order_status": 1,
+      "order_details": [
+        {
+          "product_id": "FP1",
+          "quantity": 3,
+          "cost": 2
+        }
+      ],
+      "total_cost": 6,
+      "partner_id": "",
+      "shipping_id": "AD12",
+      "supplier_id": "ST1"
+    },
+    {
+      "_id": "20230104162435C12",
+      "date": {
+        "$date": {
+          "$numberLong": "1672849475000"
+        }
+      },
+      "order_status": 2,
+      "partner_id": "",
+      "order_details": [
+        {
+          "product_id": "FP10",
+          "quantity": 5,
+          "cost": 4
+        }
+      ],
+      "total_cost": 20,
+      "shipping_id": "AD12",
+      "supplier_id": "ST2"
+    }
+  ],
+  "recommended_products": [
+    {
+      "product_id": "FP10",
+      "avg_rating": 3.8
+    },
+    {
+      "product_id": "HA2",
+      "avg_rating": 3.8
+    }
+  ]
+},{
+  "_id": "C13",
+  "Customer": "Rowan Fox",
+  "Gender": "M",
+  "Age": 58,
+  "phone_number": {
+    "$numberLong": "447885651241"
+  },
+  "addresses": [
+    {
+      "_id": "AD13",
+      "house": "Circle Square Apartment 321",
+      "street": "7 Symphony Park",
+      "city": "Manchester",
+      "post_code": "M1 7GB",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          53.47255984,
+          -2.236631167
+        ]
+      }
+    },
+    {
+      "_id": "AD14",
+      "house": 42,
+      "street": "City Rd E",
+      "city": "Manchester",
+      "post_code": "M15 4QF",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          53.47198948,
+          -2.248974858
+        ]
+      }
+    }
+  ],
+  "current_orders": [
+    {
+      "_id": "20230104164331C13",
+      "date": {
+        "$date": {
+          "$numberLong": "1672850611000"
+        }
+      },
+      "order_status": 4,
+      "order_details": [
+        {
+          "product_id": "FP9",
+          "quantity": 6,
+          "cost": 2
+        }
+      ],
+      "total_cost": 12,
+      "partner_id": "PA3",
+      "shipping_id": "AD13",
+      "supplier_id": "ST2"
+    },
+    {
+      "_id": "20230104171338C13",
+      "date": {
+        "$date": {
+          "$numberLong": "1672852418000"
+        }
+      },
+      "order_status": 1,
+      "order_details": [
+        {
+          "product_id": "FP13",
+          "quantity": 2,
+          "cost": 3
+        }
+      ],
+      "total_cost": 6,
+      "partner_id": "",
+      "shipping_id": "AD13",
+      "supplier_id": "W1"
+    }
+  ],
+  "recommended_products": [
+    {
+      "product_id": "FP8",
+      "avg_rating": 3.8
+    },
+    {
+      "product_id": "PH4",
+      "avg_rating": 3.6
+    }
+  ]
+},{
+  "_id": "C14",
+  "Customer": "Brice Copeland",
+  "Gender": "M",
+  "Age": 33,
+  "phone_number": {
+    "$numberLong": "446933952521"
+  },
+  "addresses": [
+    {
+      "_id": "AD15",
+      "house": "Thomas House 108",
+      "street": "Thomas St",
+      "city": "Manchester",
+      "post_code": "M4 1EX",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          53.48445305,
+          -2.23749638
+        ]
+      }
+    }
+  ],
+  "current_orders": [
+    {
+      "_id": "20230104175610C14",
+      "date": {
+        "$date": {
+          "$numberLong": "1672854970000"
+        }
+      },
+      "order_status": 3,
+      "order_details": [
+        {
+          "product_id": "B3",
+          "quantity": 1,
+          "cost": 8
+        }
+      ],
+      "total_cost": 8,
+      "partner_id": "",
+      "shipping_id": "AD15",
+      "supplier_id": "W1"
+    },
+    {
+      "_id": "20230104181037C14",
+      "date": {
+        "$date": {
+          "$numberLong": "1672855837000"
+        }
+      },
+      "order_status": 4,
+      "order_details": [
+        {
+          "product_id": "CD5",
+          "quantity": 1,
+          "cost": 7.46
+        }
+      ],
+      "total_cost": 7.46,
+      "partner_id": "PA2",
+      "shipping_id": "AD15",
+      "supplier_id": "W2"
+    }
+  ],
+  "recommended_products": [
+    {
+      "product_id": "B2",
+      "avg_rating": 4.2
+    },
+    {
+      "product_id": "FP10",
+      "avg_rating": 3.8
+    }
+  ]
+},{
+  "_id": "C15",
+  "Customer": "Calvin Carlson",
+  "Gender": "M",
+  "Age": 66,
+  "phone_number": {
+    "$numberLong": "448193919245"
+  },
+  "addresses": [
+    {
+      "_id": "AD16",
+      "house": "Botanica Apartment 406",
+      "street": "343 Chester Road",
+      "city": "Manchester",
+      "post_code": "M15 4YS",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          53.46764284,
+          -2.264848358
+        ]
+      }
+    }
+  ],
+  "current_orders": [
+    {
+      "_id": "20230104183531C15",
+      "date": {
+        "$date": {
+          "$numberLong": "1672857331000"
+        }
+      },
+      "order_status": 1,
+      "order_details": [
+        {
+          "product_id": "CD6",
+          "quantity": 1,
+          "cost": 14.92
+        }
+      ],
+      "total_cost": 14.92,
+      "partner_id": "",
+      "shipping_id": "AD16",
+      "supplier_id": "W1"
+    },
+    {
+      "_id": "20230104184145C15",
+      "date": {
+        "$date": {
+          "$numberLong": "1672857705000"
+        }
+      },
+      "order_status": 1,
+      "order_details": [
+        {
+          "product_id": "HA5",
+          "quantity": 1,
+          "cost": 29
+        }
+      ],
+      "total_cost": 29,
+      "partner_id": "",
+      "shipping_id": "AD16",
+      "supplier_id": "W1"
+    }
+  ],
+  "recommended_products": [
+    {
+      "product_id": "HA2",
+      "avg_rating": 3.8
+    },
+    {
+      "product_id": "B2",
+      "avg_rating": 4.2
+    }
+  ]
+},{
+  "_id": "C16",
+  "Customer": "Alyvia Mccormick",
+  "Gender": "F",
+  "Age": 22,
+  "phone_number": {
+    "$numberLong": "442962074861"
+  },
+  "addresses": [
+    {
+      "_id": "AD17",
+      "house": 83,
+      "street": "Devonshire Street South",
+      "city": "Manchester",
+      "post_code": "M13 9DA",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          53.46565883,
+          -2.218350607
+        ]
+      }
+    }
+  ],
+  "current_orders": [
+    {
+      "_id": "20230104185709C16",
+      "date": {
+        "$date": {
+          "$numberLong": "1672858629000"
+        }
+      },
+      "order_status": 2,
+      "order_details": [
+        {
+          "product_id": "HA6",
+          "quantity": 1,
+          "cost": 124.25
+        }
+      ],
+      "total_cost": 124.25,
+      "partner_id": "",
+      "shipping_id": "AD17",
+      "supplier_id": "W1"
+    },
+    {
+      "_id": "20230104185943C16",
+      "date": {
+        "$date": {
+          "$numberLong": "1672858783000"
+        }
+      },
+      "order_status": 4,
+      "order_details": [
+        {
+          "product_id": "CD10",
+          "quantity": 4,
+          "cost": 8.28
+        }
+      ],
+      "total_cost": 33.12,
+      "partner_id": "PA4",
+      "shipping_id": "AD17",
+      "supplier_id": "W1"
+    }
+  ],
+  "recommended_products": [
+    {
+      "product_id": "HA2",
+      "avg_rating": 3.8
+    },
+    {
+      "product_id": "B2",
+      "avg_rating": 4.2
+    }
+  ]
+},{
+  "_id": "C17",
+  "Customer": "Patience Valentine",
+  "Gender": "F",
+  "Age": 38,
+  "phone_number": {
+    "$numberLong": "448240719966"
+  },
+  "addresses": [
+    {
+      "_id": "AD18",
+      "house": 290,
+      "street": "Dickenson Road",
+      "city": "Manchester",
+      "post_code": "M14 5HA",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          53.45466109,
+          -2.207181547
+        ]
+      }
+    }
+  ],
+  "current_orders": [
+    {
+      "_id": "20230104192023C17",
+      "date": {
+        "$date": {
+          "$numberLong": "1672860023000"
+        }
+      },
+      "order_status": 3,
+      "order_details": [
+        {
+          "product_id": "HA9",
+          "quantity": 1,
+          "cost": 61.75
+        }
+      ],
+      "total_cost": 61.75,
+      "partner_id": "",
+      "shipping_id": "AD18",
+      "supplier_id": "W1"
+    },
+    {
+      "_id": "20230104194512C17",
+      "date": {
+        "$date": {
+          "$numberLong": "1672861512000"
+        }
+      },
+      "order_status": 2,
+      "order_details": [
+        {
+          "product_id": "B7",
+          "quantity": 8,
+          "cost": 16.99
+        }
+      ],
+      "total_cost": 135.92,
+      "partner_id": "",
+      "shipping_id": "AD18",
+      "supplier_id": "W3"
+    }
+  ],
+  "recommended_products": [
+    {
+      "product_id": "B2",
+      "avg_rating": 4.2
+    },
+    {
+      "product_id": "FP10",
+      "avg_rating": 3.8
+    }
+  ]
+},{
+  "_id": "C18",
+  "Customer": "Aubree Holland",
+  "Gender": "M",
+  "Age": 70,
+  "phone_number": {
+    "$numberLong": "448137575603"
+  },
+  "addresses": [
+    {
+      "_id": "AD19",
+      "house": 144,
+      "street": "Plymouth Grove",
+      "city": "Manchester",
+      "post_code": "M13 9LU",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          53.46303432,
+          -2.218282878
+        ]
+      }
+    }
+  ],
+  "current_orders": [
+    {
+      "_id": "20230104195830C18",
+      "date": {
+        "$date": {
+          "$numberLong": "1672862310000"
+        }
+      },
+      "order_status": 2,
+      "order_details": [
+        {
+          "product_id": "PH1",
+          "quantity": 1,
+          "cost": 169
+        }
+      ],
+      "total_cost": 169,
+      "partner_id": "",
+      "shipping_id": "AD19",
+      "supplier_id": "W1"
+    },
+    {
+      "_id": "20230104204208C18",
+      "date": {
+        "$date": {
+          "$numberLong": "1672864928000"
+        }
+      },
+      "order_status": 2,
+      "order_details": [
+        {
+          "product_id": "CD9",
+          "quantity": 2,
+          "cost": 18.2
+        }
+      ],
+      "total_cost": 36.4,
+      "partner_id": "",
+      "shipping_id": "AD19",
+      "supplier_id": "W1"
+    }
+  ],
+  "recommended_products": [
+    {
+      "product_id": "HA2",
+      "avg_rating": 3.8
+    },
+    {
+      "product_id": "FP1",
+      "avg_rating": 3.6
+    }
+  ]
+},{
+  "_id": "C19",
+  "Customer": "Ram Prasad",
+  "Gender": "M",
+  "Age": 50,
+  "phone_number": {
+    "$numberLong": "445866104074"
+  },
+  "addresses": [
+    {
+      "_id": "AD20",
+      "house": 5,
+      "street": "Lucy St",
+      "city": "Manchester",
+      "post_code": "M15 4SG",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          53.46546566,
+          -2.261863026
+        ]
+      }
+    },
+    {
+      "_id": "AD21",
+      "house": 4,
+      "street": "Eyre St",
+      "city": "Manchester",
+      "post_code": "M15 6HD",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          53.46406425,
+          -2.241031337
+        ]
+      }
+    }
+  ],
+  "current_orders": [
+    {
+      "_id": "20230104210846C19",
+      "date": {
+        "$date": {
+          "$numberLong": "1672866526000"
+        }
+      },
+      "order_status": 2,
+      "order_details": [
+        {
+          "product_id": "PH7",
+          "quantity": 4,
+          "cost": 599
+        },
+        {
+          "product_id": "CD10",
+          "quantity": 5,
+          "cost": 8.28
+        }
+      ],
+      "total_cost": 2437.4,
+      "partner_id": "",
+      "shipping_id": "AD20",
+      "supplier_id": "W1"
+    },
+    {
+      "_id": "20230104212616C19",
+      "date": {
+        "$date": {
+          "$numberLong": "1672867576000"
+        }
+      },
+      "order_status": 3,
+      "order_details": [
+        {
+          "product_id": "B6",
+          "quantity": 1,
+          "cost": 13.99
+        },
+        {
+          "product_id": "PH6",
+          "quantity": 1,
+          "cost": 769
+        }
+      ],
+      "total_cost": 782.99,
+      "partner_id": "",
+      "shipping_id": "AD21",
+      "supplier_id": "W1"
+    }
+  ],
+  "recommended_products": [
+    {
+      "product_id": "FP10",
+      "avg_rating": 3.8
+    },
+    {
+      "product_id": "PH4",
+      "avg_rating": 3.6
+    }
+  ]
+},{
+  "_id": "C20",
+  "Customer": "Mark Mulldon",
+  "Gender": "M",
+  "Age": 59,
+  "phone_number": {
+    "$numberLong": "445219432797"
+  },
+  "addresses": [
+    {
+      "_id": "AD22",
+      "house": 2,
+      "street": "Knowles Place",
+      "city": "Manchester",
+      "post_code": "M15 6DA",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          53.46931183,
+          -2.242109147
+        ]
+      }
+    }
+  ],
+  "current_orders": [
+    {
+      "_id": "20230104230118C20",
+      "date": {
+        "$date": {
+          "$numberLong": "1672873278000"
+        }
+      },
+      "order_status": 2,
+      "order_details": [
+        {
+          "product_id": "FP9",
+          "quantity": 3,
+          "cost": 2
+        },
+        {
+          "product_id": "FP7",
+          "quantity": 4,
+          "cost": 2
+        }
+      ],
+      "total_cost": 14,
+      "partner_id": "",
+      "shipping_id": "AD22",
+      "supplier_id": "ST1"
+    },
+    {
+      "_id": "20230104232544C20",
+      "date": {
+        "$date": {
+          "$numberLong": "1672874744000"
+        }
+      },
+      "order_status": 4,
+      "order_details": [
+        {
+          "product_id": "PH9",
+          "quantity": 1,
+          "cost": 849
+        }
+      ],
+      "total_cost": 849,
+      "partner_id": "PA3",
+      "shipping_id": "AD22",
+      "supplier_id": "W3"
+    }
+  ],
+  "recommended_products": [
+    {
+      "product_id": "FP1",
+      "avg_rating": 3.6
+    },
+    {
+      "product_id": "CD2",
+      "avg_rating": 4
+    }
+  ]
+}]

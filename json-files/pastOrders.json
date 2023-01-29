@@ -1,0 +1,5501 @@
+[{
+  "_id": "20221001050939C4",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1664600940000"
+    }
+  },
+  "customer_id": "C4",
+  "order_details": [
+    {
+      "product_id": "B3",
+      "quantity": 2,
+      "cost": 3.2
+    }
+  ],
+  "total_cost": 6.4,
+  "partner_id": "PA1",
+  "shipping_id": "AD4",
+  "supplier_id": "W2",
+  "order_status": 5
+},{
+  "_id": "20221001102713C19",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1664620020000"
+    }
+  },
+  "customer_id": "C19",
+  "order_details": [
+    {
+      "product_id": "CD2",
+      "quantity": 3,
+      "cost": 16.99
+    }
+  ],
+  "total_cost": 50.97,
+  "partner_id": "PA4",
+  "shipping_id": "AD21",
+  "supplier_id": "W2",
+  "order_status": 5
+},{
+  "_id": "20221001214036C16",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1664660400000"
+    }
+  },
+  "customer_id": "C16",
+  "order_details": [
+    {
+      "product_id": "HA6",
+      "quantity": 5,
+      "cost": 200
+    }
+  ],
+  "total_cost": 1000,
+  "partner_id": "PA3",
+  "shipping_id": "AD17",
+  "supplier_id": "W3",
+  "order_status": 5
+},{
+  "_id": "20221001221901C7",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1664662740000"
+    }
+  },
+  "customer_id": "C7",
+  "order_details": [
+    {
+      "product_id": "CD8",
+      "quantity": 4,
+      "cost": 329.39
+    }
+  ],
+  "total_cost": 1317.56,
+  "partner_id": "PA1",
+  "shipping_id": "AD7",
+  "supplier_id": "W1",
+  "order_status": 5
+},{
+  "_id": "20221001224411C6",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1664664240000"
+    }
+  },
+  "customer_id": "C6",
+  "order_details": [
+    {
+      "product_id": "FP13",
+      "quantity": 1,
+      "cost": 849
+    }
+  ],
+  "total_cost": 849,
+  "partner_id": "PA5",
+  "shipping_id": "AD6",
+  "supplier_id": "ST3",
+  "order_status": 5
+},{
+  "_id": "20221002010327C4",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1664672580000"
+    }
+  },
+  "customer_id": "C4",
+  "order_details": [
+    {
+      "product_id": "B5",
+      "quantity": 5,
+      "cost": 4
+    }
+  ],
+  "total_cost": 20,
+  "partner_id": "PA5",
+  "shipping_id": "AD4",
+  "supplier_id": "W2",
+  "order_status": 5
+},{
+  "_id": "20221002034149C2",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1664682060000"
+    }
+  },
+  "customer_id": "C2",
+  "order_details": [
+    {
+      "product_id": "CD8",
+      "quantity": 2,
+      "cost": 2.8
+    }
+  ],
+  "total_cost": 5.6,
+  "partner_id": "PA3",
+  "shipping_id": "AD2",
+  "supplier_id": "W1",
+  "order_status": 5
+},{
+  "_id": "20221002091717C13",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1664702220000"
+    }
+  },
+  "customer_id": "C13",
+  "order_details": [
+    {
+      "product_id": "B4",
+      "quantity": 2,
+      "cost": 21.97
+    }
+  ],
+  "total_cost": 43.94,
+  "partner_id": "PA2",
+  "shipping_id": "AD13",
+  "supplier_id": "W2",
+  "order_status": 5
+},{
+  "_id": "20221002143729C6",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1664721420000"
+    }
+  },
+  "customer_id": "C6",
+  "order_details": [
+    {
+      "product_id": "PH4",
+      "quantity": 3,
+      "cost": 37.04
+    }
+  ],
+  "total_cost": 111.12,
+  "partner_id": "PA2",
+  "shipping_id": "AD6",
+  "supplier_id": "W2",
+  "order_status": 5
+},{
+  "_id": "20221002153455C9",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1664724840000"
+    }
+  },
+  "customer_id": "C9",
+  "order_details": [
+    {
+      "product_id": "CD3",
+      "quantity": 5,
+      "cost": 3
+    }
+  ],
+  "total_cost": 15,
+  "partner_id": "PA4",
+  "shipping_id": "AD9",
+  "supplier_id": "W2",
+  "order_status": 5
+},{
+  "_id": "20221002161655C17",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1664727360000"
+    }
+  },
+  "customer_id": "C17",
+  "order_details": [
+    {
+      "product_id": "B8",
+      "quantity": 1,
+      "cost": 190.85
+    }
+  ],
+  "total_cost": 190.85,
+  "partner_id": "PA4",
+  "shipping_id": "AD18",
+  "supplier_id": "W2",
+  "order_status": 5
+},{
+  "_id": "20221002165122C14",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1664729460000"
+    }
+  },
+  "customer_id": "C14",
+  "order_details": [
+    {
+      "product_id": "B7",
+      "quantity": 3,
+      "cost": 16.58
+    }
+  ],
+  "total_cost": 49.74,
+  "partner_id": "PA3",
+  "shipping_id": "AD15",
+  "supplier_id": "W1",
+  "order_status": 5
+},{
+  "_id": "20221003195100C12",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1664826660000"
+    }
+  },
+  "customer_id": "C12",
+  "order_details": [
+    {
+      "product_id": "HA4",
+      "quantity": 3,
+      "cost": 13.5
+    }
+  ],
+  "total_cost": 40.5,
+  "partner_id": "PA2",
+  "shipping_id": "AD12",
+  "supplier_id": "W2",
+  "order_status": 5
+},{
+  "_id": "20221004092039C11",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1664875200000"
+    }
+  },
+  "customer_id": "C11",
+  "order_details": [
+    {
+      "product_id": "PH4",
+      "quantity": 4,
+      "cost": 58.07
+    }
+  ],
+  "total_cost": 232.28,
+  "partner_id": "PA5",
+  "shipping_id": "AD11",
+  "supplier_id": "W1",
+  "order_status": 5
+},{
+  "_id": "20221004100456C17",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1664877840000"
+    }
+  },
+  "customer_id": "C17",
+  "order_details": [
+    {
+      "product_id": "B3",
+      "quantity": 3,
+      "cost": 13.5
+    }
+  ],
+  "total_cost": 40.5,
+  "partner_id": "PA4",
+  "shipping_id": "AD18",
+  "supplier_id": "W2",
+  "order_status": 5
+},{
+  "_id": "20221004152651C12",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1664897160000"
+    }
+  },
+  "customer_id": "C12",
+  "order_details": [
+    {
+      "product_id": "CD6",
+      "quantity": 3,
+      "cost": 9.99
+    }
+  ],
+  "total_cost": 29.97,
+  "partner_id": "PA4",
+  "shipping_id": "AD12",
+  "supplier_id": "W2",
+  "order_status": 5
+},{
+  "_id": "20221004165233C20",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1664902320000"
+    }
+  },
+  "customer_id": "C20",
+  "order_details": [
+    {
+      "product_id": "FP2",
+      "quantity": 3,
+      "cost": 849
+    }
+  ],
+  "total_cost": 2547,
+  "partner_id": "PA2",
+  "shipping_id": "AD22",
+  "supplier_id": "ST1",
+  "order_status": 5
+},{
+  "_id": "20221004203204C5",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1664915520000"
+    }
+  },
+  "customer_id": "C5",
+  "order_details": [
+    {
+      "product_id": "FP12",
+      "quantity": 2,
+      "cost": 2
+    }
+  ],
+  "total_cost": 4,
+  "partner_id": "PA3",
+  "shipping_id": "AD5",
+  "supplier_id": "ST5",
+  "order_status": 5
+},{
+  "_id": "20221005031311C17",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1664939580000"
+    }
+  },
+  "customer_id": "C17",
+  "order_details": [
+    {
+      "product_id": "FP1",
+      "quantity": 4,
+      "cost": 769
+    }
+  ],
+  "total_cost": 3076,
+  "partner_id": "PA2",
+  "shipping_id": "AD18",
+  "supplier_id": "ST2",
+  "order_status": 5
+},{
+  "_id": "20221005204812C19",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665002880000"
+    }
+  },
+  "customer_id": "C19",
+  "order_details": [
+    {
+      "product_id": "CD6",
+      "quantity": 5,
+      "cost": 16.58
+    }
+  ],
+  "total_cost": 82.9,
+  "partner_id": "PA2",
+  "shipping_id": "AD21",
+  "supplier_id": "W3",
+  "order_status": 5
+},{
+  "_id": "20221006192129C15",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665084060000"
+    }
+  },
+  "customer_id": "C15",
+  "order_details": [
+    {
+      "product_id": "CD5",
+      "quantity": 1,
+      "cost": 500
+    }
+  ],
+  "total_cost": 500,
+  "partner_id": "PA2",
+  "shipping_id": "AD16",
+  "supplier_id": "W1",
+  "order_status": 5
+},{
+  "_id": "20221006193737C12",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665085020000"
+    }
+  },
+  "customer_id": "C12",
+  "order_details": [
+    {
+      "product_id": "FP3",
+      "quantity": 3,
+      "cost": 14.92
+    }
+  ],
+  "total_cost": 44.76,
+  "partner_id": "PA4",
+  "shipping_id": "AD12",
+  "supplier_id": "ST5",
+  "order_status": 5
+},{
+  "_id": "20221006200951C1",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665086940000"
+    }
+  },
+  "customer_id": "C1",
+  "order_details": [
+    {
+      "product_id": "CD7",
+      "quantity": 2,
+      "cost": 2.8
+    }
+  ],
+  "total_cost": 5.6,
+  "partner_id": "PA5",
+  "shipping_id": "AD1",
+  "supplier_id": "W1",
+  "order_status": 5
+},{
+  "_id": "20221007020933C3",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665108540000"
+    }
+  },
+  "customer_id": "C3",
+  "order_details": [
+    {
+      "product_id": "PH10",
+      "quantity": 3,
+      "cost": 2
+    }
+  ],
+  "total_cost": 6,
+  "partner_id": "PA5",
+  "shipping_id": "AD3",
+  "supplier_id": "W1",
+  "order_status": 5
+},{
+  "_id": "20221007083631C3",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665131760000"
+    }
+  },
+  "customer_id": "C3",
+  "order_details": [
+    {
+      "product_id": "CD7",
+      "quantity": 3,
+      "cost": 9.99
+    }
+  ],
+  "total_cost": 29.97,
+  "partner_id": "PA1",
+  "shipping_id": "AD3",
+  "supplier_id": "W1",
+  "order_status": 5
+},{
+  "_id": "20221008051745C3",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665206220000"
+    }
+  },
+  "customer_id": "C3",
+  "order_details": [
+    {
+      "product_id": "PH9",
+      "quantity": 1,
+      "cost": 9.99
+    }
+  ],
+  "total_cost": 9.99,
+  "partner_id": "PA1",
+  "shipping_id": "AD3",
+  "supplier_id": "W3",
+  "order_status": 5
+},{
+  "_id": "20221008143028C10",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665239400000"
+    }
+  },
+  "customer_id": "C10",
+  "order_details": [
+    {
+      "product_id": "PH7",
+      "quantity": 5,
+      "cost": 10.99
+    }
+  ],
+  "total_cost": 54.95,
+  "partner_id": "PA4",
+  "shipping_id": "AD10",
+  "supplier_id": "W1",
+  "order_status": 5
+},{
+  "_id": "20221008211056C2",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665263400000"
+    }
+  },
+  "customer_id": "C2",
+  "order_details": [
+    {
+      "product_id": "B6",
+      "quantity": 4,
+      "cost": 12.99
+    }
+  ],
+  "total_cost": 51.96,
+  "partner_id": "PA4",
+  "shipping_id": "AD2",
+  "supplier_id": "W2",
+  "order_status": 5
+},{
+  "_id": "20221008223518C15",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665268500000"
+    }
+  },
+  "customer_id": "C15",
+  "order_details": [
+    {
+      "product_id": "B10",
+      "quantity": 4,
+      "cost": 29.01
+    }
+  ],
+  "total_cost": 116.04,
+  "partner_id": "PA4",
+  "shipping_id": "AD16",
+  "supplier_id": "W1",
+  "order_status": 5
+},{
+  "_id": "20221009000919C19",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665274140000"
+    }
+  },
+  "customer_id": "C19",
+  "order_details": [
+    {
+      "product_id": "FP9",
+      "quantity": 5,
+      "cost": 58.07
+    }
+  ],
+  "total_cost": 290.35,
+  "partner_id": "PA2",
+  "shipping_id": "AD21",
+  "supplier_id": "ST3",
+  "order_status": 5
+},{
+  "_id": "20221009090305C15",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665306180000"
+    }
+  },
+  "customer_id": "C15",
+  "order_details": [
+    {
+      "product_id": "CD3",
+      "quantity": 1,
+      "cost": 37.04
+    }
+  ],
+  "total_cost": 37.04,
+  "partner_id": "PA4",
+  "shipping_id": "AD16",
+  "supplier_id": "W1",
+  "order_status": 5
+},{
+  "_id": "20221009152937C15",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665329340000"
+    }
+  },
+  "customer_id": "C15",
+  "order_details": [
+    {
+      "product_id": "HA6",
+      "quantity": 3,
+      "cost": 2
+    }
+  ],
+  "total_cost": 6,
+  "partner_id": "PA4",
+  "shipping_id": "AD16",
+  "supplier_id": "W1",
+  "order_status": 5
+},{
+  "_id": "20221009202521C20",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665347100000"
+    }
+  },
+  "customer_id": "C20",
+  "order_details": [
+    {
+      "product_id": "FP4",
+      "quantity": 2,
+      "cost": 11.48
+    }
+  ],
+  "total_cost": 22.96,
+  "partner_id": "PA1",
+  "shipping_id": "AD22",
+  "supplier_id": "ST2",
+  "order_status": 5
+},{
+  "_id": "20221010004914C17",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665362940000"
+    }
+  },
+  "customer_id": "C17",
+  "order_details": [
+    {
+      "product_id": "B10",
+      "quantity": 5,
+      "cost": 124.45
+    }
+  ],
+  "total_cost": 622.25,
+  "partner_id": "PA4",
+  "shipping_id": "AD18",
+  "supplier_id": "W2",
+  "order_status": 5
+},{
+  "_id": "20221010012946C14",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665365340000"
+    }
+  },
+  "customer_id": "C14",
+  "order_details": [
+    {
+      "product_id": "FP1",
+      "quantity": 1,
+      "cost": 169
+    }
+  ],
+  "total_cost": 169,
+  "partner_id": "PA3",
+  "shipping_id": "AD15",
+  "supplier_id": "ST2",
+  "order_status": 5
+},{
+  "_id": "20221010014752C14",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665366420000"
+    }
+  },
+  "customer_id": "C14",
+  "order_details": [
+    {
+      "product_id": "B9",
+      "quantity": 5,
+      "cost": 9.99
+    }
+  ],
+  "total_cost": 49.95,
+  "partner_id": "PA3",
+  "shipping_id": "AD15",
+  "supplier_id": "W2",
+  "order_status": 5
+},{
+  "_id": "20221010203447C18",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665434040000"
+    }
+  },
+  "customer_id": "C18",
+  "order_details": [
+    {
+      "product_id": "HA9",
+      "quantity": 1,
+      "cost": 11.48
+    }
+  ],
+  "total_cost": 11.48,
+  "partner_id": "PA1",
+  "shipping_id": "AD19",
+  "supplier_id": "W3",
+  "order_status": 5
+},{
+  "_id": "20221010223150C18",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665441060000"
+    }
+  },
+  "customer_id": "C18",
+  "order_details": [
+    {
+      "product_id": "FP14",
+      "quantity": 5,
+      "cost": 12.99
+    }
+  ],
+  "total_cost": 64.95,
+  "partner_id": "PA2",
+  "shipping_id": "AD19",
+  "supplier_id": "ST3",
+  "order_status": 5
+},{
+  "_id": "20221011145150C20",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665499860000"
+    }
+  },
+  "customer_id": "C20",
+  "order_details": [
+    {
+      "product_id": "FP10",
+      "quantity": 4,
+      "cost": 13.99
+    }
+  ],
+  "total_cost": 55.96,
+  "partner_id": "PA5",
+  "shipping_id": "AD22",
+  "supplier_id": "ST2",
+  "order_status": 5
+},{
+  "_id": "20221011153548C5",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665502500000"
+    }
+  },
+  "customer_id": "C5",
+  "order_details": [
+    {
+      "product_id": "HA6",
+      "quantity": 2,
+      "cost": 15.75
+    }
+  ],
+  "total_cost": 31.5,
+  "partner_id": "PA1",
+  "shipping_id": "AD5",
+  "supplier_id": "W3",
+  "order_status": 5
+},{
+  "_id": "20221011160014C10",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665504000000"
+    }
+  },
+  "customer_id": "C10",
+  "order_details": [
+    {
+      "product_id": "FP9",
+      "quantity": 5,
+      "cost": 10.99
+    }
+  ],
+  "total_cost": 54.95,
+  "partner_id": "PA3",
+  "shipping_id": "AD10",
+  "supplier_id": "ST3",
+  "order_status": 5
+},{
+  "_id": "20221011165811C18",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665507480000"
+    }
+  },
+  "customer_id": "C18",
+  "order_details": [
+    {
+      "product_id": "HA4",
+      "quantity": 2,
+      "cost": 599
+    }
+  ],
+  "total_cost": 1198,
+  "partner_id": "PA3",
+  "shipping_id": "AD19",
+  "supplier_id": "W3",
+  "order_status": 5
+},{
+  "_id": "20221012013602C3",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665538560000"
+    }
+  },
+  "customer_id": "C3",
+  "order_details": [
+    {
+      "product_id": "CD1",
+      "quantity": 3,
+      "cost": 190.85
+    }
+  ],
+  "total_cost": 572.55,
+  "partner_id": "PA3",
+  "shipping_id": "AD3",
+  "supplier_id": "W3",
+  "order_status": 5
+},{
+  "_id": "20221012025232C12",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665543120000"
+    }
+  },
+  "customer_id": "C12",
+  "order_details": [
+    {
+      "product_id": "CD5",
+      "quantity": 1,
+      "cost": 10
+    }
+  ],
+  "total_cost": 10,
+  "partner_id": "PA5",
+  "shipping_id": "AD12",
+  "supplier_id": "W3",
+  "order_status": 5
+},{
+  "_id": "20221012050021C14",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665550800000"
+    }
+  },
+  "customer_id": "C14",
+  "order_details": [
+    {
+      "product_id": "HA10",
+      "quantity": 4,
+      "cost": 169
+    }
+  ],
+  "total_cost": 676,
+  "partner_id": "PA1",
+  "shipping_id": "AD15",
+  "supplier_id": "W3",
+  "order_status": 5
+},{
+  "_id": "20221012055341C20",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665553980000"
+    }
+  },
+  "customer_id": "C20",
+  "order_details": [
+    {
+      "product_id": "PH2",
+      "quantity": 4,
+      "cost": 16.59
+    }
+  ],
+  "total_cost": 66.36,
+  "partner_id": "PA1",
+  "shipping_id": "AD22",
+  "supplier_id": "W1",
+  "order_status": 5
+},{
+  "_id": "20221012084020C10",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665564000000"
+    }
+  },
+  "customer_id": "C10",
+  "order_details": [
+    {
+      "product_id": "FP14",
+      "quantity": 5,
+      "cost": 2.8
+    }
+  ],
+  "total_cost": 14,
+  "partner_id": "PA1",
+  "shipping_id": "AD10",
+  "supplier_id": "ST3",
+  "order_status": 5
+},{
+  "_id": "20221012091320C13",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665565980000"
+    }
+  },
+  "customer_id": "C13",
+  "order_details": [
+    {
+      "product_id": "PH1",
+      "quantity": 2,
+      "cost": 15.75
+    }
+  ],
+  "total_cost": 31.5,
+  "partner_id": "PA3",
+  "shipping_id": "AD14",
+  "supplier_id": "W2",
+  "order_status": 5
+},{
+  "_id": "20221012135929C4",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665583140000"
+    }
+  },
+  "customer_id": "C4",
+  "order_details": [
+    {
+      "product_id": "FP5",
+      "quantity": 4,
+      "cost": 15.75
+    }
+  ],
+  "total_cost": 63,
+  "partner_id": "PA1",
+  "shipping_id": "AD4",
+  "supplier_id": "ST2",
+  "order_status": 5
+},{
+  "_id": "20221012154704C16",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665589620000"
+    }
+  },
+  "customer_id": "C16",
+  "order_details": [
+    {
+      "product_id": "HA8",
+      "quantity": 1,
+      "cost": 2.9
+    }
+  ],
+  "total_cost": 2.9,
+  "partner_id": "PA1",
+  "shipping_id": "AD17",
+  "supplier_id": "W2",
+  "order_status": 5
+},{
+  "_id": "20221012181236C4",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665598320000"
+    }
+  },
+  "customer_id": "C4",
+  "order_details": [
+    {
+      "product_id": "HA2",
+      "quantity": 2,
+      "cost": 8.28
+    }
+  ],
+  "total_cost": 16.56,
+  "partner_id": "PA4",
+  "shipping_id": "AD4",
+  "supplier_id": "W2",
+  "order_status": 5
+},{
+  "_id": "20221012222535C7",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665613500000"
+    }
+  },
+  "customer_id": "C7",
+  "order_details": [
+    {
+      "product_id": "HA9",
+      "quantity": 4,
+      "cost": 11.48
+    }
+  ],
+  "total_cost": 45.92,
+  "partner_id": "PA2",
+  "shipping_id": "AD7",
+  "supplier_id": "W3",
+  "order_status": 5
+},{
+  "_id": "20221013052926C8",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665638940000"
+    }
+  },
+  "customer_id": "C8",
+  "order_details": [
+    {
+      "product_id": "PH9",
+      "quantity": 2,
+      "cost": 3.2
+    }
+  ],
+  "total_cost": 6.4,
+  "partner_id": "PA5",
+  "shipping_id": "AD8",
+  "supplier_id": "W3",
+  "order_status": 5
+},{
+  "_id": "20221013090400C3",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665651840000"
+    }
+  },
+  "customer_id": "C3",
+  "order_details": [
+    {
+      "product_id": "FP13",
+      "quantity": 2,
+      "cost": 2
+    }
+  ],
+  "total_cost": 4,
+  "partner_id": "PA2",
+  "shipping_id": "AD3",
+  "supplier_id": "ST4",
+  "order_status": 5
+},{
+  "_id": "20221013120905C13",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665662940000"
+    }
+  },
+  "customer_id": "C13",
+  "order_details": [
+    {
+      "product_id": "PH8",
+      "quantity": 4,
+      "cost": 3
+    }
+  ],
+  "total_cost": 12,
+  "partner_id": "PA4",
+  "shipping_id": "AD13",
+  "supplier_id": "W3",
+  "order_status": 5
+},{
+  "_id": "20221013152205C12",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665674520000"
+    }
+  },
+  "customer_id": "C12",
+  "order_details": [
+    {
+      "product_id": "HA5",
+      "quantity": 3,
+      "cost": 8
+    }
+  ],
+  "total_cost": 24,
+  "partner_id": "PA4",
+  "shipping_id": "AD12",
+  "supplier_id": "W2",
+  "order_status": 5
+},{
+  "_id": "20221013164424C8",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665679440000"
+    }
+  },
+  "customer_id": "C8",
+  "order_details": [
+    {
+      "product_id": "HA3",
+      "quantity": 1,
+      "cost": 2
+    }
+  ],
+  "total_cost": 2,
+  "partner_id": "PA2",
+  "shipping_id": "AD8",
+  "supplier_id": "W2",
+  "order_status": 5
+},{
+  "_id": "20221014023523C16",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665714900000"
+    }
+  },
+  "customer_id": "C16",
+  "order_details": [
+    {
+      "product_id": "FP13",
+      "quantity": 1,
+      "cost": 37.04
+    }
+  ],
+  "total_cost": 37.04,
+  "partner_id": "PA3",
+  "shipping_id": "AD17",
+  "supplier_id": "ST2",
+  "order_status": 5
+},{
+  "_id": "20221014034807C7",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665719280000"
+    }
+  },
+  "customer_id": "C7",
+  "order_details": [
+    {
+      "product_id": "B6",
+      "quantity": 5,
+      "cost": 5
+    }
+  ],
+  "total_cost": 25,
+  "partner_id": "PA5",
+  "shipping_id": "AD7",
+  "supplier_id": "W1",
+  "order_status": 5
+},{
+  "_id": "20221015025337C2",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665802380000"
+    }
+  },
+  "customer_id": "C2",
+  "order_details": [
+    {
+      "product_id": "HA7",
+      "quantity": 4,
+      "cost": 329.39
+    }
+  ],
+  "total_cost": 1317.56,
+  "partner_id": "PA5",
+  "shipping_id": "AD2",
+  "supplier_id": "W3",
+  "order_status": 5
+},{
+  "_id": "20221015030109C6",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665802860000"
+    }
+  },
+  "customer_id": "C6",
+  "order_details": [
+    {
+      "product_id": "FP4",
+      "quantity": 1,
+      "cost": 2
+    }
+  ],
+  "total_cost": 2,
+  "partner_id": "PA2",
+  "shipping_id": "AD6",
+  "supplier_id": "ST1",
+  "order_status": 5
+},{
+  "_id": "20221015034759C2",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665805620000"
+    }
+  },
+  "customer_id": "C2",
+  "order_details": [
+    {
+      "product_id": "CD4",
+      "quantity": 5,
+      "cost": 179.99
+    }
+  ],
+  "total_cost": 899.95,
+  "partner_id": "PA3",
+  "shipping_id": "AD2",
+  "supplier_id": "W1",
+  "order_status": 5
+},{
+  "_id": "20221015234446C8",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665877440000"
+    }
+  },
+  "customer_id": "C8",
+  "order_details": [
+    {
+      "product_id": "CD1",
+      "quantity": 5,
+      "cost": 14
+    }
+  ],
+  "total_cost": 70,
+  "partner_id": "PA4",
+  "shipping_id": "AD8",
+  "supplier_id": "W1",
+  "order_status": 5
+},{
+  "_id": "20221016041720C7",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665893820000"
+    }
+  },
+  "customer_id": "C7",
+  "order_details": [
+    {
+      "product_id": "CD2",
+      "quantity": 3,
+      "cost": 61.75
+    }
+  ],
+  "total_cost": 185.25,
+  "partner_id": "PA3",
+  "shipping_id": "AD7",
+  "supplier_id": "W3",
+  "order_status": 5
+},{
+  "_id": "20221016151528C8",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665933300000"
+    }
+  },
+  "customer_id": "C8",
+  "order_details": [
+    {
+      "product_id": "B1",
+      "quantity": 1,
+      "cost": 2.9
+    }
+  ],
+  "total_cost": 2.9,
+  "partner_id": "PA1",
+  "shipping_id": "AD8",
+  "supplier_id": "W3",
+  "order_status": 5
+},{
+  "_id": "20221016184745C10",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665946020000"
+    }
+  },
+  "customer_id": "C10",
+  "order_details": [
+    {
+      "product_id": "HA1",
+      "quantity": 1,
+      "cost": 29.01
+    }
+  ],
+  "total_cost": 29.01,
+  "partner_id": "PA1",
+  "shipping_id": "AD10",
+  "supplier_id": "W1",
+  "order_status": 5
+},{
+  "_id": "20221016214323C20",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665956580000"
+    }
+  },
+  "customer_id": "C20",
+  "order_details": [
+    {
+      "product_id": "CD10",
+      "quantity": 2,
+      "cost": 9.99
+    }
+  ],
+  "total_cost": 19.98,
+  "partner_id": "PA1",
+  "shipping_id": "AD22",
+  "supplier_id": "W2",
+  "order_status": 5
+},{
+  "_id": "20221016225942C11",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665961140000"
+    }
+  },
+  "customer_id": "C11",
+  "order_details": [
+    {
+      "product_id": "FP2",
+      "quantity": 3,
+      "cost": 6.8
+    }
+  ],
+  "total_cost": 20.4,
+  "partner_id": "PA4",
+  "shipping_id": "AD11",
+  "supplier_id": "ST5",
+  "order_status": 5
+},{
+  "_id": "20221017042737C10",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665980820000"
+    }
+  },
+  "customer_id": "C10",
+  "order_details": [
+    {
+      "product_id": "HA7",
+      "quantity": 2,
+      "cost": 21.97
+    }
+  ],
+  "total_cost": 43.94,
+  "partner_id": "PA4",
+  "shipping_id": "AD10",
+  "supplier_id": "W1",
+  "order_status": 5
+},{
+  "_id": "20221017051826C11",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665983880000"
+    }
+  },
+  "customer_id": "C11",
+  "order_details": [
+    {
+      "product_id": "FP14",
+      "quantity": 3,
+      "cost": 21.97
+    }
+  ],
+  "total_cost": 65.91,
+  "partner_id": "PA1",
+  "shipping_id": "AD11",
+  "supplier_id": "ST4",
+  "order_status": 5
+},{
+  "_id": "20221017091507C4",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1665998100000"
+    }
+  },
+  "customer_id": "C4",
+  "order_details": [
+    {
+      "product_id": "B5",
+      "quantity": 2,
+      "cost": 13.5
+    }
+  ],
+  "total_cost": 27,
+  "partner_id": "PA3",
+  "shipping_id": "AD4",
+  "supplier_id": "W2",
+  "order_status": 5
+},{
+  "_id": "20221017153704C13",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666021020000"
+    }
+  },
+  "customer_id": "C13",
+  "order_details": [
+    {
+      "product_id": "CD6",
+      "quantity": 4,
+      "cost": 10
+    }
+  ],
+  "total_cost": 40,
+  "partner_id": "PA3",
+  "shipping_id": "AD14",
+  "supplier_id": "W2",
+  "order_status": 5
+},{
+  "_id": "20221017182343C5",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666030980000"
+    }
+  },
+  "customer_id": "C5",
+  "order_details": [
+    {
+      "product_id": "PH10",
+      "quantity": 3,
+      "cost": 179.99
+    }
+  ],
+  "total_cost": 539.97,
+  "partner_id": "PA2",
+  "shipping_id": "AD5",
+  "supplier_id": "W2",
+  "order_status": 5
+},{
+  "_id": "20221018102042C8",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666088400000"
+    }
+  },
+  "customer_id": "C8",
+  "order_details": [
+    {
+      "product_id": "CD6",
+      "quantity": 5,
+      "cost": 2.8
+    }
+  ],
+  "total_cost": 14,
+  "partner_id": "PA5",
+  "shipping_id": "AD8",
+  "supplier_id": "W1",
+  "order_status": 5
+},{
+  "_id": "20221018112244C13",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666092120000"
+    }
+  },
+  "customer_id": "C13",
+  "order_details": [
+    {
+      "product_id": "FP3",
+      "quantity": 3,
+      "cost": 61.75
+    }
+  ],
+  "total_cost": 185.25,
+  "partner_id": "PA2",
+  "shipping_id": "AD14",
+  "supplier_id": "ST2",
+  "order_status": 5
+},{
+  "_id": "20221018151526C9",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666106100000"
+    }
+  },
+  "customer_id": "C9",
+  "order_details": [
+    {
+      "product_id": "B5",
+      "quantity": 2,
+      "cost": 849
+    }
+  ],
+  "total_cost": 1698,
+  "partner_id": "PA4",
+  "shipping_id": "AD9",
+  "supplier_id": "W1",
+  "order_status": 5
+},{
+  "_id": "20221018160831C1",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666109280000"
+    }
+  },
+  "customer_id": "C1",
+  "order_details": [
+    {
+      "product_id": "HA8",
+      "quantity": 4,
+      "cost": 3
+    }
+  ],
+  "total_cost": 12,
+  "partner_id": "PA5",
+  "shipping_id": "AD1",
+  "supplier_id": "W3",
+  "order_status": 5
+},{
+  "_id": "20221018175921C5",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666115940000"
+    }
+  },
+  "customer_id": "C5",
+  "order_details": [
+    {
+      "product_id": "PH3",
+      "quantity": 5,
+      "cost": 61.75
+    }
+  ],
+  "total_cost": 308.75,
+  "partner_id": "PA4",
+  "shipping_id": "AD5",
+  "supplier_id": "W2",
+  "order_status": 5
+},{
+  "_id": "20221019090939C2",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666170540000"
+    }
+  },
+  "customer_id": "C2",
+  "order_details": [
+    {
+      "product_id": "B7",
+      "quantity": 4,
+      "cost": 13.5
+    }
+  ],
+  "total_cost": 54,
+  "partner_id": "PA5",
+  "shipping_id": "AD2",
+  "supplier_id": "W1",
+  "order_status": 5
+},{
+  "_id": "20221019211001C16",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666213800000"
+    }
+  },
+  "customer_id": "C16",
+  "order_details": [
+    {
+      "product_id": "CD9",
+      "quantity": 4,
+      "cost": 449
+    }
+  ],
+  "total_cost": 1796,
+  "partner_id": "PA5",
+  "shipping_id": "AD17",
+  "supplier_id": "W3",
+  "order_status": 5
+},{
+  "_id": "20221020102157C9",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666261260000"
+    }
+  },
+  "customer_id": "C9",
+  "order_details": [
+    {
+      "product_id": "PH1",
+      "quantity": 3,
+      "cost": 2.8
+    }
+  ],
+  "total_cost": 8.4,
+  "partner_id": "PA2",
+  "shipping_id": "AD9",
+  "supplier_id": "W1",
+  "order_status": 5
+},{
+  "_id": "20221020234757C1",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666309620000"
+    }
+  },
+  "customer_id": "C1",
+  "order_details": [
+    {
+      "product_id": "PH6",
+      "quantity": 2,
+      "cost": 21.97
+    }
+  ],
+  "total_cost": 43.94,
+  "partner_id": "PA4",
+  "shipping_id": "AD1",
+  "supplier_id": "W2",
+  "order_status": 5
+},{
+  "_id": "20221021014650C16",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666316760000"
+    }
+  },
+  "customer_id": "C16",
+  "order_details": [
+    {
+      "product_id": "HA5",
+      "quantity": 4,
+      "cost": 13.99
+    }
+  ],
+  "total_cost": 55.96,
+  "partner_id": "PA2",
+  "shipping_id": "AD17",
+  "supplier_id": "W3",
+  "order_status": 5
+},{
+  "_id": "20221021075505C18",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666338900000"
+    }
+  },
+  "customer_id": "C18",
+  "order_details": [
+    {
+      "product_id": "PH7",
+      "quantity": 3,
+      "cost": 2
+    }
+  ],
+  "total_cost": 6,
+  "partner_id": "PA2",
+  "shipping_id": "AD19",
+  "supplier_id": "W1",
+  "order_status": 5
+},{
+  "_id": "20221021122948C11",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666355340000"
+    }
+  },
+  "customer_id": "C11",
+  "order_details": [
+    {
+      "product_id": "FP1",
+      "quantity": 5,
+      "cost": 6.8
+    }
+  ],
+  "total_cost": 34,
+  "partner_id": "PA4",
+  "shipping_id": "AD11",
+  "supplier_id": "ST3",
+  "order_status": 5
+},{
+  "_id": "20221021163004C6",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666369800000"
+    }
+  },
+  "customer_id": "C6",
+  "order_details": [
+    {
+      "product_id": "PH4",
+      "quantity": 4,
+      "cost": 14.92
+    }
+  ],
+  "total_cost": 59.68,
+  "partner_id": "PA3",
+  "shipping_id": "AD6",
+  "supplier_id": "W1",
+  "order_status": 5
+},{
+  "_id": "20221021163046C1",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666369800000"
+    }
+  },
+  "customer_id": "C1",
+  "order_details": [
+    {
+      "product_id": "CD6",
+      "quantity": 1,
+      "cost": 20.74
+    }
+  ],
+  "total_cost": 20.74,
+  "partner_id": "PA3",
+  "shipping_id": "AD1",
+  "supplier_id": "W2",
+  "order_status": 5
+},{
+  "_id": "20221021202313C14",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666383780000"
+    }
+  },
+  "customer_id": "C14",
+  "order_details": [
+    {
+      "product_id": "FP5",
+      "quantity": 2,
+      "cost": 14
+    }
+  ],
+  "total_cost": 28,
+  "partner_id": "PA4",
+  "shipping_id": "AD15",
+  "supplier_id": "ST5",
+  "order_status": 5
+},{
+  "_id": "20221022010010C7",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666400400000"
+    }
+  },
+  "customer_id": "C7",
+  "order_details": [
+    {
+      "product_id": "HA3",
+      "quantity": 2,
+      "cost": 2
+    }
+  ],
+  "total_cost": 4,
+  "partner_id": "PA3",
+  "shipping_id": "AD7",
+  "supplier_id": "W2",
+  "order_status": 5
+},{
+  "_id": "20221022063120C9",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666420260000"
+    }
+  },
+  "customer_id": "C9",
+  "order_details": [
+    {
+      "product_id": "B2",
+      "quantity": 4,
+      "cost": 2
+    }
+  ],
+  "total_cost": 8,
+  "partner_id": "PA3",
+  "shipping_id": "AD9",
+  "supplier_id": "W1",
+  "order_status": 5
+},{
+  "_id": "20221022065353C19",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666421580000"
+    }
+  },
+  "customer_id": "C19",
+  "order_details": [
+    {
+      "product_id": "FP9",
+      "quantity": 1,
+      "cost": 849
+    }
+  ],
+  "total_cost": 849,
+  "partner_id": "PA5",
+  "shipping_id": "AD21",
+  "supplier_id": "ST1",
+  "order_status": 5
+},{
+  "_id": "20221022104750C5",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666435620000"
+    }
+  },
+  "customer_id": "C5",
+  "order_details": [
+    {
+      "product_id": "FP5",
+      "quantity": 1,
+      "cost": 2
+    }
+  ],
+  "total_cost": 2,
+  "partner_id": "PA3",
+  "shipping_id": "AD5",
+  "supplier_id": "ST2",
+  "order_status": 5
+},{
+  "_id": "20221022115940C18",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666439940000"
+    }
+  },
+  "customer_id": "C18",
+  "order_details": [
+    {
+      "product_id": "CD9",
+      "quantity": 3,
+      "cost": 14.87
+    }
+  ],
+  "total_cost": 44.61,
+  "partner_id": "PA1",
+  "shipping_id": "AD19",
+  "supplier_id": "W3",
+  "order_status": 5
+},{
+  "_id": "20221022135752C11",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666447020000"
+    }
+  },
+  "customer_id": "C11",
+  "order_details": [
+    {
+      "product_id": "HA1",
+      "quantity": 1,
+      "cost": 10
+    }
+  ],
+  "total_cost": 10,
+  "partner_id": "PA1",
+  "shipping_id": "AD11",
+  "supplier_id": "W3",
+  "order_status": 5
+},{
+  "_id": "20221022141225C1",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666447920000"
+    }
+  },
+  "customer_id": "C1",
+  "order_details": [
+    {
+      "product_id": "HA4",
+      "quantity": 5,
+      "cost": 2
+    }
+  ],
+  "total_cost": 10,
+  "partner_id": "PA2",
+  "shipping_id": "AD1",
+  "supplier_id": "W1",
+  "order_status": 5
+},{
+  "_id": "20221023003930C15",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666485540000"
+    }
+  },
+  "customer_id": "C15",
+  "order_details": [
+    {
+      "product_id": "FP6",
+      "quantity": 5,
+      "cost": 500
+    }
+  ],
+  "total_cost": 2500,
+  "partner_id": "PA4",
+  "shipping_id": "AD16",
+  "supplier_id": "ST2",
+  "order_status": 5
+},{
+  "_id": "20221023130623C6",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666530360000"
+    }
+  },
+  "customer_id": "C6",
+  "order_details": [
+    {
+      "product_id": "CD2",
+      "quantity": 1,
+      "cost": 13.99
+    }
+  ],
+  "total_cost": 13.99,
+  "partner_id": "PA1",
+  "shipping_id": "AD6",
+  "supplier_id": "W3",
+  "order_status": 5
+},{
+  "_id": "20221023205903C9",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666558740000"
+    }
+  },
+  "customer_id": "C9",
+  "order_details": [
+    {
+      "product_id": "HA5",
+      "quantity": 5,
+      "cost": 500
+    }
+  ],
+  "total_cost": 2500,
+  "partner_id": "PA5",
+  "shipping_id": "AD9",
+  "supplier_id": "W2",
+  "order_status": 5
+},{
+  "_id": "20221023213155C19",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666560660000"
+    }
+  },
+  "customer_id": "C19",
+  "order_details": [
+    {
+      "product_id": "B8",
+      "quantity": 4,
+      "cost": 190.85
+    }
+  ],
+  "total_cost": 763.4,
+  "partner_id": "PA4",
+  "shipping_id": "AD21",
+  "supplier_id": "W2",
+  "order_status": 5
+},{
+  "_id": "20221024090553C17",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666602300000"
+    }
+  },
+  "customer_id": "C17",
+  "order_details": [
+    {
+      "product_id": "FP3",
+      "quantity": 3,
+      "cost": 2
+    }
+  ],
+  "total_cost": 6,
+  "partner_id": "PA1",
+  "shipping_id": "AD18",
+  "supplier_id": "ST2",
+  "order_status": 5
+},{
+  "_id": "20221024171318C4",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666631580000"
+    }
+  },
+  "customer_id": "C4",
+  "order_details": [
+    {
+      "product_id": "B2",
+      "quantity": 4,
+      "cost": 9.99
+    }
+  ],
+  "total_cost": 39.96,
+  "partner_id": "PA2",
+  "shipping_id": "AD4",
+  "supplier_id": "W2",
+  "order_status": 5
+},{
+  "_id": "20221024182331C19",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666635780000"
+    }
+  },
+  "customer_id": "C19",
+  "order_details": [
+    {
+      "product_id": "B2",
+      "quantity": 3,
+      "cost": 9.99
+    }
+  ],
+  "total_cost": 29.97,
+  "partner_id": "PA4",
+  "shipping_id": "AD20",
+  "supplier_id": "W3",
+  "order_status": 5
+},{
+  "_id": "20221025001948C16",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666657140000"
+    }
+  },
+  "customer_id": "C16",
+  "order_details": [
+    {
+      "product_id": "CD8",
+      "quantity": 3,
+      "cost": 20.65
+    }
+  ],
+  "total_cost": 61.95,
+  "partner_id": "PA3",
+  "shipping_id": "AD17",
+  "supplier_id": "W1",
+  "order_status": 5
+},{
+  "_id": "20221025033956C7",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666669140000"
+    }
+  },
+  "customer_id": "C7",
+  "order_details": [
+    {
+      "product_id": "PH8",
+      "quantity": 5,
+      "cost": 500
+    }
+  ],
+  "total_cost": 2500,
+  "partner_id": "PA3",
+  "shipping_id": "AD7",
+  "supplier_id": "W2",
+  "order_status": 5
+},{
+  "_id": "20221025103629C6",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666694160000"
+    }
+  },
+  "customer_id": "C6",
+  "order_details": [
+    {
+      "product_id": "B4",
+      "quantity": 5,
+      "cost": 14
+    }
+  ],
+  "total_cost": 70,
+  "partner_id": "PA4",
+  "shipping_id": "AD6",
+  "supplier_id": "W1",
+  "order_status": 5
+},{
+  "_id": "20221025131315C4",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666703580000"
+    }
+  },
+  "customer_id": "C4",
+  "order_details": [
+    {
+      "product_id": "B9",
+      "quantity": 3,
+      "cost": 9.99
+    }
+  ],
+  "total_cost": 29.97,
+  "partner_id": "PA3",
+  "shipping_id": "AD4",
+  "supplier_id": "W1",
+  "order_status": 5
+},{
+  "_id": "20221025131537C2",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666703700000"
+    }
+  },
+  "customer_id": "C2",
+  "order_details": [
+    {
+      "product_id": "B3",
+      "quantity": 2,
+      "cost": 8
+    }
+  ],
+  "total_cost": 16,
+  "partner_id": "PA3",
+  "shipping_id": "AD2",
+  "supplier_id": "W3",
+  "order_status": 5
+},{
+  "_id": "20221025132349C13",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666704180000"
+    }
+  },
+  "customer_id": "C13",
+  "order_details": [
+    {
+      "product_id": "B9",
+      "quantity": 2,
+      "cost": 9.99
+    }
+  ],
+  "total_cost": 19.98,
+  "partner_id": "PA5",
+  "shipping_id": "AD13",
+  "supplier_id": "W2",
+  "order_status": 5
+},{
+  "_id": "20221025201619C6",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666728960000"
+    }
+  },
+  "customer_id": "C6",
+  "order_details": [
+    {
+      "product_id": "B5",
+      "quantity": 4,
+      "cost": 13.5
+    }
+  ],
+  "total_cost": 54,
+  "partner_id": "PA3",
+  "shipping_id": "AD6",
+  "supplier_id": "W1",
+  "order_status": 5
+},{
+  "_id": "20221025232946C9",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666740540000"
+    }
+  },
+  "customer_id": "C9",
+  "order_details": [
+    {
+      "product_id": "FP7",
+      "quantity": 2,
+      "cost": 2
+    }
+  ],
+  "total_cost": 4,
+  "partner_id": "PA1",
+  "shipping_id": "AD9",
+  "supplier_id": "ST2",
+  "order_status": 5
+},{
+  "_id": "20221026035755C17",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666756620000"
+    }
+  },
+  "customer_id": "C17",
+  "order_details": [
+    {
+      "product_id": "PH10",
+      "quantity": 3,
+      "cost": 449
+    }
+  ],
+  "total_cost": 1347,
+  "partner_id": "PA1",
+  "shipping_id": "AD18",
+  "supplier_id": "W3",
+  "order_status": 5
+},{
+  "_id": "20221026074627C14",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666770360000"
+    }
+  },
+  "customer_id": "C14",
+  "order_details": [
+    {
+      "product_id": "FP8",
+      "quantity": 2,
+      "cost": 10
+    }
+  ],
+  "total_cost": 20,
+  "partner_id": "PA2",
+  "shipping_id": "AD15",
+  "supplier_id": "ST2",
+  "order_status": 5
+},{
+  "_id": "20221026171905C12",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666804740000"
+    }
+  },
+  "customer_id": "C12",
+  "order_details": [
+    {
+      "product_id": "FP9",
+      "quantity": 2,
+      "cost": 2
+    }
+  ],
+  "total_cost": 4,
+  "partner_id": "PA4",
+  "shipping_id": "AD12",
+  "supplier_id": "ST5",
+  "order_status": 5
+},{
+  "_id": "20221026172559C11",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666805100000"
+    }
+  },
+  "customer_id": "C11",
+  "order_details": [
+    {
+      "product_id": "PH8",
+      "quantity": 4,
+      "cost": 500
+    }
+  ],
+  "total_cost": 2000,
+  "partner_id": "PA1",
+  "shipping_id": "AD11",
+  "supplier_id": "W2",
+  "order_status": 5
+},{
+  "_id": "20221026224655C17",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666824360000"
+    }
+  },
+  "customer_id": "C17",
+  "order_details": [
+    {
+      "product_id": "HA10",
+      "quantity": 1,
+      "cost": 37.04
+    }
+  ],
+  "total_cost": 37.04,
+  "partner_id": "PA5",
+  "shipping_id": "AD18",
+  "supplier_id": "W3",
+  "order_status": 5
+},{
+  "_id": "20221027070944C12",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666854540000"
+    }
+  },
+  "customer_id": "C12",
+  "order_details": [
+    {
+      "product_id": "PH3",
+      "quantity": 3,
+      "cost": 179.99
+    }
+  ],
+  "total_cost": 539.97,
+  "partner_id": "PA4",
+  "shipping_id": "AD12",
+  "supplier_id": "W1",
+  "order_status": 5
+},{
+  "_id": "20221027120833C20",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666872480000"
+    }
+  },
+  "customer_id": "C20",
+  "order_details": [
+    {
+      "product_id": "B4",
+      "quantity": 2,
+      "cost": 14
+    }
+  ],
+  "total_cost": 28,
+  "partner_id": "PA1",
+  "shipping_id": "AD22",
+  "supplier_id": "W2",
+  "order_status": 5
+},{
+  "_id": "20221027123452C5",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666874040000"
+    }
+  },
+  "customer_id": "C5",
+  "order_details": [
+    {
+      "product_id": "CD8",
+      "quantity": 1,
+      "cost": 20.65
+    }
+  ],
+  "total_cost": 20.65,
+  "partner_id": "PA2",
+  "shipping_id": "AD5",
+  "supplier_id": "W1",
+  "order_status": 5
+},{
+  "_id": "20221027162456C17",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1666887840000"
+    }
+  },
+  "customer_id": "C17",
+  "order_details": [
+    {
+      "product_id": "CD4",
+      "quantity": 4,
+      "cost": 16.58
+    }
+  ],
+  "total_cost": 66.32,
+  "partner_id": "PA4",
+  "shipping_id": "AD18",
+  "supplier_id": "W3",
+  "order_status": 5
+},{
+  "_id": "20221029041410C19",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667016840000"
+    }
+  },
+  "customer_id": "C19",
+  "order_details": [
+    {
+      "product_id": "FP11",
+      "quantity": 2,
+      "cost": 4
+    }
+  ],
+  "total_cost": 8,
+  "partner_id": "PA3",
+  "shipping_id": "AD20",
+  "supplier_id": "ST5",
+  "order_status": 5
+},{
+  "_id": "20221029101956C15",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667038740000"
+    }
+  },
+  "customer_id": "C15",
+  "order_details": [
+    {
+      "product_id": "PH10",
+      "quantity": 1,
+      "cost": 449
+    }
+  ],
+  "total_cost": 449,
+  "partner_id": "PA3",
+  "shipping_id": "AD16",
+  "supplier_id": "W2",
+  "order_status": 5
+},{
+  "_id": "20221029171136C12",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667063460000"
+    }
+  },
+  "customer_id": "C12",
+  "order_details": [
+    {
+      "product_id": "PH1",
+      "quantity": 4,
+      "cost": 169
+    }
+  ],
+  "total_cost": 676,
+  "partner_id": "PA4",
+  "shipping_id": "AD12",
+  "supplier_id": "W2",
+  "order_status": 5
+},{
+  "_id": "20221029211331C1",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667077980000"
+    }
+  },
+  "customer_id": "C1",
+  "order_details": [
+    {
+      "product_id": "PH4",
+      "quantity": 3,
+      "cost": 100
+    }
+  ],
+  "total_cost": 300,
+  "partner_id": "PA3",
+  "shipping_id": "AD1",
+  "supplier_id": "W3",
+  "order_status": 5
+},{
+  "_id": "20221029220352C3",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667080980000"
+    }
+  },
+  "customer_id": "C3",
+  "order_details": [
+    {
+      "product_id": "B7",
+      "quantity": 3,
+      "cost": 16.99
+    }
+  ],
+  "total_cost": 50.97,
+  "partner_id": "PA3",
+  "shipping_id": "AD3",
+  "supplier_id": "W3",
+  "order_status": 5
+},{
+  "_id": "20221030004810C3",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667090880000"
+    }
+  },
+  "customer_id": "C3",
+  "order_details": [
+    {
+      "product_id": "PH1",
+      "quantity": 3,
+      "cost": 169
+    }
+  ],
+  "total_cost": 507,
+  "partner_id": "PA5",
+  "shipping_id": "AD3",
+  "supplier_id": "W2",
+  "order_status": 5
+},{
+  "_id": "20221030010453C3",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667091840000"
+    }
+  },
+  "customer_id": "C3",
+  "order_details": [
+    {
+      "product_id": "FP4",
+      "quantity": 5,
+      "cost": 6.8
+    }
+  ],
+  "total_cost": 34,
+  "partner_id": "PA3",
+  "shipping_id": "AD3",
+  "supplier_id": "ST3",
+  "order_status": 5
+},{
+  "_id": "20221030023351C10",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667097180000"
+    }
+  },
+  "customer_id": "C10",
+  "order_details": [
+    {
+      "product_id": "CD7",
+      "quantity": 5,
+      "cost": 6.61
+    }
+  ],
+  "total_cost": 33.05,
+  "partner_id": "PA1",
+  "shipping_id": "AD10",
+  "supplier_id": "W3",
+  "order_status": 5
+},{
+  "_id": "20221030024650C2",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667097960000"
+    }
+  },
+  "customer_id": "C2",
+  "order_details": [
+    {
+      "product_id": "FP11",
+      "quantity": 5,
+      "cost": 4
+    }
+  ],
+  "total_cost": 20,
+  "partner_id": "PA1",
+  "shipping_id": "AD2",
+  "supplier_id": "ST2",
+  "order_status": 5
+},{
+  "_id": "20221030101645C15",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667124960000"
+    }
+  },
+  "customer_id": "C15",
+  "order_details": [
+    {
+      "product_id": "HA8",
+      "quantity": 1,
+      "cost": 21.97
+    }
+  ],
+  "total_cost": 21.97,
+  "partner_id": "PA2",
+  "shipping_id": "AD16",
+  "supplier_id": "W2",
+  "order_status": 5
+},{
+  "_id": "20221030130005C19",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667134800000"
+    }
+  },
+  "customer_id": "C19",
+  "order_details": [
+    {
+      "product_id": "FP1",
+      "quantity": 4,
+      "cost": 2
+    }
+  ],
+  "total_cost": 8,
+  "partner_id": "PA4",
+  "shipping_id": "AD20",
+  "supplier_id": "ST2",
+  "order_status": 5
+},{
+  "_id": "20221030144555C15",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667141100000"
+    }
+  },
+  "customer_id": "C15",
+  "order_details": [
+    {
+      "product_id": "FP8",
+      "quantity": 2,
+      "cost": 10
+    }
+  ],
+  "total_cost": 20,
+  "partner_id": "PA1",
+  "shipping_id": "AD16",
+  "supplier_id": "ST4",
+  "order_status": 5
+},{
+  "_id": "20221030182735C15",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667154420000"
+    }
+  },
+  "customer_id": "C15",
+  "order_details": [
+    {
+      "product_id": "B4",
+      "quantity": 3,
+      "cost": 14
+    }
+  ],
+  "total_cost": 42,
+  "partner_id": "PA5",
+  "shipping_id": "AD16",
+  "supplier_id": "W3",
+  "order_status": 5
+},{
+  "_id": "20221031202417C20",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667247840000"
+    }
+  },
+  "customer_id": "C20",
+  "order_details": [
+    {
+      "product_id": "FP7",
+      "quantity": 4,
+      "cost": 2
+    }
+  ],
+  "total_cost": 8,
+  "partner_id": "PA4",
+  "shipping_id": "AD22",
+  "supplier_id": "ST5",
+  "order_status": 5
+},{
+  "_id": "20221031211614C17",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667250960000"
+    }
+  },
+  "customer_id": "C17",
+  "order_details": [
+    {
+      "product_id": "B1",
+      "quantity": 2,
+      "cost": 12.99
+    }
+  ],
+  "total_cost": 25.98,
+  "partner_id": "PA1",
+  "shipping_id": "AD18",
+  "supplier_id": "W3",
+  "order_status": 5
+},{
+  "_id": "20221031221035C14",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667254200000"
+    }
+  },
+  "customer_id": "C14",
+  "order_details": [
+    {
+      "product_id": "B9",
+      "quantity": 1,
+      "cost": 9.99
+    }
+  ],
+  "total_cost": 9.99,
+  "partner_id": "PA2",
+  "shipping_id": "AD15",
+  "supplier_id": "W3",
+  "order_status": 5
+},{
+  "_id": "20221101162014C14",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667319600000"
+    }
+  },
+  "customer_id": "C14",
+  "order_details": [
+    {
+      "product_id": "PH9",
+      "quantity": 1,
+      "cost": 849
+    }
+  ],
+  "total_cost": 849,
+  "partner_id": "PA4",
+  "shipping_id": "AD15",
+  "supplier_id": "W1",
+  "order_status": 5
+},{
+  "_id": "20221101180049C18",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667325600000"
+    }
+  },
+  "customer_id": "C18",
+  "order_details": [
+    {
+      "product_id": "FP3",
+      "quantity": 2,
+      "cost": 2
+    }
+  ],
+  "total_cost": 4,
+  "partner_id": "PA3",
+  "shipping_id": "AD19",
+  "supplier_id": "ST3",
+  "order_status": 5
+},{
+  "_id": "20221101212059C18",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667337600000"
+    }
+  },
+  "customer_id": "C18",
+  "order_details": [
+    {
+      "product_id": "FP7",
+      "quantity": 1,
+      "cost": 2
+    }
+  ],
+  "total_cost": 2,
+  "partner_id": "PA3",
+  "shipping_id": "AD19",
+  "supplier_id": "ST5",
+  "order_status": 5
+},{
+  "_id": "20221101230434C20",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667343840000"
+    }
+  },
+  "customer_id": "C20",
+  "order_details": [
+    {
+      "product_id": "FP15",
+      "quantity": 3,
+      "cost": 2.8
+    }
+  ],
+  "total_cost": 8.4,
+  "partner_id": "PA4",
+  "shipping_id": "AD22",
+  "supplier_id": "ST4",
+  "order_status": 5
+},{
+  "_id": "20221102032613C5",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667359560000"
+    }
+  },
+  "customer_id": "C5",
+  "order_details": [
+    {
+      "product_id": "PH4",
+      "quantity": 1,
+      "cost": 100
+    }
+  ],
+  "total_cost": 100,
+  "partner_id": "PA3",
+  "shipping_id": "AD5",
+  "supplier_id": "W3",
+  "order_status": 5
+},{
+  "_id": "20221102124439C10",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667393040000"
+    }
+  },
+  "customer_id": "C10",
+  "order_details": [
+    {
+      "product_id": "HA7",
+      "quantity": 4,
+      "cost": 329.39
+    }
+  ],
+  "total_cost": 1317.56,
+  "partner_id": "PA3",
+  "shipping_id": "AD10",
+  "supplier_id": "W2",
+  "order_status": 5
+},{
+  "_id": "20221102191245C18",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667416320000"
+    }
+  },
+  "customer_id": "C18",
+  "order_details": [
+    {
+      "product_id": "FP10",
+      "quantity": 4,
+      "cost": 2
+    }
+  ],
+  "total_cost": 8,
+  "partner_id": "PA5",
+  "shipping_id": "AD19",
+  "supplier_id": "ST3",
+  "order_status": 5
+},{
+  "_id": "20221103155112C3",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667490660000"
+    }
+  },
+  "customer_id": "C3",
+  "order_details": [
+    {
+      "product_id": "FP8",
+      "quantity": 4,
+      "cost": 10
+    }
+  ],
+  "total_cost": 40,
+  "partner_id": "PA3",
+  "shipping_id": "AD3",
+  "supplier_id": "ST3",
+  "order_status": 5
+},{
+  "_id": "20221103200925C12",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667506140000"
+    }
+  },
+  "customer_id": "C12",
+  "order_details": [
+    {
+      "product_id": "FP4",
+      "quantity": 4,
+      "cost": 6.8
+    }
+  ],
+  "total_cost": 27.2,
+  "partner_id": "PA1",
+  "shipping_id": "AD12",
+  "supplier_id": "ST5",
+  "order_status": 5
+},{
+  "_id": "20221103221132C14",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667513460000"
+    }
+  },
+  "customer_id": "C14",
+  "order_details": [
+    {
+      "product_id": "CD10",
+      "quantity": 5,
+      "cost": 8.28
+    }
+  ],
+  "total_cost": 41.4,
+  "partner_id": "PA1",
+  "shipping_id": "AD15",
+  "supplier_id": "W1",
+  "order_status": 5
+},{
+  "_id": "20221103234001C20",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667518800000"
+    }
+  },
+  "customer_id": "C20",
+  "order_details": [
+    {
+      "product_id": "HA4",
+      "quantity": 3,
+      "cost": 16.59
+    }
+  ],
+  "total_cost": 49.77,
+  "partner_id": "PA2",
+  "shipping_id": "AD22",
+  "supplier_id": "W3",
+  "order_status": 5
+},{
+  "_id": "20221104070635C10",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667545560000"
+    }
+  },
+  "customer_id": "C10",
+  "order_details": [
+    {
+      "product_id": "FP5",
+      "quantity": 2,
+      "cost": 2
+    }
+  ],
+  "total_cost": 4,
+  "partner_id": "PA4",
+  "shipping_id": "AD10",
+  "supplier_id": "ST4",
+  "order_status": 5
+},{
+  "_id": "20221104093944C13",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667554740000"
+    }
+  },
+  "customer_id": "C13",
+  "order_details": [
+    {
+      "product_id": "FP10",
+      "quantity": 4,
+      "cost": 2
+    }
+  ],
+  "total_cost": 8,
+  "partner_id": "PA1",
+  "shipping_id": "AD13",
+  "supplier_id": "ST3",
+  "order_status": 5
+},{
+  "_id": "20221105033217C4",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667619120000"
+    }
+  },
+  "customer_id": "C4",
+  "order_details": [
+    {
+      "product_id": "FP15",
+      "quantity": 2,
+      "cost": 2.8
+    }
+  ],
+  "total_cost": 5.6,
+  "partner_id": "PA5",
+  "shipping_id": "AD4",
+  "supplier_id": "ST2",
+  "order_status": 5
+},{
+  "_id": "20221105035332C16",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667620380000"
+    }
+  },
+  "customer_id": "C16",
+  "order_details": [
+    {
+      "product_id": "B8",
+      "quantity": 3,
+      "cost": 10.99
+    }
+  ],
+  "total_cost": 32.97,
+  "partner_id": "PA4",
+  "shipping_id": "AD17",
+  "supplier_id": "W3",
+  "order_status": 5
+},{
+  "_id": "20221105035806C4",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667620680000"
+    }
+  },
+  "customer_id": "C4",
+  "order_details": [
+    {
+      "product_id": "HA1",
+      "quantity": 2,
+      "cost": 58.99
+    }
+  ],
+  "total_cost": 117.98,
+  "partner_id": "PA1",
+  "shipping_id": "AD4",
+  "supplier_id": "W3",
+  "order_status": 5
+},{
+  "_id": "20221105110127C7",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667646060000"
+    }
+  },
+  "customer_id": "C7",
+  "order_details": [
+    {
+      "product_id": "CD10",
+      "quantity": 4,
+      "cost": 8.28
+    }
+  ],
+  "total_cost": 33.12,
+  "partner_id": "PA2",
+  "shipping_id": "AD7",
+  "supplier_id": "W3",
+  "order_status": 5
+},{
+  "_id": "20221105145821C8",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667660280000"
+    }
+  },
+  "customer_id": "C8",
+  "order_details": [
+    {
+      "product_id": "B1",
+      "quantity": 1,
+      "cost": 12.99
+    }
+  ],
+  "total_cost": 12.99,
+  "partner_id": "PA4",
+  "shipping_id": "AD8",
+  "supplier_id": "W3",
+  "order_status": 5
+},{
+  "_id": "20221105184303C3",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667673780000"
+    }
+  },
+  "customer_id": "C3",
+  "order_details": [
+    {
+      "product_id": "PH1",
+      "quantity": 1,
+      "cost": 169
+    }
+  ],
+  "total_cost": 169,
+  "partner_id": "PA3",
+  "shipping_id": "AD3",
+  "supplier_id": "W2",
+  "order_status": 5
+},{
+  "_id": "20221105232657C13",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667690760000"
+    }
+  },
+  "customer_id": "C13",
+  "order_details": [
+    {
+      "product_id": "FP6",
+      "quantity": 3,
+      "cost": 3.2
+    }
+  ],
+  "total_cost": 9.6,
+  "partner_id": "PA3",
+  "shipping_id": "AD13",
+  "supplier_id": "ST4",
+  "order_status": 5
+},{
+  "_id": "20221106085238C12",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667724720000"
+    }
+  },
+  "customer_id": "C12",
+  "order_details": [
+    {
+      "product_id": "HA7",
+      "quantity": 2,
+      "cost": 329.39
+    }
+  ],
+  "total_cost": 658.78,
+  "partner_id": "PA4",
+  "shipping_id": "AD12",
+  "supplier_id": "W3",
+  "order_status": 5
+},{
+  "_id": "20221106094712C8",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667728020000"
+    }
+  },
+  "customer_id": "C8",
+  "order_details": [
+    {
+      "product_id": "B6",
+      "quantity": 4,
+      "cost": 13.99
+    }
+  ],
+  "total_cost": 55.96,
+  "partner_id": "PA3",
+  "shipping_id": "AD8",
+  "supplier_id": "W1",
+  "order_status": 5
+},{
+  "_id": "20221106132848C16",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667741280000"
+    }
+  },
+  "customer_id": "C16",
+  "order_details": [
+    {
+      "product_id": "PH2",
+      "quantity": 5,
+      "cost": 200
+    }
+  ],
+  "total_cost": 1000,
+  "partner_id": "PA3",
+  "shipping_id": "AD17",
+  "supplier_id": "W1",
+  "order_status": 5
+},{
+  "_id": "20221106134901C7",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667742540000"
+    }
+  },
+  "customer_id": "C7",
+  "order_details": [
+    {
+      "product_id": "HA2",
+      "quantity": 2,
+      "cost": 190.85
+    }
+  ],
+  "total_cost": 381.7,
+  "partner_id": "PA5",
+  "shipping_id": "AD7",
+  "supplier_id": "W3",
+  "order_status": 5
+},{
+  "_id": "20221106165409C2",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667753640000"
+    }
+  },
+  "customer_id": "C2",
+  "order_details": [
+    {
+      "product_id": "FP6",
+      "quantity": 3,
+      "cost": 3.2
+    }
+  ],
+  "total_cost": 9.6,
+  "partner_id": "PA3",
+  "shipping_id": "AD2",
+  "supplier_id": "ST5",
+  "order_status": 5
+},{
+  "_id": "20221107002306C6",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667780580000"
+    }
+  },
+  "customer_id": "C6",
+  "order_details": [
+    {
+      "product_id": "PH9",
+      "quantity": 5,
+      "cost": 849
+    }
+  ],
+  "total_cost": 4245,
+  "partner_id": "PA1",
+  "shipping_id": "AD6",
+  "supplier_id": "W1",
+  "order_status": 5
+},{
+  "_id": "20221107012415C2",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667784240000"
+    }
+  },
+  "customer_id": "C2",
+  "order_details": [
+    {
+      "product_id": "CD3",
+      "quantity": 1,
+      "cost": 9.12
+    }
+  ],
+  "total_cost": 9.12,
+  "partner_id": "PA1",
+  "shipping_id": "AD2",
+  "supplier_id": "W2",
+  "order_status": 5
+},{
+  "_id": "20221107023245C8",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667788320000"
+    }
+  },
+  "customer_id": "C8",
+  "order_details": [
+    {
+      "product_id": "HA3",
+      "quantity": 5,
+      "cost": 20.74
+    }
+  ],
+  "total_cost": 103.7,
+  "partner_id": "PA2",
+  "shipping_id": "AD8",
+  "supplier_id": "W1",
+  "order_status": 5
+},{
+  "_id": "20221107054126C7",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667799660000"
+    }
+  },
+  "customer_id": "C7",
+  "order_details": [
+    {
+      "product_id": "B1",
+      "quantity": 2,
+      "cost": 12.99
+    }
+  ],
+  "total_cost": 25.98,
+  "partner_id": "PA4",
+  "shipping_id": "AD7",
+  "supplier_id": "W2",
+  "order_status": 5
+},{
+  "_id": "20221107153807C8",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667835480000"
+    }
+  },
+  "customer_id": "C8",
+  "order_details": [
+    {
+      "product_id": "HA2",
+      "quantity": 5,
+      "cost": 190.85
+    }
+  ],
+  "total_cost": 954.25,
+  "partner_id": "PA1",
+  "shipping_id": "AD8",
+  "supplier_id": "W1",
+  "order_status": 5
+},{
+  "_id": "20221108024710C10",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667875620000"
+    }
+  },
+  "customer_id": "C10",
+  "order_details": [
+    {
+      "product_id": "PH2",
+      "quantity": 3,
+      "cost": 200
+    }
+  ],
+  "total_cost": 600,
+  "partner_id": "PA5",
+  "shipping_id": "AD10",
+  "supplier_id": "W1",
+  "order_status": 5
+},{
+  "_id": "20221108184829C20",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667933280000"
+    }
+  },
+  "customer_id": "C20",
+  "order_details": [
+    {
+      "product_id": "FP12",
+      "quantity": 2,
+      "cost": 5
+    }
+  ],
+  "total_cost": 10,
+  "partner_id": "PA4",
+  "shipping_id": "AD22",
+  "supplier_id": "ST5",
+  "order_status": 5
+},{
+  "_id": "20221108213355C11",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667943180000"
+    }
+  },
+  "customer_id": "C11",
+  "order_details": [
+    {
+      "product_id": "CD5",
+      "quantity": 5,
+      "cost": 7.46
+    }
+  ],
+  "total_cost": 37.3,
+  "partner_id": "PA1",
+  "shipping_id": "AD11",
+  "supplier_id": "W2",
+  "order_status": 5
+},{
+  "_id": "20221109105631C10",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1667991360000"
+    }
+  },
+  "customer_id": "C10",
+  "order_details": [
+    {
+      "product_id": "FP12",
+      "quantity": 2,
+      "cost": 5
+    }
+  ],
+  "total_cost": 10,
+  "partner_id": "PA2",
+  "shipping_id": "AD10",
+  "supplier_id": "ST5",
+  "order_status": 5
+},{
+  "_id": "20221109161618C11",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668010560000"
+    }
+  },
+  "customer_id": "C11",
+  "order_details": [
+    {
+      "product_id": "PH7",
+      "quantity": 2,
+      "cost": 599
+    }
+  ],
+  "total_cost": 1198,
+  "partner_id": "PA4",
+  "shipping_id": "AD11",
+  "supplier_id": "W2",
+  "order_status": 5
+},{
+  "_id": "20221109170256C4",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668013320000"
+    }
+  },
+  "customer_id": "C4",
+  "order_details": [
+    {
+      "product_id": "HA8",
+      "quantity": 3,
+      "cost": 21.97
+    }
+  ],
+  "total_cost": 65.91,
+  "partner_id": "PA3",
+  "shipping_id": "AD4",
+  "supplier_id": "W1",
+  "order_status": 5
+},{
+  "_id": "20221109205928C13",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668027540000"
+    }
+  },
+  "customer_id": "C13",
+  "order_details": [
+    {
+      "product_id": "CD7",
+      "quantity": 4,
+      "cost": 6.61
+    }
+  ],
+  "total_cost": 26.44,
+  "partner_id": "PA3",
+  "shipping_id": "AD13",
+  "supplier_id": "W1",
+  "order_status": 5
+},{
+  "_id": "20221109230823C5",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668035280000"
+    }
+  },
+  "customer_id": "C5",
+  "order_details": [
+    {
+      "product_id": "B2",
+      "quantity": 2,
+      "cost": 9.99
+    }
+  ],
+  "total_cost": 19.98,
+  "partner_id": "PA4",
+  "shipping_id": "AD5",
+  "supplier_id": "W2",
+  "order_status": 5
+},{
+  "_id": "20221110053105C8",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668058260000"
+    }
+  },
+  "customer_id": "C8",
+  "order_details": [
+    {
+      "product_id": "FP8",
+      "quantity": 2,
+      "cost": 10
+    }
+  ],
+  "total_cost": 20,
+  "partner_id": "PA3",
+  "shipping_id": "AD8",
+  "supplier_id": "ST1",
+  "order_status": 5
+},{
+  "_id": "20221110054509C13",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668059100000"
+    }
+  },
+  "customer_id": "C13",
+  "order_details": [
+    {
+      "product_id": "FP7",
+      "quantity": 2,
+      "cost": 2
+    }
+  ],
+  "total_cost": 4,
+  "partner_id": "PA3",
+  "shipping_id": "AD13",
+  "supplier_id": "ST5",
+  "order_status": 5
+},{
+  "_id": "20221110142004C9",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668090000000"
+    }
+  },
+  "customer_id": "C9",
+  "order_details": [
+    {
+      "product_id": "B8",
+      "quantity": 5,
+      "cost": 10.99
+    }
+  ],
+  "total_cost": 54.95,
+  "partner_id": "PA5",
+  "shipping_id": "AD9",
+  "supplier_id": "W2",
+  "order_status": 5
+},{
+  "_id": "20221110191445C1",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668107640000"
+    }
+  },
+  "customer_id": "C1",
+  "order_details": [
+    {
+      "product_id": "CD7",
+      "quantity": 1,
+      "cost": 6.61
+    }
+  ],
+  "total_cost": 6.61,
+  "partner_id": "PA3",
+  "shipping_id": "AD1",
+  "supplier_id": "W3",
+  "order_status": 5
+},{
+  "_id": "20221110194202C5",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668109320000"
+    }
+  },
+  "customer_id": "C5",
+  "order_details": [
+    {
+      "product_id": "PH3",
+      "quantity": 5,
+      "cost": 179.99
+    }
+  ],
+  "total_cost": 899.95,
+  "partner_id": "PA1",
+  "shipping_id": "AD5",
+  "supplier_id": "W2",
+  "order_status": 5
+},{
+  "_id": "20221111193731C2",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668195420000"
+    }
+  },
+  "customer_id": "C2",
+  "order_details": [
+    {
+      "product_id": "B6",
+      "quantity": 1,
+      "cost": 13.99
+    }
+  ],
+  "total_cost": 13.99,
+  "partner_id": "PA1",
+  "shipping_id": "AD2",
+  "supplier_id": "W1",
+  "order_status": 5
+},{
+  "_id": "20221112054253C16",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668231720000"
+    }
+  },
+  "customer_id": "C16",
+  "order_details": [
+    {
+      "product_id": "B9",
+      "quantity": 5,
+      "cost": 9.99
+    }
+  ],
+  "total_cost": 49.95,
+  "partner_id": "PA2",
+  "shipping_id": "AD17",
+  "supplier_id": "W3",
+  "order_status": 5
+},{
+  "_id": "20221112101310C9",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668247980000"
+    }
+  },
+  "customer_id": "C9",
+  "order_details": [
+    {
+      "product_id": "FP11",
+      "quantity": 3,
+      "cost": 4
+    }
+  ],
+  "total_cost": 12,
+  "partner_id": "PA4",
+  "shipping_id": "AD9",
+  "supplier_id": "ST4",
+  "order_status": 5
+},{
+  "_id": "20221112113434C1",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668252840000"
+    }
+  },
+  "customer_id": "C1",
+  "order_details": [
+    {
+      "product_id": "CD1",
+      "quantity": 4,
+      "cost": 14.87
+    }
+  ],
+  "total_cost": 59.48,
+  "partner_id": "PA1",
+  "shipping_id": "AD1",
+  "supplier_id": "W1",
+  "order_status": 5
+},{
+  "_id": "20221112124224C16",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668256920000"
+    }
+  },
+  "customer_id": "C16",
+  "order_details": [
+    {
+      "product_id": "HA10",
+      "quantity": 4,
+      "cost": 37.04
+    }
+  ],
+  "total_cost": 148.16,
+  "partner_id": "PA5",
+  "shipping_id": "AD17",
+  "supplier_id": "W1",
+  "order_status": 5
+},{
+  "_id": "20221112145355C18",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668264780000"
+    }
+  },
+  "customer_id": "C18",
+  "order_details": [
+    {
+      "product_id": "CD4",
+      "quantity": 2,
+      "cost": 16.58
+    }
+  ],
+  "total_cost": 33.16,
+  "partner_id": "PA4",
+  "shipping_id": "AD19",
+  "supplier_id": "W2",
+  "order_status": 5
+},{
+  "_id": "20221112164917C11",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668271740000"
+    }
+  },
+  "customer_id": "C11",
+  "order_details": [
+    {
+      "product_id": "PH5",
+      "quantity": 2,
+      "cost": 849
+    }
+  ],
+  "total_cost": 1698,
+  "partner_id": "PA1",
+  "shipping_id": "AD11",
+  "supplier_id": "W3",
+  "order_status": 5
+},{
+  "_id": "20221112230710C6",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668294420000"
+    }
+  },
+  "customer_id": "C6",
+  "order_details": [
+    {
+      "product_id": "PH6",
+      "quantity": 2,
+      "cost": 769
+    }
+  ],
+  "total_cost": 1538,
+  "partner_id": "PA2",
+  "shipping_id": "AD6",
+  "supplier_id": "W2",
+  "order_status": 5
+},{
+  "_id": "20221112234251C1",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668296520000"
+    }
+  },
+  "customer_id": "C1",
+  "order_details": [
+    {
+      "product_id": "FP13",
+      "quantity": 2,
+      "cost": 3
+    }
+  ],
+  "total_cost": 6,
+  "partner_id": "PA4",
+  "shipping_id": "AD1",
+  "supplier_id": "ST5",
+  "order_status": 5
+},{
+  "_id": "20221113024754C14",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668307620000"
+    }
+  },
+  "customer_id": "C14",
+  "order_details": [
+    {
+      "product_id": "B6",
+      "quantity": 5,
+      "cost": 13.99
+    }
+  ],
+  "total_cost": 69.95,
+  "partner_id": "PA3",
+  "shipping_id": "AD15",
+  "supplier_id": "W3",
+  "order_status": 5
+},{
+  "_id": "20221113031639C7",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668309360000"
+    }
+  },
+  "customer_id": "C7",
+  "order_details": [
+    {
+      "product_id": "HA4",
+      "quantity": 1,
+      "cost": 16.59
+    }
+  ],
+  "total_cost": 16.59,
+  "partner_id": "PA3",
+  "shipping_id": "AD7",
+  "supplier_id": "W1",
+  "order_status": 5
+},{
+  "_id": "20221113052143C9",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668316860000"
+    }
+  },
+  "customer_id": "C9",
+  "order_details": [
+    {
+      "product_id": "CD5",
+      "quantity": 2,
+      "cost": 7.46
+    }
+  ],
+  "total_cost": 14.92,
+  "partner_id": "PA4",
+  "shipping_id": "AD9",
+  "supplier_id": "W1",
+  "order_status": 5
+},{
+  "_id": "20221113063430C19",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668321240000"
+    }
+  },
+  "customer_id": "C19",
+  "order_details": [
+    {
+      "product_id": "PH5",
+      "quantity": 4,
+      "cost": 849
+    }
+  ],
+  "total_cost": 3396,
+  "partner_id": "PA3",
+  "shipping_id": "AD20",
+  "supplier_id": "W3",
+  "order_status": 5
+},{
+  "_id": "20221113073437C5",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668324840000"
+    }
+  },
+  "customer_id": "C5",
+  "order_details": [
+    {
+      "product_id": "CD3",
+      "quantity": 3,
+      "cost": 9.12
+    }
+  ],
+  "total_cost": 27.36,
+  "partner_id": "PA3",
+  "shipping_id": "AD5",
+  "supplier_id": "W2",
+  "order_status": 5
+},{
+  "_id": "20221113083630C18",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668328560000"
+    }
+  },
+  "customer_id": "C18",
+  "order_details": [
+    {
+      "product_id": "FP2",
+      "quantity": 2,
+      "cost": 2.7
+    }
+  ],
+  "total_cost": 5.4,
+  "partner_id": "PA5",
+  "shipping_id": "AD19",
+  "supplier_id": "ST5",
+  "order_status": 5
+},{
+  "_id": "20221113204527C11",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668372300000"
+    }
+  },
+  "customer_id": "C11",
+  "order_details": [
+    {
+      "product_id": "PH2",
+      "quantity": 5,
+      "cost": 200
+    }
+  ],
+  "total_cost": 1000,
+  "partner_id": "PA3",
+  "shipping_id": "AD11",
+  "supplier_id": "W3",
+  "order_status": 5
+},{
+  "_id": "20221114045743C1",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668401820000"
+    }
+  },
+  "customer_id": "C1",
+  "order_details": [
+    {
+      "product_id": "FP13",
+      "quantity": 4,
+      "cost": 3
+    }
+  ],
+  "total_cost": 12,
+  "partner_id": "PA1",
+  "shipping_id": "AD1",
+  "supplier_id": "ST2",
+  "order_status": 5
+},{
+  "_id": "20221114053853C15",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668404280000"
+    }
+  },
+  "customer_id": "C15",
+  "order_details": [
+    {
+      "product_id": "B3",
+      "quantity": 1,
+      "cost": 8
+    }
+  ],
+  "total_cost": 8,
+  "partner_id": "PA1",
+  "shipping_id": "AD16",
+  "supplier_id": "W3",
+  "order_status": 5
+},{
+  "_id": "20221114085119C6",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668415860000"
+    }
+  },
+  "customer_id": "C6",
+  "order_details": [
+    {
+      "product_id": "HA5",
+      "quantity": 1,
+      "cost": 29.01
+    }
+  ],
+  "total_cost": 29.01,
+  "partner_id": "PA2",
+  "shipping_id": "AD6",
+  "supplier_id": "W3",
+  "order_status": 5
+},{
+  "_id": "20221114102324C9",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668421380000"
+    }
+  },
+  "customer_id": "C9",
+  "order_details": [
+    {
+      "product_id": "PH3",
+      "quantity": 3,
+      "cost": 179.99
+    }
+  ],
+  "total_cost": 539.97,
+  "partner_id": "PA4",
+  "shipping_id": "AD9",
+  "supplier_id": "W2",
+  "order_status": 5
+},{
+  "_id": "20221114180539C19",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668449100000"
+    }
+  },
+  "customer_id": "C19",
+  "order_details": [
+    {
+      "product_id": "PH5",
+      "quantity": 5,
+      "cost": 849
+    }
+  ],
+  "total_cost": 4245,
+  "partner_id": "PA1",
+  "shipping_id": "AD20",
+  "supplier_id": "W1",
+  "order_status": 5
+},{
+  "_id": "20221115133944C17",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668519540000"
+    }
+  },
+  "customer_id": "C17",
+  "order_details": [
+    {
+      "product_id": "FP6",
+      "quantity": 1,
+      "cost": 3.2
+    }
+  ],
+  "total_cost": 3.2,
+  "partner_id": "PA5",
+  "shipping_id": "AD18",
+  "supplier_id": "ST5",
+  "order_status": 5
+},{
+  "_id": "20221115153148C4",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668526260000"
+    }
+  },
+  "customer_id": "C4",
+  "order_details": [
+    {
+      "product_id": "HA2",
+      "quantity": 3,
+      "cost": 190.85
+    }
+  ],
+  "total_cost": 572.55,
+  "partner_id": "PA4",
+  "shipping_id": "AD4",
+  "supplier_id": "W3",
+  "order_status": 5
+},{
+  "_id": "20221115223756C19",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668551820000"
+    }
+  },
+  "customer_id": "C19",
+  "order_details": [
+    {
+      "product_id": "PH2",
+      "quantity": 3,
+      "cost": 200
+    }
+  ],
+  "total_cost": 600,
+  "partner_id": "PA1",
+  "shipping_id": "AD20",
+  "supplier_id": "W1",
+  "order_status": 5
+},{
+  "_id": "20221116071915C16",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668583140000"
+    }
+  },
+  "customer_id": "C16",
+  "order_details": [
+    {
+      "product_id": "PH5",
+      "quantity": 2,
+      "cost": 849
+    }
+  ],
+  "total_cost": 1698,
+  "partner_id": "PA2",
+  "shipping_id": "AD17",
+  "supplier_id": "W2",
+  "order_status": 5
+},{
+  "_id": "20221116074721C7",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668584820000"
+    }
+  },
+  "customer_id": "C7",
+  "order_details": [
+    {
+      "product_id": "B10",
+      "quantity": 5,
+      "cost": 15.75
+    }
+  ],
+  "total_cost": 78.75,
+  "partner_id": "PA4",
+  "shipping_id": "AD7",
+  "supplier_id": "W2",
+  "order_status": 5
+},{
+  "_id": "20221116191948C6",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668626340000"
+    }
+  },
+  "customer_id": "C6",
+  "order_details": [
+    {
+      "product_id": "CD10",
+      "quantity": 5,
+      "cost": 8.28
+    }
+  ],
+  "total_cost": 41.4,
+  "partner_id": "PA3",
+  "shipping_id": "AD6",
+  "supplier_id": "W1",
+  "order_status": 5
+},{
+  "_id": "20221117002013C4",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668644400000"
+    }
+  },
+  "customer_id": "C4",
+  "order_details": [
+    {
+      "product_id": "HA9",
+      "quantity": 2,
+      "cost": 61.75
+    }
+  ],
+  "total_cost": 123.5,
+  "partner_id": "PA3",
+  "shipping_id": "AD4",
+  "supplier_id": "W1",
+  "order_status": 5
+},{
+  "_id": "20221117013359C2",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668648780000"
+    }
+  },
+  "customer_id": "C2",
+  "order_details": [
+    {
+      "product_id": "B3",
+      "quantity": 1,
+      "cost": 8
+    }
+  ],
+  "total_cost": 8,
+  "partner_id": "PA4",
+  "shipping_id": "AD2",
+  "supplier_id": "W3",
+  "order_status": 5
+},{
+  "_id": "20221117041632C13",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668658560000"
+    }
+  },
+  "customer_id": "C13",
+  "order_details": [
+    {
+      "product_id": "B8",
+      "quantity": 2,
+      "cost": 10.99
+    }
+  ],
+  "total_cost": 21.98,
+  "partner_id": "PA3",
+  "shipping_id": "AD13",
+  "supplier_id": "W1",
+  "order_status": 5
+},{
+  "_id": "20221117165336C6",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668703980000"
+    }
+  },
+  "customer_id": "C6",
+  "order_details": [
+    {
+      "product_id": "PH7",
+      "quantity": 1,
+      "cost": 599
+    }
+  ],
+  "total_cost": 599,
+  "partner_id": "PA3",
+  "shipping_id": "AD6",
+  "supplier_id": "W3",
+  "order_status": 5
+},{
+  "_id": "20221117184553C9",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668710700000"
+    }
+  },
+  "customer_id": "C9",
+  "order_details": [
+    {
+      "product_id": "CD9",
+      "quantity": 1,
+      "cost": 18.2
+    }
+  ],
+  "total_cost": 18.2,
+  "partner_id": "PA5",
+  "shipping_id": "AD9",
+  "supplier_id": "W2",
+  "order_status": 5
+},{
+  "_id": "20221118011149C17",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668733860000"
+    }
+  },
+  "customer_id": "C17",
+  "order_details": [
+    {
+      "product_id": "CD5",
+      "quantity": 2,
+      "cost": 7.46
+    }
+  ],
+  "total_cost": 14.92,
+  "partner_id": "PA3",
+  "shipping_id": "AD18",
+  "supplier_id": "W3",
+  "order_status": 5
+},{
+  "_id": "20221118034513C14",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668743100000"
+    }
+  },
+  "customer_id": "C14",
+  "order_details": [
+    {
+      "product_id": "B7",
+      "quantity": 2,
+      "cost": 16.99
+    }
+  ],
+  "total_cost": 33.98,
+  "partner_id": "PA1",
+  "shipping_id": "AD15",
+  "supplier_id": "W3",
+  "order_status": 5
+},{
+  "_id": "20221118082125C12",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668759660000"
+    }
+  },
+  "customer_id": "C12",
+  "order_details": [
+    {
+      "product_id": "B10",
+      "quantity": 2,
+      "cost": 15.75
+    }
+  ],
+  "total_cost": 31.5,
+  "partner_id": "PA1",
+  "shipping_id": "AD12",
+  "supplier_id": "W2",
+  "order_status": 5
+},{
+  "_id": "20221118082720C11",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668760020000"
+    }
+  },
+  "customer_id": "C11",
+  "order_details": [
+    {
+      "product_id": "B2",
+      "quantity": 4,
+      "cost": 9.99
+    }
+  ],
+  "total_cost": 39.96,
+  "partner_id": "PA2",
+  "shipping_id": "AD11",
+  "supplier_id": "W2",
+  "order_status": 5
+},{
+  "_id": "20221118112601C17",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668770760000"
+    }
+  },
+  "customer_id": "C17",
+  "order_details": [
+    {
+      "product_id": "FP10",
+      "quantity": 4,
+      "cost": 2
+    }
+  ],
+  "total_cost": 8,
+  "partner_id": "PA4",
+  "shipping_id": "AD18",
+  "supplier_id": "ST4",
+  "order_status": 5
+},{
+  "_id": "20221119011459C12",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668820440000"
+    }
+  },
+  "customer_id": "C12",
+  "order_details": [
+    {
+      "product_id": "PH8",
+      "quantity": 1,
+      "cost": 500
+    }
+  ],
+  "total_cost": 500,
+  "partner_id": "PA1",
+  "shipping_id": "AD12",
+  "supplier_id": "W3",
+  "order_status": 5
+},{
+  "_id": "20221119031708C20",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668827820000"
+    }
+  },
+  "customer_id": "C20",
+  "order_details": [
+    {
+      "product_id": "FP12",
+      "quantity": 3,
+      "cost": 5
+    }
+  ],
+  "total_cost": 15,
+  "partner_id": "PA5",
+  "shipping_id": "AD22",
+  "supplier_id": "ST1",
+  "order_status": 5
+},{
+  "_id": "20221119065359C5",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668840780000"
+    }
+  },
+  "customer_id": "C5",
+  "order_details": [
+    {
+      "product_id": "FP7",
+      "quantity": 2,
+      "cost": 2
+    }
+  ],
+  "total_cost": 4,
+  "partner_id": "PA4",
+  "shipping_id": "AD5",
+  "supplier_id": "ST4",
+  "order_status": 5
+},{
+  "_id": "20221119162553C17",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668875100000"
+    }
+  },
+  "customer_id": "C17",
+  "order_details": [
+    {
+      "product_id": "CD9",
+      "quantity": 1,
+      "cost": 18.2
+    }
+  ],
+  "total_cost": 18.2,
+  "partner_id": "PA1",
+  "shipping_id": "AD18",
+  "supplier_id": "W2",
+  "order_status": 5
+},{
+  "_id": "20221119170323C19",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668877380000"
+    }
+  },
+  "customer_id": "C19",
+  "order_details": [
+    {
+      "product_id": "PH6",
+      "quantity": 1,
+      "cost": 769
+    }
+  ],
+  "total_cost": 769,
+  "partner_id": "PA2",
+  "shipping_id": "AD20",
+  "supplier_id": "W2",
+  "order_status": 5
+},{
+  "_id": "20221119203740C15",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668890220000"
+    }
+  },
+  "customer_id": "C15",
+  "order_details": [
+    {
+      "product_id": "FP5",
+      "quantity": 1,
+      "cost": 2
+    }
+  ],
+  "total_cost": 2,
+  "partner_id": "PA4",
+  "shipping_id": "AD16",
+  "supplier_id": "ST3",
+  "order_status": 5
+},{
+  "_id": "20221120180121C12",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668967260000"
+    }
+  },
+  "customer_id": "C12",
+  "order_details": [
+    {
+      "product_id": "CD1",
+      "quantity": 5,
+      "cost": 14.87
+    }
+  ],
+  "total_cost": 74.35,
+  "partner_id": "PA3",
+  "shipping_id": "AD12",
+  "supplier_id": "W3",
+  "order_status": 5
+},{
+  "_id": "20221120184518C1",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668969900000"
+    }
+  },
+  "customer_id": "C1",
+  "order_details": [
+    {
+      "product_id": "HA2",
+      "quantity": 5,
+      "cost": 190.85
+    }
+  ],
+  "total_cost": 954.25,
+  "partner_id": "PA3",
+  "shipping_id": "AD1",
+  "supplier_id": "W2",
+  "order_status": 5
+},{
+  "_id": "20221120221413C3",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1668982440000"
+    }
+  },
+  "customer_id": "C3",
+  "order_details": [
+    {
+      "product_id": "PH3",
+      "quantity": 2,
+      "cost": 179.99
+    }
+  ],
+  "total_cost": 359.98,
+  "partner_id": "PA4",
+  "shipping_id": "AD3",
+  "supplier_id": "W1",
+  "order_status": 5
+},{
+  "_id": "20221121064437C3",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669013040000"
+    }
+  },
+  "customer_id": "C3",
+  "order_details": [
+    {
+      "product_id": "HA8",
+      "quantity": 5,
+      "cost": 21.97
+    }
+  ],
+  "total_cost": 109.85,
+  "partner_id": "PA3",
+  "shipping_id": "AD3",
+  "supplier_id": "W2",
+  "order_status": 5
+},{
+  "_id": "20221122060044C3",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669096800000"
+    }
+  },
+  "customer_id": "C3",
+  "order_details": [
+    {
+      "product_id": "PH6",
+      "quantity": 4,
+      "cost": 769
+    }
+  ],
+  "total_cost": 3076,
+  "partner_id": "PA3",
+  "shipping_id": "AD3",
+  "supplier_id": "W2",
+  "order_status": 5
+},{
+  "_id": "20221122094143C10",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669110060000"
+    }
+  },
+  "customer_id": "C10",
+  "order_details": [
+    {
+      "product_id": "FP2",
+      "quantity": 5,
+      "cost": 2.7
+    }
+  ],
+  "total_cost": 13.5,
+  "partner_id": "PA5",
+  "shipping_id": "AD10",
+  "supplier_id": "ST3",
+  "order_status": 5
+},{
+  "_id": "20221122111024C2",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669115400000"
+    }
+  },
+  "customer_id": "C2",
+  "order_details": [
+    {
+      "product_id": "CD3",
+      "quantity": 3,
+      "cost": 9.12
+    }
+  ],
+  "total_cost": 27.36,
+  "partner_id": "PA3",
+  "shipping_id": "AD2",
+  "supplier_id": "W3",
+  "order_status": 5
+},{
+  "_id": "20221122224258C15",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669156920000"
+    }
+  },
+  "customer_id": "C15",
+  "order_details": [
+    {
+      "product_id": "CD2",
+      "quantity": 5,
+      "cost": 11.48
+    }
+  ],
+  "total_cost": 57.4,
+  "partner_id": "PA1",
+  "shipping_id": "AD16",
+  "supplier_id": "W3",
+  "order_status": 5
+},{
+  "_id": "20221123011453C19",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669166040000"
+    }
+  },
+  "customer_id": "C19",
+  "order_details": [
+    {
+      "product_id": "HA6",
+      "quantity": 1,
+      "cost": 124.45
+    }
+  ],
+  "total_cost": 124.45,
+  "partner_id": "PA1",
+  "shipping_id": "AD20",
+  "supplier_id": "W2",
+  "order_status": 5
+},{
+  "_id": "20221123022153C15",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669170060000"
+    }
+  },
+  "customer_id": "C15",
+  "order_details": [
+    {
+      "product_id": "HA1",
+      "quantity": 4,
+      "cost": 58.99
+    }
+  ],
+  "total_cost": 235.96,
+  "partner_id": "PA2",
+  "shipping_id": "AD16",
+  "supplier_id": "W1",
+  "order_status": 5
+},{
+  "_id": "20221123090641C15",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669194360000"
+    }
+  },
+  "customer_id": "C15",
+  "order_details": [
+    {
+      "product_id": "HA6",
+      "quantity": 2,
+      "cost": 124.45
+    }
+  ],
+  "total_cost": 248.9,
+  "partner_id": "PA4",
+  "shipping_id": "AD16",
+  "supplier_id": "W1",
+  "order_status": 5
+},{
+  "_id": "20221123110446C20",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669201440000"
+    }
+  },
+  "customer_id": "C20",
+  "order_details": [
+    {
+      "product_id": "FP6",
+      "quantity": 3,
+      "cost": 3.2
+    }
+  ],
+  "total_cost": 9.6,
+  "partner_id": "PA1",
+  "shipping_id": "AD22",
+  "supplier_id": "ST2",
+  "order_status": 5
+},{
+  "_id": "20221123123804C17",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669207080000"
+    }
+  },
+  "customer_id": "C17",
+  "order_details": [
+    {
+      "product_id": "FP15",
+      "quantity": 4,
+      "cost": 2.8
+    }
+  ],
+  "total_cost": 11.2,
+  "partner_id": "PA5",
+  "shipping_id": "AD18",
+  "supplier_id": "ST3",
+  "order_status": 5
+},{
+  "_id": "20221123124718C14",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669207620000"
+    }
+  },
+  "customer_id": "C14",
+  "order_details": [
+    {
+      "product_id": "FP3",
+      "quantity": 5,
+      "cost": 2
+    }
+  ],
+  "total_cost": 10,
+  "partner_id": "PA4",
+  "shipping_id": "AD15",
+  "supplier_id": "ST1",
+  "order_status": 5
+},{
+  "_id": "20221123145615C14",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669215360000"
+    }
+  },
+  "customer_id": "C14",
+  "order_details": [
+    {
+      "product_id": "PH7",
+      "quantity": 5,
+      "cost": 599
+    }
+  ],
+  "total_cost": 2995,
+  "partner_id": "PA1",
+  "shipping_id": "AD15",
+  "supplier_id": "W2",
+  "order_status": 5
+},{
+  "_id": "20221123150009C18",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669215600000"
+    }
+  },
+  "customer_id": "C18",
+  "order_details": [
+    {
+      "product_id": "FP15",
+      "quantity": 4,
+      "cost": 2.8
+    }
+  ],
+  "total_cost": 11.2,
+  "partner_id": "PA2",
+  "shipping_id": "AD19",
+  "supplier_id": "ST1",
+  "order_status": 5
+},{
+  "_id": "20221123170627C18",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669223160000"
+    }
+  },
+  "customer_id": "C18",
+  "order_details": [
+    {
+      "product_id": "B5",
+      "quantity": 3,
+      "cost": 13.5
+    }
+  ],
+  "total_cost": 40.5,
+  "partner_id": "PA4",
+  "shipping_id": "AD19",
+  "supplier_id": "W2",
+  "order_status": 5
+},{
+  "_id": "20221123181823C20",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669227480000"
+    }
+  },
+  "customer_id": "C20",
+  "order_details": [
+    {
+      "product_id": "CD1",
+      "quantity": 2,
+      "cost": 14.87
+    }
+  ],
+  "total_cost": 29.74,
+  "partner_id": "PA3",
+  "shipping_id": "AD22",
+  "supplier_id": "W2",
+  "order_status": 5
+},{
+  "_id": "20221124024113C5",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669257660000"
+    }
+  },
+  "customer_id": "C5",
+  "order_details": [
+    {
+      "product_id": "PH9",
+      "quantity": 5,
+      "cost": 849
+    }
+  ],
+  "total_cost": 4245,
+  "partner_id": "PA3",
+  "shipping_id": "AD5",
+  "supplier_id": "W3",
+  "order_status": 5
+},{
+  "_id": "20221124103446C10",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669286040000"
+    }
+  },
+  "customer_id": "C10",
+  "order_details": [
+    {
+      "product_id": "CD4",
+      "quantity": 4,
+      "cost": 16.58
+    }
+  ],
+  "total_cost": 66.32,
+  "partner_id": "PA4",
+  "shipping_id": "AD10",
+  "supplier_id": "W3",
+  "order_status": 5
+},{
+  "_id": "20221124172303C18",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669310580000"
+    }
+  },
+  "customer_id": "C18",
+  "order_details": [
+    {
+      "product_id": "HA10",
+      "quantity": 3,
+      "cost": 37.04
+    }
+  ],
+  "total_cost": 111.12,
+  "partner_id": "PA3",
+  "shipping_id": "AD19",
+  "supplier_id": "W1",
+  "order_status": 5
+},{
+  "_id": "20221124222209C3",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669328520000"
+    }
+  },
+  "customer_id": "C3",
+  "order_details": [
+    {
+      "product_id": "FP15",
+      "quantity": 5,
+      "cost": 2.8
+    }
+  ],
+  "total_cost": 14,
+  "partner_id": "PA3",
+  "shipping_id": "AD3",
+  "supplier_id": "ST1",
+  "order_status": 5
+},{
+  "_id": "20221124225226C12",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669330320000"
+    }
+  },
+  "customer_id": "C12",
+  "order_details": [
+    {
+      "product_id": "HA3",
+      "quantity": 5,
+      "cost": 20.74
+    }
+  ],
+  "total_cost": 103.7,
+  "partner_id": "PA5",
+  "shipping_id": "AD12",
+  "supplier_id": "W1",
+  "order_status": 5
+},{
+  "_id": "20221125024728C14",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669344420000"
+    }
+  },
+  "customer_id": "C14",
+  "order_details": [
+    {
+      "product_id": "HA1",
+      "quantity": 5,
+      "cost": 58.99
+    }
+  ],
+  "total_cost": 294.95,
+  "partner_id": "PA3",
+  "shipping_id": "AD15",
+  "supplier_id": "W1",
+  "order_status": 5
+},{
+  "_id": "20221125033627C20",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669347360000"
+    }
+  },
+  "customer_id": "C20",
+  "order_details": [
+    {
+      "product_id": "HA9",
+      "quantity": 4,
+      "cost": 61.75
+    }
+  ],
+  "total_cost": 247,
+  "partner_id": "PA1",
+  "shipping_id": "AD22",
+  "supplier_id": "W2",
+  "order_status": 5
+},{
+  "_id": "20221125053427C10",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669354440000"
+    }
+  },
+  "customer_id": "C10",
+  "order_details": [
+    {
+      "product_id": "FP10",
+      "quantity": 2,
+      "cost": 2
+    }
+  ],
+  "total_cost": 4,
+  "partner_id": "PA1",
+  "shipping_id": "AD10",
+  "supplier_id": "ST2",
+  "order_status": 5
+},{
+  "_id": "20221125060258C13",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669356120000"
+    }
+  },
+  "customer_id": "C13",
+  "order_details": [
+    {
+      "product_id": "HA9",
+      "quantity": 1,
+      "cost": 61.75
+    }
+  ],
+  "total_cost": 61.75,
+  "partner_id": "PA2",
+  "shipping_id": "AD13",
+  "supplier_id": "W1",
+  "order_status": 5
+},{
+  "_id": "20221125091707C4",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669367820000"
+    }
+  },
+  "customer_id": "C4",
+  "order_details": [
+    {
+      "product_id": "CD9",
+      "quantity": 3,
+      "cost": 18.2
+    }
+  ],
+  "total_cost": 54.6,
+  "partner_id": "PA4",
+  "shipping_id": "AD4",
+  "supplier_id": "W3",
+  "order_status": 5
+},{
+  "_id": "20221125201234C16",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669407120000"
+    }
+  },
+  "customer_id": "C16",
+  "order_details": [
+    {
+      "product_id": "HA5",
+      "quantity": 4,
+      "cost": 29.01
+    }
+  ],
+  "total_cost": 116.04,
+  "partner_id": "PA1",
+  "shipping_id": "AD17",
+  "supplier_id": "W1",
+  "order_status": 5
+},{
+  "_id": "20221126063618C4",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669444560000"
+    }
+  },
+  "customer_id": "C4",
+  "order_details": [
+    {
+      "product_id": "PH5",
+      "quantity": 3,
+      "cost": 849
+    }
+  ],
+  "total_cost": 2547,
+  "partner_id": "PA5",
+  "shipping_id": "AD4",
+  "supplier_id": "W1",
+  "order_status": 5
+},{
+  "_id": "20221126091347C7",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669453980000"
+    }
+  },
+  "customer_id": "C7",
+  "order_details": [
+    {
+      "product_id": "FP14",
+      "quantity": 2,
+      "cost": 2.9
+    }
+  ],
+  "total_cost": 5.8,
+  "partner_id": "PA4",
+  "shipping_id": "AD7",
+  "supplier_id": "ST2",
+  "order_status": 5
+},{
+  "_id": "20221126172111C8",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669483260000"
+    }
+  },
+  "customer_id": "C8",
+  "order_details": [
+    {
+      "product_id": "CD8",
+      "quantity": 5,
+      "cost": 20.65
+    }
+  ],
+  "total_cost": 103.25,
+  "partner_id": "PA1",
+  "shipping_id": "AD8",
+  "supplier_id": "W2",
+  "order_status": 5
+},{
+  "_id": "20221126203933C3",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669495140000"
+    }
+  },
+  "customer_id": "C3",
+  "order_details": [
+    {
+      "product_id": "FP9",
+      "quantity": 5,
+      "cost": 2
+    }
+  ],
+  "total_cost": 10,
+  "partner_id": "PA2",
+  "shipping_id": "AD3",
+  "supplier_id": "ST3",
+  "order_status": 5
+},{
+  "_id": "20221126215357C13",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669499580000"
+    }
+  },
+  "customer_id": "C13",
+  "order_details": [
+    {
+      "product_id": "FP11",
+      "quantity": 2,
+      "cost": 4
+    }
+  ],
+  "total_cost": 8,
+  "partner_id": "PA4",
+  "shipping_id": "AD13",
+  "supplier_id": "ST4",
+  "order_status": 5
+},{
+  "_id": "20221127072508C12",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669533900000"
+    }
+  },
+  "customer_id": "C12",
+  "order_details": [
+    {
+      "product_id": "FP12",
+      "quantity": 5,
+      "cost": 5
+    }
+  ],
+  "total_cost": 25,
+  "partner_id": "PA3",
+  "shipping_id": "AD12",
+  "supplier_id": "ST2",
+  "order_status": 5
+},{
+  "_id": "20221127134611C8",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669556760000"
+    }
+  },
+  "customer_id": "C8",
+  "order_details": [
+    {
+      "product_id": "B7",
+      "quantity": 4,
+      "cost": 16.99
+    }
+  ],
+  "total_cost": 67.96,
+  "partner_id": "PA3",
+  "shipping_id": "AD8",
+  "supplier_id": "W3",
+  "order_status": 5
+},{
+  "_id": "20221127195511C16",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669578900000"
+    }
+  },
+  "customer_id": "C16",
+  "order_details": [
+    {
+      "product_id": "B10",
+      "quantity": 1,
+      "cost": 15.75
+    }
+  ],
+  "total_cost": 15.75,
+  "partner_id": "PA4",
+  "shipping_id": "AD17",
+  "supplier_id": "W2",
+  "order_status": 5
+},{
+  "_id": "20221127230915C7",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669590540000"
+    }
+  },
+  "customer_id": "C7",
+  "order_details": [
+    {
+      "product_id": "HA7",
+      "quantity": 4,
+      "cost": 329.39
+    }
+  ],
+  "total_cost": 1317.56,
+  "partner_id": "PA3",
+  "shipping_id": "AD7",
+  "supplier_id": "W3",
+  "order_status": 5
+},{
+  "_id": "20221128045203C2",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669611120000"
+    }
+  },
+  "customer_id": "C2",
+  "order_details": [
+    {
+      "product_id": "FP11",
+      "quantity": 2,
+      "cost": 4
+    }
+  ],
+  "total_cost": 8,
+  "partner_id": "PA3",
+  "shipping_id": "AD2",
+  "supplier_id": "ST1",
+  "order_status": 5
+},{
+  "_id": "20221128101456C6",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669630440000"
+    }
+  },
+  "customer_id": "C6",
+  "order_details": [
+    {
+      "product_id": "HA10",
+      "quantity": 3,
+      "cost": 37.04
+    }
+  ],
+  "total_cost": 111.12,
+  "partner_id": "PA5",
+  "shipping_id": "AD6",
+  "supplier_id": "W2",
+  "order_status": 5
+},{
+  "_id": "20221128103134C2",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669631460000"
+    }
+  },
+  "customer_id": "C2",
+  "order_details": [
+    {
+      "product_id": "HA3",
+      "quantity": 4,
+      "cost": 20.74
+    }
+  ],
+  "total_cost": 82.96,
+  "partner_id": "PA3",
+  "shipping_id": "AD2",
+  "supplier_id": "W2",
+  "order_status": 5
+},{
+  "_id": "20221128150213C8",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669647720000"
+    }
+  },
+  "customer_id": "C8",
+  "order_details": [
+    {
+      "product_id": "FP1",
+      "quantity": 5,
+      "cost": 2
+    }
+  ],
+  "total_cost": 10,
+  "partner_id": "PA1",
+  "shipping_id": "AD8",
+  "supplier_id": "ST2",
+  "order_status": 5
+},{
+  "_id": "20221129045815C7",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669697880000"
+    }
+  },
+  "customer_id": "C7",
+  "order_details": [
+    {
+      "product_id": "PH6",
+      "quantity": 1,
+      "cost": 769
+    }
+  ],
+  "total_cost": 769,
+  "partner_id": "PA1",
+  "shipping_id": "AD7",
+  "supplier_id": "W2",
+  "order_status": 5
+},{
+  "_id": "20221129063833C8",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669703880000"
+    }
+  },
+  "customer_id": "C8",
+  "order_details": [
+    {
+      "product_id": "FP4",
+      "quantity": 5,
+      "cost": 6.8
+    }
+  ],
+  "total_cost": 34,
+  "partner_id": "PA2",
+  "shipping_id": "AD8",
+  "supplier_id": "ST5",
+  "order_status": 5
+},{
+  "_id": "20221129073144C10",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669707060000"
+    }
+  },
+  "customer_id": "C10",
+  "order_details": [
+    {
+      "product_id": "CD2",
+      "quantity": 3,
+      "cost": 11.48
+    }
+  ],
+  "total_cost": 34.44,
+  "partner_id": "PA4",
+  "shipping_id": "AD10",
+  "supplier_id": "W3",
+  "order_status": 5
+},{
+  "_id": "20221129165530C20",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669740900000"
+    }
+  },
+  "customer_id": "C20",
+  "order_details": [
+    {
+      "product_id": "PH8",
+      "quantity": 4,
+      "cost": 500
+    }
+  ],
+  "total_cost": 2000,
+  "partner_id": "PA1",
+  "shipping_id": "AD22",
+  "supplier_id": "W2",
+  "order_status": 5
+},{
+  "_id": "20221129203826C11",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669754280000"
+    }
+  },
+  "customer_id": "C11",
+  "order_details": [
+    {
+      "product_id": "FP8",
+      "quantity": 2,
+      "cost": 10
+    }
+  ],
+  "total_cost": 20,
+  "partner_id": "PA5",
+  "shipping_id": "AD11",
+  "supplier_id": "ST5",
+  "order_status": 5
+},{
+  "_id": "20221129225553C10",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669762500000"
+    }
+  },
+  "customer_id": "C10",
+  "order_details": [
+    {
+      "product_id": "CD10",
+      "quantity": 5,
+      "cost": 8.28
+    }
+  ],
+  "total_cost": 41.4,
+  "partner_id": "PA4",
+  "shipping_id": "AD10",
+  "supplier_id": "W1",
+  "order_status": 5
+},{
+  "_id": "20221130055917C11",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669787940000"
+    }
+  },
+  "customer_id": "C11",
+  "order_details": [
+    {
+      "product_id": "FP2",
+      "quantity": 5,
+      "cost": 2.7
+    }
+  ],
+  "total_cost": 13.5,
+  "partner_id": "PA1",
+  "shipping_id": "AD11",
+  "supplier_id": "ST2",
+  "order_status": 5
+},{
+  "_id": "20221130065526C4",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669791300000"
+    }
+  },
+  "customer_id": "C4",
+  "order_details": [
+    {
+      "product_id": "FP14",
+      "quantity": 4,
+      "cost": 2.9
+    }
+  ],
+  "total_cost": 11.6,
+  "partner_id": "PA2",
+  "shipping_id": "AD4",
+  "supplier_id": "ST2",
+  "order_status": 5
+},{
+  "_id": "20221130120552C13",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669809900000"
+    }
+  },
+  "customer_id": "C13",
+  "order_details": [
+    {
+      "product_id": "CD4",
+      "quantity": 2,
+      "cost": 16.58
+    }
+  ],
+  "total_cost": 33.16,
+  "partner_id": "PA4",
+  "shipping_id": "AD13",
+  "supplier_id": "W1",
+  "order_status": 5
+},{
+  "_id": "20221130134756C5",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669816020000"
+    }
+  },
+  "customer_id": "C5",
+  "order_details": [
+    {
+      "product_id": "B4",
+      "quantity": 3,
+      "cost": 14
+    }
+  ],
+  "total_cost": 42,
+  "partner_id": "PA3",
+  "shipping_id": "AD5",
+  "supplier_id": "W3",
+  "order_status": 5
+},{
+  "_id": "20221130201421C8",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669839240000"
+    }
+  },
+  "customer_id": "C8",
+  "order_details": [
+    {
+      "product_id": "PH10",
+      "quantity": 3,
+      "cost": 449
+    }
+  ],
+  "total_cost": 1347,
+  "partner_id": "PA3",
+  "shipping_id": "AD8",
+  "supplier_id": "W1",
+  "order_status": 5
+},{
+  "_id": "20221130221856C13",
+  "order_date": {
+    "$date": {
+      "$numberLong": "1669846680000"
+    }
+  },
+  "customer_id": "C13",
+  "order_details": [
+    {
+      "product_id": "B1",
+      "quantity": 3,
+      "cost": 12.99
+    }
+  ],
+  "total_cost": 38.97,
+  "partner_id": "PA4",
+  "shipping_id": "AD13",
+  "supplier_id": "W2",
+  "order_status": 5
+}]

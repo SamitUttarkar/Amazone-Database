@@ -1,0 +1,121 @@
+[{
+  "_id": "PA1",
+  "name": "Mike Dean",
+  "age": 20,
+  "gender": "M",
+  "phone": "07618259974",
+  "email": "mike.dean@gmail.com",
+  "bank_account": {
+    "account_name": "Mike Dean",
+    "account_number": 90375644,
+    "sort_code": "040066"
+  },
+  "availabilty": {
+    "is_active": 1,
+    "on_delivery": 1,
+    "location": {
+      "longitude": 53.4677271663732,
+      "latitude": -2.2644175798471
+    }
+  },
+  "deliveries_made": 150,
+  "avg_per_week": 14.5,
+  "best_week": 20,
+  "number_of_week": 12
+},{
+  "_id": "PA2",
+  "name": "Robert Chaniago",
+  "age": 23,
+  "gender": "M",
+  "phone": "07412744098",
+  "email": "robert.chan@gmail.com",
+  "bank_account": {
+    "account_name": "Robert Chaniago",
+    "account_number": 90375895,
+    "sort_code": "040067"
+  },
+  "availabilty": {
+    "is_active": 1,
+    "on_delivery": 0,
+    "location": {
+      "longitude": 53.4680182503661,
+      "latitude": -2.25975047297267
+    }
+  },
+  "deliveries_made": 90,
+  "avg_per_week": 10,
+  "best_week": 15,
+  "number_of_week": 9
+},{
+  "_id": "PA3",
+  "name": "Hashim Ridwan",
+  "age": 34,
+  "gender": "M",
+  "phone": "07212327676",
+  "email": "hashim.ridwan@gmail.com",
+  "bank_account": {
+    "account_name": "Hashim Ridwan",
+    "account_number": 90375949,
+    "sort_code": "040068"
+  },
+  "availabilty": {
+    "is_active": 1,
+    "on_delivery": 0,
+    "location": {
+      "longitude": 53.4776969799554,
+      "latitude": -2.24981381392062
+    }
+  },
+  "deliveries_made": 140,
+  "avg_per_week": 6,
+  "best_week": 18,
+  "number_of_week": 5
+},{
+  "_id": "PA4",
+  "name": "Sebastian Kanu",
+  "age": 45,
+  "gender": "M",
+  "phone": "07316371076",
+  "email": "se.kanu@gmail.com",
+  "bank_account": {
+    "account_name": "Sebastian Kanu",
+    "account_number": 90379876,
+    "sort_code": "040069"
+  },
+  "availabilty": {
+    "is_active": 1,
+    "on_delivery": 0,
+    "location": {
+      "longitude": 53.4790061833328,
+      "latitude": -2.24166613179563
+    }
+  },
+  "deliveries_made": 125,
+  "avg_per_week": 12.5,
+  "best_week": 20,
+  "number_of_week": 10
+},{
+  "_id": "PA5",
+  "name": "Alan Smith",
+  "age": 29,
+  "gender": "M",
+  "phone": "07518346320",
+  "email": "alan.smith@gmail.com",
+  "bank_account": {
+    "account_name": "Alan Smith",
+    "account_number": 90370873,
+    "sort_code": "040070"
+  },
+  "availabilty": {
+    "is_active": 1,
+    "on_delivery": 0,
+    "location": {
+      "longitude": 53.4670279483458,
+      "latitude": -2.23420195516825
+    }
+  },
+  "deliveries_made": 120,
+  "avg_per_week": 10,
+  "best_week": 15,
+  "number_of_week": 12
+}]

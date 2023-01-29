@@ -1,0 +1,96 @@
+
+# Step 2: Create current order (Insert a current order in C1) and set current status to
+"added to cart":
+db.customers.updateOne({
+    "_id":"C1"
+}, {
+} });
+"$push":{
+   "current_orders":
+   {
+           "_id":"20230104094539C1",
+           "date":"2023-01-04 09:45:39",
+           "order_status":1,
+           "total_cost":33.98,
+           "partner_id":"",
+           "shipping_id":"AD1",
+           "supplier_id":"W2",
+           "order_details":[
+{
+}
+] }
+"product_id":"B8",
+"quantity":2,
+"cost":16.99
+#Step 3: Change order status to "paid":
+db.customers.updateOne({
+    "_id":"C1",
+    "current_orders.3.order_status":1
+},
+{
+"$set":{
+       "current_orders.3.order_status":2
+    }
+})
+#Step 4: Deduct the quantity of items ordered
+db.suppliers.updateOne({
+    "_id":"W2",
+    "realtime_inventory.7.quantity":14
+},
+{
+"$set":{
+       "realtime_inventory.7.quantity":12
+    }
+})
+
+
+
+
+#Step 1: Customer Looking for a product:
+db.products.find( { "cd.artist_name": "Led Zepellin" }, { _id: 0, name: 1, avg_ratings:1,
+std_price:1,"cd.artist_name":1} )
+#Step 2: Create current order (Insert a current order in C1) and set current status to
+"added to cart":
+db.customers.updateOne({
+   "_id":"C3"
+}, {
+}
+"$push":{
+    "current_orders":
+{
+}
+"_id":"20230104054212C3",
+"date":new ISODate("2023-01-04T05:42:12.000+00:00"),
+"order_status":1,
+"total_cost":11.48,
+"partner_id":"",
+"shipping_id":"AD3",
+"supplier_id":"W1",
+"order_details":[
+{
+"product_id":"CD2",
+"quantity":1,
+"cost":11.48
+}
+]
+});
+#Step 3: Change order status to "paid":
+db.customers.updateOne({
+   "_id":"C3",
+   "current_orders.2.order_status":1
+},
+{
+"$set":{
+       "current_orders.2.order_status":2
+   }
+})
+#Step 4: Deduct the quantity of items ordered
+db.suppliers.updateOne({
+   "_id":"W1",
+   "realtime_inventory.11.quantity":26
+},
+{
+"$set":{
+       "realtime_inventory.11.quantity":25
+   }
+})
